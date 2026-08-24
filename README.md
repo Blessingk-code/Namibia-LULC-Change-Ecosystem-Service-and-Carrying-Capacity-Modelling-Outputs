@@ -1,0 +1,2 @@
+# Namibia-LULC-Change-Ecosystem-Service-and-Carrying-Capacity-Modelling-Outputs
+This repository contains spatial and tabular outputs from an integrated land-use and land-cover (LULC), ecosystem-service, and animal carrying-capacity modelling assessment for Namibia.  The analysis combines historical LULC change, future LULC projections, stakeholder-informed conservation and adaptation interventions, ecosystem-service model.
