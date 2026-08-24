@@ -215,7 +215,6 @@ This distinction is important for maintaining the native units of InVEST-derived
 
 Users should consider the following when interpreting the outputs:
 
-- Future results represent modelled scenarios rather than predictions of exact future conditions.
 - The with-intervention scenarios represent the subset of stakeholder interventions that could be translated into spatial LULC changes.
 - Infrastructure, socio-economic, institutional, and other non-LULC interventions are not fully represented by the spatial scenario modelling.
 - Habitat Quality is a relative habitat-condition indicator and is not a direct measure of species abundance.
