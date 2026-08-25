@@ -1,0 +1,73 @@
+"spatial_unit","unit_id","unit","climate_scenario","feeding_regime","livestock_species","mean_without_intervention_animals","mean_with_intervention_animals","mean_intervention_benefit_animals","median_intervention_benefit_animals","mean_intervention_benefit_pct","median_intervention_benefit_pct"
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","SSP245_2050","Browser-Mixed",1,516299,697773,181475,181475,35.1491894901121,35.1491894901121
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","SSP245_2050","Grazer",2,83605,212424,128820,128820,177.392351118235,177.392351118235
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","SSP245_2050","Grazer-Mixed",1,317982,757500,439518,439518,138.220914831482,138.220914831482
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","SSP245_2090","Browser-Mixed",1,492631,665633,173001,173001,35.117834745501,35.117834745501
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","SSP245_2090","Grazer",2,78676,201885,123210,123210,180.832382060289,180.832382060289
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","SSP245_2090","Grazer-Mixed",1,300010,720262,420252,420252,140.079307426218,140.079307426218
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","SSP585_2050","Browser-Mixed",1,500077,677538,177461,177461,35.4868200618982,35.4868200618982
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","SSP585_2050","Grazer",2,81069,206541,125472,125472,178.289142993792,178.289142993792
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","SSP585_2050","Grazer-Mixed",1,307985,736236,428251,428251,139.049144801495,139.049144801495
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","SSP585_2090","Browser-Mixed",1,459516,618352,158836,158836,34.5659231380257,34.5659231380257
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","SSP585_2090","Grazer",2,73178,187087,113909,113909,179.607529442356,179.607529442356
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","SSP585_2090","Grazer-Mixed",1,279629,667913,388285,388285,138.857348233594,138.857348233594
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","SSP245_2050","Browser-Mixed",1,393152,381677,-11475,-11475,-2.91878713124353,-2.91878713124353
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","SSP245_2050","Grazer",2,57050,66574,9525,9525,18.2704638678465,18.2704638678465
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","SSP245_2050","Grazer-Mixed",1,256299,282721,26421,26421,10.3086651343441,10.3086651343441
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","SSP245_2090","Browser-Mixed",1,389210,378060,-11150,-11150,-2.86468063203476,-2.86468063203476
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","SSP245_2090","Grazer",2,55781,65955,10174,10174,19.9354154727911,19.9354154727911
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","SSP245_2090","Grazer-Mixed",1,251654,280239,28585,28585,11.3586444425658,11.3586444425658
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","SSP585_2050","Browser-Mixed",1,390749,376183,-14566,-14566,-3.72769425123561,-3.72769425123561
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","SSP585_2050","Grazer",2,56860,64974,8114,8114,15.8933592015244,15.8933592015244
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","SSP585_2050","Grazer-Mixed",1,255311,276405,21094,21094,8.26202033142173,8.26202033142173
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","SSP585_2090","Browser-Mixed",1,368374,354260,-14114,-14114,-3.83143547524773,-3.83143547524773
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","SSP585_2090","Grazer",2,52827,60832,8005,8005,16.8980873590327,16.8980873590327
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","SSP585_2090","Grazer-Mixed",1,238303,259215,20912,20912,8.77523499133343,8.77523499133343
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","SSP245_2050","Browser-Mixed",1,3212302,2801295,-411007,-411007,-12.7947668567666,-12.7947668567666
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","SSP245_2050","Grazer",2,359464,974438,614974,614974,189.490027690742,189.490027690742
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","SSP245_2050","Grazer-Mixed",1,1706000,3523421,1817422,1817422,106.531173330079,106.531173330079
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","SSP245_2090","Browser-Mixed",1,3109782,2710839,-398943,-398943,-12.8286514980076,-12.8286514980076
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","SSP245_2090","Grazer",2,345807,942717,596910,596910,191.348188529314,191.348188529314
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","SSP245_2090","Grazer-Mixed",1,1644814,3408855,1764041,1764041,107.248654298079,107.248654298079
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","SSP585_2050","Browser-Mixed",1,3109404,2711562,-397842,-397842,-12.7948114725758,-12.7948114725758
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","SSP585_2050","Grazer",2,347949,943226,595277,595277,189.491151256139,189.491151256139
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","SSP585_2050","Grazer-Mixed",1,1651350,3410561,1759211,1759211,106.531733017597,106.531733017597
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","SSP585_2090","Browser-Mixed",1,2920990,2546269,-374721,-374721,-12.8285771496536,-12.8285771496536
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","SSP585_2090","Grazer",2,324806,885475,560669,560669,191.351811656332,191.351811656332
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","SSP585_2090","Grazer-Mixed",1,1544937,3201875,1656938,1656938,107.249561893024,107.249561893024
+"Cluster","Cluster_4","Cluster E — Kunene (North)","SSP245_2050","Browser-Mixed",1,1597670,1864495,266825,266825,16.7008905746013,16.7008905746013
+"Cluster","Cluster_4","Cluster E — Kunene (North)","SSP245_2050","Grazer",2,216178,620054,403877,403877,209.5808639419,209.5808639419
+"Cluster","Cluster_4","Cluster E — Kunene (North)","SSP245_2050","Grazer-Mixed",1,918957,2230524,1311567,1311567,142.723387681597,142.723387681597
+"Cluster","Cluster_4","Cluster E — Kunene (North)","SSP245_2090","Browser-Mixed",1,1524073,1777228,253155,253155,16.6104117685892,16.6104117685892
+"Cluster","Cluster_4","Cluster E — Kunene (North)","SSP245_2090","Grazer",2,204430,590353,385923,385923,212.047472725887,212.047472725887
+"Cluster","Cluster_4","Cluster E — Kunene (North)","SSP245_2090","Grazer-Mixed",1,871199,2124064,1252865,1252865,143.809257825394,143.809257825394
+"Cluster","Cluster_4","Cluster E — Kunene (North)","SSP585_2050","Browser-Mixed",1,1546521,1808094,261574,261574,16.9136818574142,16.9136818574142
+"Cluster","Cluster_4","Cluster E — Kunene (North)","SSP585_2050","Grazer",2,209416,601664,392248,392248,210.160232275683,210.160232275683
+"Cluster","Cluster_4","Cluster E — Kunene (North)","SSP585_2050","Grazer-Mixed",1,889681,2164018,1274337,1274337,143.235253113592,143.235253113592
+"Cluster","Cluster_4","Cluster E — Kunene (North)","SSP585_2090","Browser-Mixed",1,1446464,1684218,237753,237753,16.4368711476726,16.4368711476726
+"Cluster","Cluster_4","Cluster E — Kunene (North)","SSP585_2090","Grazer",2,193500,559059,365559,365559,212.240908363987,212.240908363987
+"Cluster","Cluster_4","Cluster E — Kunene (North)","SSP585_2090","Grazer-Mixed",1,825489,2011795,1186306,1186306,143.709547553468,143.709547553468
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","SSP245_2050","Browser-Mixed",1,735757,699099,-36658,-36658,-4.98240689654854,-4.98240689654854
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","SSP245_2050","Grazer",2,143746,197599,53853,53853,39.5715561519997,39.5715561519997
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","SSP245_2050","Grazer-Mixed",1,580119,738611,158492,158492,27.3205308159042,27.3205308159042
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","SSP245_2090","Browser-Mixed",1,711984,676091,-35893,-35893,-5.04130210053325,-5.04130210053325
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","SSP245_2090","Grazer",2,138445,191564,53119,53119,40.541357201596,40.541357201596
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","SSP245_2090","Grazer-Mixed",1,559143,715720,156576,156576,28.0028821041687,28.0028821041687
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","SSP585_2050","Browser-Mixed",1,709618,674360,-35258,-35258,-4.96854895723442,-4.96854895723442
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","SSP585_2050","Grazer",2,138598,191339,52741,52741,40.1795008577753,40.1795008577753
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","SSP585_2050","Grazer-Mixed",1,559383,714795,155412,155412,27.7826775472955,27.7826775472955
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","SSP585_2090","Browser-Mixed",1,677998,643813,-34186,-34186,-5.04212874139612,-5.04212874139612
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","SSP585_2090","Grazer",2,131820,182374,50554,50554,40.5245121403266,40.5245121403266
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","SSP585_2090","Grazer-Mixed",1,532403,681412,149010,149010,27.9881726713985,27.9881726713985
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","SSP245_2050","Browser-Mixed",1,186844,226735,39891,39891,21.3497484788459,21.3497484788459
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","SSP245_2050","Grazer",2,60138,84088,23950,23950,41.4634784972427,41.4634784972427
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","SSP245_2050","Grazer-Mixed",1,212437,295503,83067,83067,39.1018354823749,39.1018354823749
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","SSP245_2090","Browser-Mixed",1,177972,217130,39158,39158,22.0024965467755,22.0024965467755
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","SSP245_2090","Grazer",2,57413,80638,23225,23225,42.1333644608497,42.1333644608497
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","SSP245_2090","Grazer-Mixed",1,202531,283189,80658,80658,39.8252860972817,39.8252860972817
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","SSP585_2050","Browser-Mixed",1,180154,218680,38526,38526,21.3851026219897,21.3851026219897
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","SSP585_2050","Grazer",2,57952,81082,23130,23130,41.5569450120978,41.5569450120978
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","SSP585_2050","Grazer-Mixed",1,204716,284938,80222,80222,39.1871694301582,39.1871694301582
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","SSP585_2090","Browser-Mixed",1,160559,196040,35481,35481,22.0985997906869,22.0985997906869
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","SSP585_2090","Grazer",2,51818,72833,21015,21015,42.241323440561,42.241323440561
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","SSP585_2090","Grazer-Mixed",1,182756,255749,72992,72992,39.9396653188222,39.9396653188222
