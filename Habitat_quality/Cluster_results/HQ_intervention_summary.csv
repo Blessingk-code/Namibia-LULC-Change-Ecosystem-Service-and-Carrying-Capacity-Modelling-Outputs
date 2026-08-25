@@ -1,0 +1,7 @@
+"PA_ID","PA","Cluster","Current_Habitat_Quality","Mean_Without_Intervention_HQ","Mean_With_Intervention_HQ","Intervention_Change","Intervention_Change_pct"
+1,"Cluster A — South, Kunene South & Erongo","Cluster A — South, Kunene South & Erongo",0.0963378015482837,0.0946646531594231,0.121838562449143,0.0271739092897195,28.7054443055492
+2,"Cluster C — Kavango East, Kavango West & Zambezi","Cluster C — Kavango East, Kavango West & Zambezi",0.224268864790585,0.224505963060676,0.224137157161442,-0.000368805899233854,-0.164274433607886
+3,"Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)",0.227379684286362,0.223251259447477,0.209678028802206,-0.0135732306452709,-6.07980025683315
+4,"Cluster E — Kunene (North)","Cluster E — Kunene (North)",0.140580158234551,0.13841770762709,0.163440353191212,0.0250226455641211,18.077633268956
+5,"Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena",0.218110404703873,0.216731058481297,0.212503891555502,-0.00422716692579525,-1.9504204683059
+6,"Cluster F —    //Karas,Hardap","Cluster F —    //Karas,Hardap",0.125031646134552,0.117479282655127,0.138859059445984,0.0213797767908561,18.1987634820844
