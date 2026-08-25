@@ -1,0 +1,769 @@
+"spatial_unit","unit_id","unit","species","feeding_group","habitat_profile","climate_scenario","Without_Intervention","With_Intervention","intervention_benefit_raw","intervention_benefit_pct","without_intervention_animals","with_intervention_animals","intervention_benefit_animals"
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Baboon","Omnivore","Omnivore","SSP245_2050",455062.095719224,719091.919399359,264029.823680135,58.020614365351,455062,719092,264030
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Black rhinoceros","Browser","Shrub_Browser","SSP245_2050",19809.6881610284,18850.6286925834,-959.059468444932,-4.84136580368636,19810,18851,-959
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Black-backed Jackal","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Black-faced Impala","Mixed","Mixed_Open","SSP245_2050",316546.773049336,668269.027467922,351722.254418586,111.112253974476,316547,668269,351722
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Blue wildebeest","Grazer","General_Grazer","SSP245_2050",52828.4850047063,165517.908035005,112689.423030299,213.311858214862,52828,165518,112689
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Buffalo","Grazer","General_Grazer","SSP245_2050",23244.5334020708,72827.8795354022,49583.3461333315,213.311858214862,23245,72828,49583
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Burchell's zebra","Grazer","General_Grazer","SSP245_2050",36319.5834407356,113793.561774066,77473.9783333304,213.311858214862,36320,113794,77474
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Bushpig","Omnivore","Omnivore","SSP245_2050",182024.838287689,287636.767759743,105611.929472054,58.0206143653509,182025,287637,105612
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Cheetah","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Damara dik dik","Browser","Shrub_Browser","SSP245_2050",3961937.63220567,3770125.73851668,-191811.893688987,-4.84136580368636,3961938,3770126,-191812
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Duiker","Browser","Woodland_Browser","SSP245_2050",879768.759853621,821588.222277192,-58180.5375764293,-6.6131624844362,879769,821588,-58181
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Eland","Mixed","Mixed_Open","SSP245_2050",31654.6773049336,66826.9027467922,35172.2254418586,111.112253974476,31655,66827,35172
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Elephant","Mixed","Large_Mixed","SSP245_2050",4871.74381218925,7741.57381518958,2869.83000300033,58.907654294545,4872,7742,2870
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Gemsbok","Mixed","Arid_Mixed","SSP245_2050",87907.6871128776,161778.427893072,73870.7407801947,84.0321742117287,87908,161778,73871
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Giraffe","Browser","Woodland_Browser","SSP245_2050",18112.8862322804,16915.0516351187,-1197.83459716178,-6.61316248443619,18113,16915,-1198
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Hartmann's zebra","Grazer","Arid_Grazer","SSP245_2050",57461.3602054568,126269.122082565,68807.7618771085,119.746141809178,57461,126269,68808
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Hippopotamus","Grazer","Wetland_Grazer","SSP245_2050",2501.65466755424,10847.3379359767,8345.68326842246,333.606527578072,2502,10847,8346
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Impala","Mixed","Mixed_Open","SSP245_2050",316546.773049336,668269.027467922,351722.254418586,111.112253974476,316547,668269,351722
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Klipspringer","Browser","Rocky_Browser","SSP245_2050",1711708.19345446,1556015.53395432,-155692.659500138,-9.09574775043457,1711708,1556016,-155693
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Kudu","Browser","Woodland_Browser","SSP245_2050",81031.3331444125,75672.5994202677,-5358.73372414481,-6.61316248443621,81031,75673,-5359
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Leopard","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Ostrich","Mixed","Mixed_Open","SSP245_2050",158273.386524668,334134.513733961,175861.127209293,111.112253974476,158273,334135,175861
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Red Hartebeest","Grazer","General_Grazer","SSP245_2050",77481.7780069025,242759.598451341,165277.820444438,213.311858214862,77482,242760,165278
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Red Lechwe","Grazer","Wetland_Grazer","SSP245_2050",43778.9566821992,189828.413879592,146049.457197393,333.606527578072,43779,189828,146049
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Reedbuck","Grazer","Wetland_Grazer","SSP245_2050",77829.2563239096,337472.735785942,259643.479462032,333.606527578072,77829,337473,259643
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Roan","Grazer","General_Grazer","SSP245_2050",48426.1112543141,151724.749032088,103298.637777774,213.311858214862,48426,151725,103299
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Sable","Grazer","General_Grazer","SSP245_2050",58111.3335051769,182069.698838506,123958.365333329,213.311858214862,58111,182070,123958
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Spotted Hyaena","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Springbok","Grazer","Arid_Grazer","SSP245_2050",423399.496250734,930404.057450481,507004.561199747,119.746141809178,423399,930404,507005
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Steenbok","Browser","Shrub_Browser","SSP245_2050",1980968.81610284,1885062.86925834,-95905.9468444933,-4.84136580368636,1980969,1885063,-95906
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Vervet monkey","Omnivore","Omnivore","SSP245_2050",2184298.05945227,3451641.21311692,1267343.15366465,58.020614365351,2184298,3451641,1267343
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Warthog","Grazer","General_Grazer","SSP245_2050",166032.381443363,520199.139538587,354166.758095225,213.311858214862,166032,520199,354167
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Baboon","Omnivore","Omnivore","SSP245_2050",412639.047104757,411037.753082439,-1601.29402231844,-0.388061680917928,412639,411038,-1601
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Black rhinoceros","Browser","Shrub_Browser","SSP245_2050",15685.4233198579,13922.3843243977,-1763.03899546023,-11.2399835153202,15685,13922,-1763
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Black-backed Jackal","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Black-faced Impala","Mixed","Mixed_Open","SSP245_2050",252072.864361826,267807.920823587,15735.0564617608,6.2422651091768,252073,267808,15735
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Blue wildebeest","Grazer","General_Grazer","SSP245_2050",43014.3436110803,51999.8095829589,8985.46597187853,20.8894643450142,43014,52000,8985
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Buffalo","Grazer","General_Grazer","SSP245_2050",18926.3111888753,22879.9162165019,3953.60502762655,20.8894643450142,18926,22880,3954
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Burchell's zebra","Grazer","General_Grazer","SSP245_2050",29572.3612326177,35749.8690882842,6177.50785566649,20.8894643450142,29572,35750,6178
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Bushpig","Omnivore","Omnivore","SSP245_2050",165055.618841903,164415.101232976,-640.517608927388,-0.388061680917935,165056,164415,-641
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Cheetah","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Damara dik dik","Browser","Shrub_Browser","SSP245_2050",3137084.66397159,2784476.86487954,-352607.799092045,-11.2399835153202,3137085,2784477,-352608
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Duiker","Browser","Woodland_Browser","SSP245_2050",830166.865138251,771363.468946878,-58803.3961913732,-7.08332248138818,830167,771363,-58803
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Eland","Mixed","Mixed_Open","SSP245_2050",25207.2864361826,26780.7920823587,1573.50564617608,6.2422651091768,25207,26781,1574
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Elephant","Mixed","Large_Mixed","SSP245_2050",3923.46861892726,3904.84191985802,-18.6266990692343,-0.474750810529667,3923,3905,-19
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Gemsbok","Mixed","Arid_Mixed","SSP245_2050",52698.747344037,54731.9246472488,2033.17730321178,3.85811315388285,52699,54732,2033
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Giraffe","Browser","Woodland_Browser","SSP245_2050",17091.6707528464,15881.0125959651,-1210.65815688121,-7.08332248138817,17092,15881,-1211
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Hartmann's zebra","Grazer","Arid_Grazer","SSP245_2050",30735.1570481743,35008.2439467964,4273.08689862214,13.9029284669816,30735,35008,4273
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Hippopotamus","Grazer","Wetland_Grazer","SSP245_2050",4961.56409605946,5721.38414864157,759.820052582114,15.3141234875021,4962,5721,760
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Impala","Mixed","Mixed_Open","SSP245_2050",252072.864361826,267807.920823587,15735.0564617608,6.2422651091768,252073,267808,15735
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Klipspringer","Browser","Rocky_Browser","SSP245_2050",1039770.84576228,913649.591834279,-126121.253927997,-12.1297163160538,1039771,913650,-126121
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Kudu","Browser","Woodland_Browser","SSP245_2050",76462.7375785232,71046.6352977388,-5416.10228078437,-7.08332248138817,76463,71047,-5416
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Leopard","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Ostrich","Mixed","Mixed_Open","SSP245_2050",126036.432180913,133903.960411793,7867.52823088042,6.2422651091768,126036,133904,7868
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Red Hartebeest","Grazer","General_Grazer","SSP245_2050",63087.7039629178,76266.3873883397,13178.6834254218,20.8894643450142,63088,76266,13179
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Red Lechwe","Grazer","Wetland_Grazer","SSP245_2050",86827.3716810405,100124.222601228,13296.850920187,15.3141234875021,86827,100124,13297
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Reedbuck","Grazer","Wetland_Grazer","SSP245_2050",154359.771877405,177998.617957738,23638.8460803324,15.3141234875021,154360,177999,23639
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Roan","Grazer","General_Grazer","SSP245_2050",39429.8149768236,47666.4921177123,8236.67714088865,20.8894643450142,39430,47666,8237
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Sable","Grazer","General_Grazer","SSP245_2050",47315.7779721884,57199.7905412547,9884.01256906638,20.8894643450142,47316,57200,9884
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Spotted Hyaena","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Springbok","Grazer","Arid_Grazer","SSP245_2050",226469.578249705,257955.481713237,31485.9034635315,13.9029284669816,226470,257955,31486
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Steenbok","Browser","Shrub_Browser","SSP245_2050",1568542.33198579,1392238.43243977,-176303.899546023,-11.2399835153202,1568542,1392238,-176304
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Vervet monkey","Omnivore","Omnivore","SSP245_2050",1980667.42610284,1972981.21479571,-7686.21130712866,-0.388061680917935,1980667,1972981,-7686
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Warthog","Grazer","General_Grazer","SSP245_2050",135187.937063395,163427.972975014,28240.0359116182,20.8894643450142,135188,163428,28240
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Baboon","Omnivore","Omnivore","SSP245_2050",3177423.0757311,3177428.833645,5.75791389448568,0.000181213321526622,3177423,3177429,6
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Black rhinoceros","Browser","Shrub_Browser","SSP245_2050",151115.089504678,70699.5970346473,-80415.4924700312,-53.2147337063527,151115,70700,-80415
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Black-backed Jackal","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Black-faced Impala","Mixed","Mixed_Open","SSP245_2050",1999249.01023493,3109025.7336423,1109776.72340736,55.5096797710531,1999249,3109026,1109777
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Blue wildebeest","Grazer","General_Grazer","SSP245_2050",251358.628716938,803315.037987914,551956.409270976,219.589202920323,251359,803315,551956
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Buffalo","Grazer","General_Grazer","SSP245_2050",110597.796635453,353458.616714682,242860.82007923,219.589202920323,110598,353459,242861
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Burchell's zebra","Grazer","General_Grazer","SSP245_2050",172809.057242895,552279.088616691,379470.031373796,219.589202920322,172809,552279,379470
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Bushpig","Omnivore","Omnivore","SSP245_2050",1270969.23029244,1270971.533458,2.30316555779427,0.000181213321526622,1270969,1270972,2
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Cheetah","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Damara dik dik","Browser","Shrub_Browser","SSP245_2050",30223017.9009357,14139919.4069295,-16083098.4940062,-53.2147337063527,30223018,14139919,-16083098
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Duiker","Browser","Woodland_Browser","SSP245_2050",7344092.30631441,3254384.65341375,-4089707.65290067,-55.6870404445265,7344092,3254385,-4089708
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Eland","Mixed","Mixed_Open","SSP245_2050",199924.901023493,310902.57336423,110977.672340736,55.5096797710531,199925,310903,110978
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Elephant","Mixed","Large_Mixed","SSP245_2050",32686.7636351747,33835.9488441576,1149.18520898291,3.51575096821838,32687,33836,1149
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Gemsbok","Mixed","Arid_Mixed","SSP245_2050",475059.470701281,700998.87959733,225939.408896049,47.5602367346804,475059,700999,225939
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Giraffe","Browser","Woodland_Browser","SSP245_2050",151201.90042412,67002.0369820477,-84199.8634420726,-55.6870404445265,151202,67002,-84200
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Hartmann's zebra","Grazer","Arid_Grazer","SSP245_2050",249673.568734018,556984.905737314,307311.337003296,123.085250297632,249674,556985,307311
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Hippopotamus","Grazer","Wetland_Grazer","SSP245_2050",11649.0775849086,55304.1820326823,43655.1044477737,374.751598395472,11649,55304,43655
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Impala","Mixed","Mixed_Open","SSP245_2050",1999249.01023493,3109025.7336423,1109776.72340736,55.5096797710531,1999249,3109026,1109777
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Klipspringer","Browser","Rocky_Browser","SSP245_2050",10301484.2918856,4818621.11174172,-5482863.18014393,-53.2240114607825,10301484,4818621,-5482863
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Kudu","Browser","Woodland_Browser","SSP245_2050",676429.554528959,299745.954919687,-376683.599609272,-55.6870404445265,676430,299746,-376684
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Leopard","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Ostrich","Mixed","Mixed_Open","SSP245_2050",999624.505117467,1554512.86682115,554888.361703681,55.5096797710531,999625,1554513,554888
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Red Hartebeest","Grazer","General_Grazer","SSP245_2050",368659.322118175,1178195.38904894,809536.066930765,219.589202920323,368659,1178195,809536
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Red Lechwe","Grazer","Wetland_Grazer","SSP245_2050",203858.857735901,967823.18557194,763964.327836039,374.751598395472,203859,967823,763964
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Reedbuck","Grazer","Wetland_Grazer","SSP245_2050",362415.747086046,1720574.55212789,1358158.80504185,374.751598395472,362416,1720575,1358159
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Roan","Grazer","General_Grazer","SSP245_2050",230412.076323859,736372.118155588,505960.041831728,219.589202920323,230412,736372,505960
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Sable","Grazer","General_Grazer","SSP245_2050",276494.491588631,883646.541786705,607152.050198074,219.589202920323,276494,883647,607152
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Spotted Hyaena","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Springbok","Grazer","Arid_Grazer","SSP245_2050",1839699.9801454,4104099.30543284,2264399.32528744,123.085250297632,1839700,4104099,2264399
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Steenbok","Browser","Shrub_Browser","SSP245_2050",15111508.9504678,7069959.70346473,-8041549.24700311,-53.2147337063527,15111509,7069960,-8041549
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Vervet monkey","Omnivore","Omnivore","SSP245_2050",15251630.7635093,15251658.401496,27.6379866916686,0.000181213321514409,15251631,15251658,28
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Warthog","Grazer","General_Grazer","SSP245_2050",789984.261681804,2524704.40510487,1734720.14342307,219.589202920323,789984,2524704,1734720
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Baboon","Omnivore","Omnivore","SSP245_2050",1513588.98367883,2043215.87350488,529626.88982605,34.9914603988973,1513589,2043216,529627
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Black rhinoceros","Browser","Shrub_Browser","SSP245_2050",69102.3245523753,48158.9217788325,-20943.4027735428,-30.3078122323786,69102,48159,-20943
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Black-backed Jackal","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Black-faced Impala","Mixed","Mixed_Open","SSP245_2050",998811.413062144,1966865.79727091,968054.384208764,96.9206370240519,998811,1966866,968054
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Blue wildebeest","Grazer","General_Grazer","SSP245_2050",145004.746766797,501615.228057924,356610.481291127,245.930212108604,145005,501615,356610
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Buffalo","Grazer","General_Grazer","SSP245_2050",63802.0885773905,220710.700345486,156908.611768096,245.930212108604,63802,220711,156909
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Burchell's zebra","Grazer","General_Grazer","SSP245_2050",99690.7634021726,344860.469289823,245169.70588765,245.930212108604,99691,344860,245170
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Bushpig","Omnivore","Omnivore","SSP245_2050",605435.593471532,817286.349401951,211850.75593042,34.9914603988973,605436,817286,211851
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Cheetah","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Damara dik dik","Browser","Shrub_Browser","SSP245_2050",13820464.9104751,9631784.35576651,-4188680.55470856,-30.3078122323786,13820465,9631784,-4188681
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Duiker","Browser","Woodland_Browser","SSP245_2050",3250954.60539498,2166752.85937144,-1084201.74602355,-33.3502579280654,3250955,2166753,-1084202
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Eland","Mixed","Mixed_Open","SSP245_2050",99881.1413062144,196686.579727091,96805.4384208764,96.9206370240519,99881,196687,96805
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Elephant","Mixed","Large_Mixed","SSP245_2050",15818.8295330836,21847.4772661416,6028.64773305796,38.1105803084204,15819,21847,6029
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Gemsbok","Mixed","Arid_Mixed","SSP245_2050",253028.479686165,454663.201831146,201634.722144981,79.6885482594966,253028,454663,201635
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Giraffe","Browser","Woodland_Browser","SSP245_2050",66931.4183463673,44609.6176929413,-22321.800653426,-33.3502579280654,66931,44610,-22322
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Hartmann's zebra","Grazer","Arid_Grazer","SSP245_2050",148514.554351397,359236.248011677,210721.69366028,141.886224269775,148515,359236,210722
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Hippopotamus","Grazer","Wetland_Grazer","SSP245_2050",6905.94846178254,33972.9587309466,27067.0102691641,391.937623325061,6906,33973,27067
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Impala","Mixed","Mixed_Open","SSP245_2050",998811.413062144,1966865.79727091,968054.384208764,96.9206370240519,998811,1966866,968054
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Klipspringer","Browser","Rocky_Browser","SSP245_2050",5163313.16561851,3554260.29505313,-1609052.87056539,-31.1631857095121,5163313,3554260,-1609053
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Kudu","Browser","Woodland_Browser","SSP245_2050",299430.029444275,199569.342310527,-99860.6871337478,-33.3502579280654,299430,199569,-99861
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Leopard","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Ostrich","Mixed","Mixed_Open","SSP245_2050",499405.706531072,983432.898635454,484027.192104382,96.9206370240519,499406,983433,484027
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Red Hartebeest","Grazer","General_Grazer","SSP245_2050",212673.628591302,735702.334484955,523028.705893653,245.930212108604,212674,735702,523029
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Red Lechwe","Grazer","Wetland_Grazer","SSP245_2050",120854.098081194,594526.777791566,473672.679710371,391.937623325061,120854,594527,473673
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Reedbuck","Grazer","Wetland_Grazer","SSP245_2050",214851.729922123,1056936.49385167,842084.763929549,391.937623325061,214852,1056936,842085
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Roan","Grazer","General_Grazer","SSP245_2050",132921.017869563,459813.959053097,326892.941183533,245.930212108604,132921,459814,326893
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Sable","Grazer","General_Grazer","SSP245_2050",159505.221443476,551776.750863716,392271.52942024,245.930212108604,159505,551777,392272
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Spotted Hyaena","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Springbok","Grazer","Arid_Grazer","SSP245_2050",1094317.76890503,2647003.93271762,1552686.16381259,141.886224269775,1094318,2647004,1552686
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Steenbok","Browser","Shrub_Browser","SSP245_2050",6910232.45523753,4815892.17788325,-2094340.27735428,-30.3078122323786,6910232,4815892,-2094340
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Vervet monkey","Omnivore","Omnivore","SSP245_2050",7265227.12165838,9807436.19282342,2542209.07116504,34.9914603988973,7265227,9807436,2542209
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Warthog","Grazer","General_Grazer","SSP245_2050",455729.204124218,1576505.00246776,1120775.79834354,245.930212108604,455729,1576505,1120776
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Baboon","Omnivore","Omnivore","SSP245_2050",766075.324762411,767200.04607111,1124.72130869911,0.14681602087209,766075,767200,1125
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Black rhinoceros","Browser","Shrub_Browser","SSP245_2050",28841.924597848,21654.4443235794,-7187.48027426865,-24.9202519404857,28842,21654,-7187
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Black-backed Jackal","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Black-faced Impala","Mixed","Mixed_Open","SSP245_2050",583597.700239233,681230.677140587,97632.976901354,16.7294999382848,583598,681231,97633
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Blue wildebeest","Grazer","General_Grazer","SSP245_2050",111638.79191634,160250.257897747,48611.4659814067,43.5435256392197,111639,160250,48611
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Buffalo","Grazer","General_Grazer","SSP245_2050",49121.0684431897,70510.1134750086,21389.045031819,43.5435256392197,49121,70510,21389
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Burchell's zebra","Grazer","General_Grazer","SSP245_2050",76751.6694424839,110172.052304701,33420.3828622171,43.5435256392197,76752,110172,33420
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Bushpig","Omnivore","Omnivore","SSP245_2050",306430.129904964,306880.018428444,449.888523479633,0.146816020872086,306430,306880,450
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Cheetah","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Damara dik dik","Browser","Shrub_Browser","SSP245_2050",5768384.9195696,4330888.86471587,-1437496.05485373,-24.9202519404857,5768385,4330889,-1437496
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Duiker","Browser","Woodland_Browser","SSP245_2050",1388727.62279618,1040505.65949606,-348221.963300118,-25.074892843204,1388728,1040506,-348222
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Eland","Mixed","Mixed_Open","SSP245_2050",58359.7700239233,68123.0677140588,9763.29769013541,16.7294999382848,58360,68123,9763
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Elephant","Mixed","Large_Mixed","SSP245_2050",7964.71914486043,8071.16280038942,106.443655528996,1.33643953531849,7965,8071,106
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Gemsbok","Mixed","Arid_Mixed","SSP245_2050",135058.077638821,154316.927176778,19258.8495379568,14.2596798907947,135058,154317,19259
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Giraffe","Browser","Woodland_Browser","SSP245_2050",28591.4510575685,21422.175342566,-7169.27571500242,-25.074892843204,28591,21422,-7169
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Hartmann's zebra","Grazer","Arid_Grazer","SSP245_2050",88503.1836907052,115231.811094745,26728.6274040397,30.2007524355836,88503,115232,26729
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Hippopotamus","Grazer","Wetland_Grazer","SSP245_2050",6846.78366892077,10713.1898762679,3866.40620734717,56.4704012030895,6847,10713,3866
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Impala","Mixed","Mixed_Open","SSP245_2050",583597.700239233,681230.677140587,97632.976901354,16.7294999382848,583598,681231,97633
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Klipspringer","Browser","Rocky_Browser","SSP245_2050",1966450.79287585,1472618.29864835,-493832.494227503,-25.1128833742793,1966451,1472618,-493832
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Kudu","Browser","Woodland_Browser","SSP245_2050",127909.12315228,95836.0475851638,-32073.0755671161,-25.074892843204,127909,95836,-32073
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Leopard","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Ostrich","Mixed","Mixed_Open","SSP245_2050",291798.850119617,340615.338570294,48816.488450677,16.7294999382848,291799,340615,48816
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Red Hartebeest","Grazer","General_Grazer","SSP245_2050",163736.894810632,235033.711583362,71296.8167727299,43.5435256392197,163737,235034,71297
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Red Lechwe","Grazer","Wetland_Grazer","SSP245_2050",119818.714206114,187480.822834689,67662.1086285755,56.4704012030895,119819,187481,67662
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Reedbuck","Grazer","Wetland_Grazer","SSP245_2050",213011.047477535,333299.240595003,120288.193117468,56.4704012030895,213011,333299,120288
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Roan","Grazer","General_Grazer","SSP245_2050",102335.559256645,146896.069739601,44560.5104829562,43.5435256392197,102336,146896,44561
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Sable","Grazer","General_Grazer","SSP245_2050",122802.671107974,176275.283687522,53472.6125795474,43.5435256392197,122803,176275,53473
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Spotted Hyaena","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Springbok","Grazer","Arid_Grazer","SSP245_2050",652128.721931512,849076.502803384,196947.780871872,30.2007524355836,652129,849077,196948
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Steenbok","Browser","Shrub_Browser","SSP245_2050",2884192.4597848,2165444.43235794,-718748.027426864,-24.9202519404857,2884192,2165444,-718748
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Vervet monkey","Omnivore","Omnivore","SSP245_2050",3677161.55885957,3682560.22114133,5398.66228175536,0.14681602087208,3677162,3682560,5399
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Warthog","Grazer","General_Grazer","SSP245_2050",350864.774594212,503643.667678633,152778.893084421,43.5435256392197,350865,503644,152779
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Baboon","Omnivore","Omnivore","SSP245_2050",193686.538500746,248841.609924859,55155.0714241128,28.4764609100082,193687,248842,55155
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Black rhinoceros","Browser","Shrub_Browser","SSP245_2050",4721.52779021345,4908.60379588457,187.076005671125,3.96219219674799,4722,4909,187
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Black-backed Jackal","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Black-faced Impala","Mixed","Mixed_Open","SSP245_2050",184967.769364253,253100.519879849,68132.7505155957,36.8349311611275,184968,253101,68133
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Blue wildebeest","Grazer","General_Grazer","SSP245_2050",47073.2961022368,67956.6738793144,20883.3777770776,44.363534118626,47073,67957,20883
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Buffalo","Grazer","General_Grazer","SSP245_2050",20712.2502849842,29900.9365068983,9188.68622191417,44.363534118626,20712,29901,9189
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Burchell's zebra","Grazer","General_Grazer","SSP245_2050",32362.8910702878,46720.2132920287,14357.3222217409,44.363534118626,32363,46720,14357
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Bushpig","Omnivore","Omnivore","SSP245_2050",77474.6154002984,99536.6439699435,22062.0285696451,28.4764609100081,77475,99537,22062
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Cheetah","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Damara dik dik","Browser","Shrub_Browser","SSP245_2050",944305.558042689,981720.759176914,37415.201134225,3.96219219674799,944306,981721,37415
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Duiker","Browser","Woodland_Browser","SSP245_2050",202304.837532391,209831.994889504,7527.15735711265,3.72070062630483,202305,209832,7527
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Eland","Mixed","Mixed_Open","SSP245_2050",18496.7769364253,25310.0519879849,6813.27505155957,36.8349311611275,18497,25310,6813
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Elephant","Mixed","Large_Mixed","SSP245_2050",2092.0851161851,2686.07522522429,593.990109039195,28.3922534720925,2092,2686,594
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Gemsbok","Mixed","Arid_Mixed","SSP245_2050",44737.6283384751,59082.4996703093,14344.8713318342,32.0644429859,44738,59082,14345
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Giraffe","Browser","Woodland_Browser","SSP245_2050",4165.09959625511,4320.0704830192,154.970886764085,3.72070062630485,4165,4320,155
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Hartmann's zebra","Grazer","Arid_Grazer","SSP245_2050",35532.7710040754,48427.651888096,12894.8808840206,36.2901077502276,35533,48428,12895
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Hippopotamus","Grazer","Wetland_Grazer","SSP245_2050",3113.35335832616,4646.55179288573,1533.19843455957,49.2458856447913,3113,4647,1533
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Impala","Mixed","Mixed_Open","SSP245_2050",184967.769364253,253100.519879849,68132.7505155957,36.8349311611275,184968,253101,68133
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Klipspringer","Browser","Rocky_Browser","SSP245_2050",398802.215160835,392698.404151469,-6103.8110093656,-1.53053588403564,398802,392698,-6104
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Kudu","Browser","Woodland_Browser","SSP245_2050",18633.340299036,19326.6311082438,693.290809207745,3.72070062630484,18633,19327,693
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Leopard","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Ostrich","Mixed","Mixed_Open","SSP245_2050",92483.8846821265,126550.259939924,34066.3752577978,36.8349311611275,92484,126550,34066
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Red Hartebeest","Grazer","General_Grazer","SSP245_2050",69040.8342832806,99669.7883563278,30628.9540730472,44.363534118626,69041,99670,30629
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Red Lechwe","Grazer","Wetland_Grazer","SSP245_2050",54483.6837707078,81314.6563755003,26830.9726047925,49.2458856447913,54484,81315,26831
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Reedbuck","Grazer","Wetland_Grazer","SSP245_2050",96859.8822590361,144559.389112001,47699.5068529644,49.2458856447913,96860,144559,47700
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Roan","Grazer","General_Grazer","SSP245_2050",43150.5214270504,62293.6177227049,19143.0962956545,44.363534118626,43151,62294,19143
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Sable","Grazer","General_Grazer","SSP245_2050",51780.6257124605,74752.3412672459,22971.7155547854,44.363534118626,51781,74752,22972
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Spotted Hyaena","Carnivore","Carnivore","SSP245_2050",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Springbok","Grazer","Arid_Grazer","SSP245_2050",261820.417924766,356835.32970176,95014.9117769938,36.2901077502276,261820,356835,95015
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Steenbok","Browser","Shrub_Browser","SSP245_2050",472152.779021345,490860.379588457,18707.6005671125,3.96219219674799,472153,490860,18708
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Vervet monkey","Omnivore","Omnivore","SSP245_2050",929695.384803581,1194439.72763932,264744.342835741,28.4764609100081,929695,1194440,264744
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Warthog","Grazer","General_Grazer","SSP245_2050",147944.644892744,213578.117906417,65633.4730136726,44.363534118626,147945,213578,65633
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Baboon","Omnivore","Omnivore","SSP245_2090",433483.270125362,685444.704586209,251961.434460847,58.1248347572863,433483,685445,251961
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Black rhinoceros","Browser","Shrub_Browser","SSP245_2090",19002.0364971467,18051.3699880435,-950.666509103252,-5.00297170382764,19002,18051,-951
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Black-backed Jackal","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Black-faced Impala","Mixed","Mixed_Open","SSP245_2090",299738.249060054,635887.798563732,336149.549503678,112.147699053359,299738,635888,336150
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Blue wildebeest","Grazer","General_Grazer","SSP245_2090",49431.8456926521,157219.184859005,107787.339166353,218.052426843481,49432,157219,107787
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Buffalo","Grazer","General_Grazer","SSP245_2090",21750.0121047669,69176.4413379621,47426.4292331951,218.052426843481,21750,69176,47426
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Burchell's zebra","Grazer","General_Grazer","SSP245_2090",33984.3939136983,108088.189590566,74103.7956768674,218.052426843481,33984,108088,74104
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Bushpig","Omnivore","Omnivore","SSP245_2090",173393.308050145,274177.881834484,100784.573784339,58.1248347572863,173393,274178,100785
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Cheetah","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Damara dik dik","Browser","Shrub_Browser","SSP245_2090",3800407.29942935,3610273.9976087,-190133.301820651,-5.00297170382764,3800407,3610274,-190133
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Duiker","Browser","Woodland_Browser","SSP245_2090",844541.851108329,787156.913667599,-57384.9374407303,-6.79480091666523,844542,787157,-57385
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Eland","Mixed","Mixed_Open","SSP245_2090",29973.8249060054,63588.7798563732,33614.9549503678,112.147699053359,29974,63589,33615
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Elephant","Mixed","Large_Mixed","SSP245_2090",4639.24000053808,7378.47099854791,2739.23099800983,59.0448219469594,4639,7378,2739
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Gemsbok","Mixed","Arid_Mixed","SSP245_2090",83403.8936940443,154003.079592172,70599.1858981273,84.6473501070715,83404,154003,70599
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Giraffe","Browser","Woodland_Browser","SSP245_2090",17387.6263463479,16206.17175198,-1181.45459436798,-6.79480091666524,17388,16206,-1181
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Hartmann's zebra","Grazer","Arid_Grazer","SSP245_2090",54267.4534452565,120070.077862536,65802.6244172799,121.256149385487,54267,120070,65803
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Hippopotamus","Grazer","Wetland_Grazer","SSP245_2090",2311.40567955194,10295.2015131831,7983.79583363114,345.408679413594,2311,10295,7984
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Impala","Mixed","Mixed_Open","SSP245_2090",299738.249060054,635887.798563732,336149.549503678,112.147699053359,299738,635888,336150
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Klipspringer","Browser","Rocky_Browser","SSP245_2090",1640301.55912247,1489322.17289354,-150979.386228928,-9.20436765966978,1640302,1489322,-150979
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Kudu","Browser","Woodland_Browser","SSP245_2090",77786.7494441882,72501.2946799104,-5285.45476427779,-6.79480091666524,77787,72501,-5285
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Leopard","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Ostrich","Mixed","Mixed_Open","SSP245_2090",149869.124530027,317943.899281866,168074.774751839,112.147699053359,149869,317944,168075
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Red Hartebeest","Grazer","General_Grazer","SSP245_2090",72500.0403492231,230588.137793207,158088.097443984,218.052426843481,72500,230588,158088
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Red Lechwe","Grazer","Wetland_Grazer","SSP245_2090",40449.5993921589,180166.026480704,139716.427088545,345.408679413593,40450,180166,139716
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Reedbuck","Grazer","Wetland_Grazer","SSP245_2090",71910.3989193935,320295.158187918,248384.759268524,345.408679413594,71910,320295,248385
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Roan","Grazer","General_Grazer","SSP245_2090",45312.5252182645,144117.586120754,98805.0609024898,218.052426843481,45313,144118,98805
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Sable","Grazer","General_Grazer","SSP245_2090",54375.0302619174,172941.103344905,118566.073082988,218.052426843481,54375,172941,118566
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Spotted Hyaena","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Springbok","Grazer","Arid_Grazer","SSP245_2090",399865.446438732,884726.889513426,484861.443074694,121.256149385487,399865,884727,484861
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Steenbok","Browser","Shrub_Browser","SSP245_2090",1900203.64971467,1805136.99880435,-95066.6509103253,-5.00297170382764,1900204,1805137,-95067
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Vervet monkey","Omnivore","Omnivore","SSP245_2090",2080719.69660174,3290134.5820138,1209414.88541207,58.1248347572862,2080720,3290135,1209415
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Warthog","Grazer","General_Grazer","SSP245_2090",155357.229319764,494117.4381283,338760.208808537,218.052426843481,155357,494117,338760
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Baboon","Omnivore","Omnivore","SSP245_2090",407470.746949485,406107.55810039,-1363.1888490952,-0.334548887079787,407471,406108,-1363
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Black rhinoceros","Browser","Shrub_Browser","SSP245_2090",15636.9784592585,13866.3123236554,-1770.6661356031,-11.3235823673767,15637,13866,-1771
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Black-backed Jackal","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Black-faced Impala","Mixed","Mixed_Open","SSP245_2090",248098.518768102,265242.912456763,17144.3936886608,6.91031682647232,248099,265243,17144
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Blue wildebeest","Grazer","General_Grazer","SSP245_2090",41957.9170664899,51466.1584809022,9508.24141441232,22.6613761577935,41958,51466,9508
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Buffalo","Grazer","General_Grazer","SSP245_2090",18461.4835092556,22645.109731597,4183.62622234142,22.6613761577935,18461,22645,4184
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Burchell's zebra","Grazer","General_Grazer","SSP245_2090",28846.0679832118,35382.9839556203,6536.91597240847,22.6613761577935,28846,35383,6537
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Bushpig","Omnivore","Omnivore","SSP245_2090",162988.298779794,162443.023240156,-545.275539638067,-0.33454888707978,162988,162443,-545
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Cheetah","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Damara dik dik","Browser","Shrub_Browser","SSP245_2090",3127395.69185171,2773262.46473109,-354133.22712062,-11.3235823673767,3127396,2773262,-354133
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Duiker","Browser","Woodland_Browser","SSP245_2090",822073.767149397,758383.305409655,-63690.4617397417,-7.74753608311736,822074,758383,-63690
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Eland","Mixed","Mixed_Open","SSP245_2090",24809.8518768102,26524.2912456763,1714.43936886607,6.91031682647231,24810,26524,1714
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Elephant","Mixed","Large_Mixed","SSP245_2090",3878.99143456921,3867.33736274739,-11.6540718218189,-0.300440772257419,3879,3867,-12
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Gemsbok","Mixed","Arid_Mixed","SSP245_2090",52036.2550555318,54528.5349697179,2492.27991418605,4.78950668438064,52036,54529,2492
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Giraffe","Browser","Woodland_Browser","SSP245_2090",16925.0481471935,15613.7739349047,-1311.2742122888,-7.74753608311737,16925,15614,-1311
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Hartmann's zebra","Grazer","Arid_Grazer","SSP245_2090",30138.6763259794,34811.1114820275,4672.4351560481,15.5031199960845,30139,34811,4672
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Hippopotamus","Grazer","Wetland_Grazer","SSP245_2090",4876.04052392052,5669.92382168718,793.883297766661,16.281310499207,4876,5670,794
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Impala","Mixed","Mixed_Open","SSP245_2090",248098.518768102,265242.912456763,17144.3936886608,6.91031682647232,248099,265243,17144
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Klipspringer","Browser","Rocky_Browser","SSP245_2090",1037870.280686,912104.706055713,-125765.574630288,-12.11765834042,1037870,912105,-125766
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Kudu","Browser","Woodland_Browser","SSP245_2090",75717.3206584971,69851.0939193103,-5866.22673918674,-7.74753608311736,75717,69851,-5866
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Leopard","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Ostrich","Mixed","Mixed_Open","SSP245_2090",124049.259384051,132621.456228382,8572.19684433038,6.91031682647232,124049,132621,8572
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Red Hartebeest","Grazer","General_Grazer","SSP245_2090",61538.2783641852,75483.6991053233,13945.4207411381,22.6613761577935,61538,75484,13945
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Red Lechwe","Grazer","Wetland_Grazer","SSP245_2090",85330.7091686091,99223.6668795257,13892.9577109166,16.281310499207,85331,99224,13893
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Reedbuck","Grazer","Wetland_Grazer","SSP245_2090",151699.038521972,176397.630008046,24698.5914860739,16.281310499207,151699,176398,24699
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Roan","Grazer","General_Grazer","SSP245_2090",38461.4239776158,47177.3119408271,8715.88796321129,22.6613761577935,38461,47177,8716
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Sable","Grazer","General_Grazer","SSP245_2090",46153.7087731389,56612.7743289925,10459.0655558536,22.6613761577935,46154,56613,10459
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Spotted Hyaena","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Springbok","Grazer","Arid_Grazer","SSP245_2090",222074.457138796,256502.926709677,34428.4695708807,15.5031199960845,222074,256503,34428
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Steenbok","Browser","Shrub_Browser","SSP245_2090",1563697.84592585,1386631.23236554,-177066.61356031,-11.3235823673767,1563698,1386631,-177067
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Vervet monkey","Omnivore","Omnivore","SSP245_2090",1955859.58535753,1949316.27888187,-6543.30647565704,-0.334548887079792,1955860,1949316,-6543
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Warthog","Grazer","General_Grazer","SSP245_2090",131867.739351825,161750.783797121,29883.0444452959,22.6613761577935,131868,161751,29883
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Baboon","Omnivore","Omnivore","SSP245_2090",3074331.38198928,3074333.23907969,1.85709041263908,6.04063187045708e-05,3074331,3074333,2
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Black rhinoceros","Browser","Shrub_Browser","SSP245_2090",146522.453583352,68467.99039047,-78054.4631928816,-53.2713323343845,146522,68468,-78054
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Black-backed Jackal","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Black-faced Impala","Mixed","Mixed_Open","SSP245_2090",1931049.89334138,3008215.33068073,1077165.43733934,55.7813364146421,1931050,3008215,1077165
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Blue wildebeest","Grazer","General_Grazer","SSP245_2090",241385.270606215,777127.144692214,535741.874085999,221.944724605829,241385,777127,535742
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Buffalo","Grazer","General_Grazer","SSP245_2090",106209.519066735,341935.943664574,235726.42459784,221.944724605829,106210,341936,235726
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Burchell's zebra","Grazer","General_Grazer","SSP245_2090",165952.373541773,534274.911975897,368322.538434125,221.944724605829,165952,534275,368323
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Bushpig","Omnivore","Omnivore","SSP245_2090",1229732.55279571,1229733.29563188,0.742836165009066,6.04063187007841e-05,1229733,1229733,1
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Cheetah","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Damara dik dik","Browser","Shrub_Browser","SSP245_2090",29304490.7166703,13693598.078094,-15610892.6385763,-53.2713323343845,29304491,13693598,-15610893
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Duiker","Browser","Woodland_Browser","SSP245_2090",7118884.23781705,3149255.49014721,-3969628.74766984,-55.761951101583,7118884,3149255,-3969629
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Eland","Mixed","Mixed_Open","SSP245_2090",193104.989334138,300821.533068073,107716.543733934,55.7813364146421,193105,300822,107717
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Elephant","Mixed","Large_Mixed","SSP245_2090",31626.9163212928,32742.1066604737,1115.19033918084,3.52607989932309,31627,32742,1115
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Gemsbok","Mixed","Arid_Mixed","SSP245_2090",459098.87696603,678398.02926158,219299.15229555,47.7673031449774,459099,678398,219299
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Giraffe","Browser","Woodland_Browser","SSP245_2090",146565.263719763,64837.6130324425,-81727.6506873202,-55.761951101583,146565,64838,-81728
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Hartmann's zebra","Grazer","Arid_Grazer","SSP245_2090",240658.929884869,538941.4775895,298282.547704631,123.94410124209,240659,538941,298283
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Hippopotamus","Grazer","Wetland_Grazer","SSP245_2090",11107.8947897637,53480.6337320757,42372.738942312,381.465072763921,11108,53481,42373
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Impala","Mixed","Mixed_Open","SSP245_2090",1931049.89334138,3008215.33068073,1077165.43733934,55.7813364146421,1931050,3008215,1077165
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Klipspringer","Browser","Rocky_Browser","SSP245_2090",9989048.81385279,4667157.24280659,-5321891.5710462,-53.2772606303196,9989049,4667157,-5321892
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Kudu","Browser","Woodland_Browser","SSP245_2090",655686.706114728,290063.005671453,-365623.700443275,-55.761951101583,655687,290063,-365624
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Leopard","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Ostrich","Mixed","Mixed_Open","SSP245_2090",965524.946670692,1504107.66534036,538582.718669672,55.7813364146421,965525,1504108,538583
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Red Hartebeest","Grazer","General_Grazer","SSP245_2090",354031.730222449,1139786.47888191,785754.748659466,221.944724605829,354032,1139786,785755
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Red Lechwe","Grazer","Wetland_Grazer","SSP245_2090",194388.158820865,935911.090311326,741522.93149046,381.465072763921,194388,935911,741523
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Reedbuck","Grazer","Wetland_Grazer","SSP245_2090",345578.949014872,1663841.93833125,1318262.98931637,381.465072763921,345579,1663842,1318263
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Roan","Grazer","General_Grazer","SSP245_2090",221269.83138903,712366.549301196,491096.717912166,221.944724605829,221270,712367,491097
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Sable","Grazer","General_Grazer","SSP245_2090",265523.797666837,854839.859161436,589316.061494599,221.944724605829,265524,854840,589316
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Spotted Hyaena","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Springbok","Grazer","Arid_Grazer","SSP245_2090",1773276.32546746,3971147.72960685,2197871.40413939,123.94410124209,1773276,3971148,2197871
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Steenbok","Browser","Shrub_Browser","SSP245_2090",14652245.3583352,6846799.039047,-7805446.31928816,-53.2713323343845,14652245,6846799,-7805446
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Vervet monkey","Omnivore","Omnivore","SSP245_2090",14756790.6335485,14756799.5475825,8.91403398104012,6.04063187070953e-05,14756791,14756800,9
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Warthog","Grazer","General_Grazer","SSP245_2090",758639.421905247,2442399.5976041,1683760.17569885,221.944724605829,758639,2442400,1683760
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Baboon","Omnivore","Omnivore","SSP245_2090",1442972.6895466,1947275.46746765,504302.77792105,34.9488789063297,1442973,1947275,504303
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Black rhinoceros","Browser","Shrub_Browser","SSP245_2090",66095.3541265465,45975.2553923974,-20120.0987341491,-30.4410181321172,66095,45975,-20120
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Black-backed Jackal","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Black-faced Impala","Mixed","Mixed_Open","SSP245_2090",949368.135915193,1873583.23619156,924215.100276371,97.3505498354888,949368,1873583,924215
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Blue wildebeest","Grazer","General_Grazer","SSP245_2090",136791.491506455,477569.529188183,340778.037681728,249.122247245653,136791,477570,340778
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Buffalo","Grazer","General_Grazer","SSP245_2090",60188.2562628403,210130.592842801,149942.33657996,249.122247245653,60188,210131,149942
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Burchell's zebra","Grazer","General_Grazer","SSP245_2090",94044.150410688,328329.051316876,234284.900906188,249.122247245653,94044,328329,234285
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Bushpig","Omnivore","Omnivore","SSP245_2090",577189.07581864,778910.18698706,201721.11116842,34.9488789063297,577189,778910,201721
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Cheetah","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Damara dik dik","Browser","Shrub_Browser","SSP245_2090",13219070.8253093,9195051.07847948,-4024019.74682982,-30.4410181321172,13219071,9195051,-4024020
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Duiker","Browser","Woodland_Browser","SSP245_2090",3110489.759552,2069110.81117229,-1041378.94837971,-33.4795813161493,3110490,2069111,-1041379
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Eland","Mixed","Mixed_Open","SSP245_2090",94936.8135915193,187358.323619156,92421.5100276372,97.3505498354889,94937,187358,92422
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Elephant","Mixed","Large_Mixed","SSP245_2090",15078.7659180795,20821.6528206787,5742.88690259918,38.0859211808138,15079,20822,5743
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Gemsbok","Mixed","Arid_Mixed","SSP245_2090",240614.434147736,433104.898241055,192490.464093319,79.9995498088576,240614,433105,192490
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Giraffe","Browser","Woodland_Browser","SSP245_2090",64039.4950495999,42599.3402300177,-21440.1548195822,-33.4795813161493,64039,42599,-21440
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Hartmann's zebra","Grazer","Arid_Grazer","SSP245_2090",140753.419907739,342077.149998874,201323.730091135,143.0329225557,140753,342077,201324
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Hippopotamus","Grazer","Wetland_Grazer","SSP245_2090",6470.10118007552,32339.3679054013,25869.2667253258,399.827854392593,6470,32339,25869
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Impala","Mixed","Mixed_Open","SSP245_2090",949368.135915193,1873583.23619156,924215.100276371,97.3505498354888,949368,1873583,924215
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Klipspringer","Browser","Rocky_Browser","SSP245_2090",4936305.55879133,3392037.33636114,-1544268.22243018,-31.2838863809781,4936306,3392037,-1544268
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Kudu","Browser","Woodland_Browser","SSP245_2090",286492.477853473,190575.995765869,-95916.4820876047,-33.4795813161493,286492,190576,-95916
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Leopard","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Ostrich","Mixed","Mixed_Open","SSP245_2090",474684.067957597,936791.618095782,462107.550138186,97.3505498354888,474684,936792,462108
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Red Hartebeest","Grazer","General_Grazer","SSP245_2090",200627.520876134,700435.309476002,499807.788599868,249.122247245653,200628,700435,499808
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Red Lechwe","Grazer","Wetland_Grazer","SSP245_2090",113226.770651322,565938.938344522,452712.167693201,399.827854392593,113227,565939,452712
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Reedbuck","Grazer","Wetland_Grazer","SSP245_2090",201292.036713461,1006113.66816804,804821.631454579,399.827854392593,201292,1006114,804822
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Roan","Grazer","General_Grazer","SSP245_2090",125392.200547584,437772.068422501,312379.867874917,249.122247245653,125392,437772,312380
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Sable","Grazer","General_Grazer","SSP245_2090",150470.640657101,525326.482107002,374855.841449901,249.122247245653,150471,525326,374856
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Spotted Hyaena","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Springbok","Grazer","Arid_Grazer","SSP245_2090",1037130.46247808,2520568.47367591,1483438.01119784,143.0329225557,1037130,2520568,1483438
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Steenbok","Browser","Shrub_Browser","SSP245_2090",6609535.41265465,4597525.53923974,-2012009.87341491,-30.4410181321172,6609535,4597526,-2012010
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Vervet monkey","Omnivore","Omnivore","SSP245_2090",6926268.90982368,9346922.24384472,2420653.33402104,34.9488789063297,6926269,9346922,2420653
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Warthog","Grazer","General_Grazer","SSP245_2090",429916.116163145,1500932.80602,1071016.68985686,249.122247245653,429916,1500933,1071017
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Baboon","Omnivore","Omnivore","SSP245_2090",740587.88836985,741620.34231141,1032.45394155977,0.139410049471962,740588,741620,1032
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Black rhinoceros","Browser","Shrub_Browser","SSP245_2090",28007.5962340064,20951.7886950519,-7055.80753895444,-25.1924780691725,28008,20952,-7056
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Black-backed Jackal","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Black-faced Impala","Mixed","Mixed_Open","SSP245_2090",563887.403012693,660020.108055484,96132.7050427911,17.0482093639937,563887,660020,96133
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Blue wildebeest","Grazer","General_Grazer","SSP245_2090",107531.917852225,155393.533668135,47861.6158159106,44.5092180739156,107532,155394,47862
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Buffalo","Grazer","General_Grazer","SSP245_2090",47314.0438549789,68373.1548139796,21059.1109590007,44.5092180739156,47314,68373,21059
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Burchell's zebra","Grazer","General_Grazer","SSP245_2090",73928.1935234046,106833.054396843,32904.8608734385,44.5092180739156,73928,106833,32905
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Bushpig","Omnivore","Omnivore","SSP245_2090",296235.15534794,296648.136924564,412.981576623919,0.139410049471966,296235,296648,413
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Cheetah","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Damara dik dik","Browser","Shrub_Browser","SSP245_2090",5601519.24680127,4190357.73901039,-1411161.50779089,-25.1924780691725,5601519,4190358,-1411162
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Duiker","Browser","Woodland_Browser","SSP245_2090",1347519.85425329,1001828.41257283,-345691.441680466,-25.6539033981081,1347520,1001828,-345691
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Eland","Mixed","Mixed_Open","SSP245_2090",56388.7403012693,66002.0108055484,9613.27050427911,17.0482093639937,56389,66002,9613
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Elephant","Mixed","Large_Mixed","SSP245_2090",7709.5875926641,7812.47495163356,102.887358969456,1.33453777822508,7710,7812,103
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Gemsbok","Mixed","Arid_Mixed","SSP245_2090",130591.687960854,149685.248110498,19093.5601496448,14.6208081446717,130592,149685,19094
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Giraffe","Browser","Woodland_Browser","SSP245_2090",27743.0558228619,20625.8790823817,-7117.17674048018,-25.6539033981081,27743,20626,-7117
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Hartmann's zebra","Grazer","Arid_Grazer","SSP245_2090",85414.6653061135,111799.114814685,26384.4495085719,30.8898353860124,85415,111799,26384
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Hippopotamus","Grazer","Wetland_Grazer","SSP245_2090",6579.72135243014,10381.940455168,3802.21910273784,57.786931985099,6580,10382,3802
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Impala","Mixed","Mixed_Open","SSP245_2090",563887.403012693,660020.108055484,96132.7050427911,17.0482093639937,563887,660020,96133
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Klipspringer","Browser","Rocky_Browser","SSP245_2090",1909985.58863092,1425873.1386296,-484112.45000132,-25.3463928148448,1909986,1425873,-484112
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Kudu","Browser","Woodland_Browser","SSP245_2090",124113.670786487,92273.669579076,-31840.0012074113,-25.6539033981081,124114,92274,-31840
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Leopard","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Ostrich","Mixed","Mixed_Open","SSP245_2090",281943.701506347,330010.054027742,48066.3525213955,17.0482093639937,281944,330010,48066
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Red Hartebeest","Grazer","General_Grazer","SSP245_2090",157713.479516596,227910.516046599,70197.0365300022,44.5092180739156,157713,227911,70197
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Red Lechwe","Grazer","Wetland_Grazer","SSP245_2090",115145.123667527,181683.95796544,66538.8342979121,57.7869319850989,115145,181684,66539
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Reedbuck","Grazer","Wetland_Grazer","SSP245_2090",204702.442075604,322993.70304967,118291.260974066,57.786931985099,204702,322994,118291
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Roan","Grazer","General_Grazer","SSP245_2090",98570.9246978728,142444.072529124,43873.1478312514,44.5092180739156,98571,142444,43873
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Sable","Grazer","General_Grazer","SSP245_2090",118285.109637447,170932.887034949,52647.7773975016,44.5092180739156,118285,170933,52648
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Spotted Hyaena","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Springbok","Grazer","Arid_Grazer","SSP245_2090",629371.218045047,823782.951266103,194411.733221056,30.8898353860124,629371,823783,194412
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Steenbok","Browser","Shrub_Browser","SSP245_2090",2800759.62340064,2095178.86950519,-705580.753895444,-25.1924780691725,2800760,2095179,-705581
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Vervet monkey","Omnivore","Omnivore","SSP245_2090",3554821.86417528,3559777.64309477,4955.77891948726,0.139410049471973,3554822,3559778,4956
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Warthog","Grazer","General_Grazer","SSP245_2090",337957.456106992,488379.677242711,150422.221135719,44.5092180739156,337957,488380,150422
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Baboon","Omnivore","Omnivore","SSP245_2090",184132.735292925,238087.379258422,53954.6439654966,29.3020379454329,184133,238087,53955
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Black rhinoceros","Browser","Shrub_Browser","SSP245_2090",4472.44796260732,4682.01392157933,209.565958972013,4.68571039225331,4472,4682,210
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Black-backed Jackal","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Black-faced Impala","Mixed","Mixed_Open","SSP245_2090",176096.946128775,242380.265452444,66283.3193236688,37.6402435026883,176097,242380,66283
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Blue wildebeest","Grazer","General_Grazer","SSP245_2090",44889.3165900121,65135.8671684,20246.5505783879,45.1032720397725,44889,65136,20247
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Buffalo","Grazer","General_Grazer","SSP245_2090",19751.2992996053,28659.781554096,8908.48225449068,45.1032720397726,19751,28660,8908
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Burchell's zebra","Grazer","General_Grazer","SSP245_2090",30861.4051556333,44780.908678275,13919.5035226417,45.1032720397725,30861,44781,13920
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Bushpig","Omnivore","Omnivore","SSP245_2090",73653.0941171702,95234.9517033688,21581.8575861986,29.3020379454329,73653,95235,21582
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Cheetah","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Damara dik dik","Browser","Shrub_Browser","SSP245_2090",894489.592521463,936402.784315865,41913.1917944024,4.6857103922533,894490,936403,41913
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Duiker","Browser","Woodland_Browser","SSP245_2090",190996.036307263,199710.214535322,8714.17822805844,4.56249166031885,190996,199710,8714
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Eland","Mixed","Mixed_Open","SSP245_2090",17609.6946128775,24238.0265452444,6628.33193236688,37.6402435026883,17610,24238,6628
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Elephant","Mixed","Large_Mixed","SSP245_2090",1990.1776581743,2570.86036542,580.682707245695,29.1774307113058,1990,2571,581
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Gemsbok","Mixed","Arid_Mixed","SSP245_2090",42671.384789304,56629.4204855591,13958.0356962551,32.7105290001131,42671,56629,13958
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Giraffe","Browser","Woodland_Browser","SSP245_2090",3932.27133573777,4111.68088749192,179.409551754144,4.56249166031884,3932,4112,179
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Hartmann's zebra","Grazer","Arid_Grazer","SSP245_2090",33936.9451633035,46449.6710628161,12512.7258995126,36.8705133573506,33937,46450,12513
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Hippopotamus","Grazer","Wetland_Grazer","SSP245_2090",2967.51428193827,4452.9241362694,1485.40985433113,50.0556935268031,2968,4453,1485
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Impala","Mixed","Mixed_Open","SSP245_2090",176096.946128775,242380.265452444,66283.3193236688,37.6402435026883,176097,242380,66283
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Klipspringer","Browser","Rocky_Browser","SSP245_2090",380378.73976364,376218.792896663,-4159.94686697621,-1.09363285381331,380379,376219,-4160
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Kudu","Browser","Woodland_Browser","SSP245_2090",17591.7401861953,18394.3618650954,802.621678900119,4.56249166031885,17592,18394,803
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Leopard","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Ostrich","Mixed","Mixed_Open","SSP245_2090",88048.4730643875,121190.132726222,33141.6596618344,37.6402435026883,88048,121190,33142
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Red Hartebeest","Grazer","General_Grazer","SSP245_2090",65837.6643320178,95532.60518032,29694.9408483023,45.1032720397725,65838,95533,29695
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Red Lechwe","Grazer","Wetland_Grazer","SSP245_2090",51931.4999339197,77926.1723847144,25994.6724507948,50.0556935268031,51931,77926,25995
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Reedbuck","Grazer","Wetland_Grazer","SSP245_2090",92322.6665491905,138535.417572826,46212.7510236352,50.0556935268031,92323,138535,46213
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Roan","Grazer","General_Grazer","SSP245_2090",41148.5402075111,59707.8782377,18559.3380301889,45.1032720397725,41149,59708,18559
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Sable","Grazer","General_Grazer","SSP245_2090",49378.2482490133,71649.45388524,22271.2056362267,45.1032720397725,49378,71649,22271
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Spotted Hyaena","Carnivore","Carnivore","SSP245_2090",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Springbok","Grazer","Arid_Grazer","SSP245_2090",250061.701203289,342260.734147066,92199.0329437769,36.8705133573506,250062,342261,92199
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Steenbok","Browser","Shrub_Browser","SSP245_2090",447244.796260732,468201.392157933,20956.5958972012,4.6857103922533,447245,468201,20957
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Vervet monkey","Omnivore","Omnivore","SSP245_2090",883837.129406042,1142819.42044043,258982.291034384,29.3020379454329,883837,1142819,258982
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Warthog","Grazer","General_Grazer","SSP245_2090",141080.709282895,204712.7253864,63632.0161035048,45.1032720397725,141081,204713,63632
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Baboon","Omnivore","Omnivore","SSP585_2050",440246.949395321,698106.299419098,257859.350023777,58.5715245450189,440247,698106,257859
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Black rhinoceros","Browser","Shrub_Browser","SSP585_2050",19161.9394146323,18269.6805309211,-892.258883711253,-4.65641219505114,19162,18270,-892
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Black-backed Jackal","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Black-faced Impala","Mixed","Mixed_Open","SSP585_2050",306321.713040788,649216.493004772,342894.779963985,111.939430137075,306322,649216,342895
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Blue wildebeest","Grazer","General_Grazer","SSP585_2050",51165.7879312234,160918.793233859,109753.005302635,214.50467146165,51166,160919,109753
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Buffalo","Grazer","General_Grazer","SSP585_2050",22512.9466897383,70804.2690228979,48291.3223331596,214.50467146165,22513,70804,48291
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Burchell's zebra","Grazer","General_Grazer","SSP585_2050",35176.4792027161,110631.670348278,75455.1911455618,214.50467146165,35176,110632,75455
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Bushpig","Omnivore","Omnivore","SSP585_2050",176098.779758128,279242.519767639,103143.740009511,58.5715245450189,176099,279243,103144
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Cheetah","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Damara dik dik","Browser","Shrub_Browser","SSP585_2050",3832387.88292647,3653936.10618422,-178451.776742251,-4.65641219505115,3832388,3653936,-178452
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Duiker","Browser","Woodland_Browser","SSP585_2050",850269.455311103,795685.638764044,-54583.8165470586,-6.41959042584767,850269,795686,-54584
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Eland","Mixed","Mixed_Open","SSP585_2050",30632.1713040788,64921.6493004772,34289.4779963985,111.939430137075,30632,64922,34289
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Elephant","Mixed","Large_Mixed","SSP585_2050",4714.66542356928,7516.81569876894,2802.15027519966,59.4347641550833,4715,7517,2802
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Gemsbok","Mixed","Arid_Mixed","SSP585_2050",85187.5197569559,157208.960406691,72021.440649735,84.5445915730562,85188,157209,72021
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Giraffe","Browser","Woodland_Browser","SSP585_2050",17505.5476093462,16381.7631510244,-1123.7844583218,-6.41959042584768,17506,16382,-1124
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Hartmann's zebra","Grazer","Arid_Grazer","SSP585_2050",55735.2650243689,122766.845293529,67031.5802691602,120.267805741755,55735,122767,67032
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Hippopotamus","Grazer","Wetland_Grazer","SSP585_2050",2420.25247176093,10546.9113977093,8126.65892594836,335.77732161288,2420,10547,8127
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Impala","Mixed","Mixed_Open","SSP585_2050",306321.713040788,649216.493004772,342894.779963985,111.939430137075,306322,649216,342895
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Klipspringer","Browser","Rocky_Browser","SSP585_2050",1659101.96562473,1510078.77014896,-149023.195475775,-8.98216014225867,1659102,1510079,-149023
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Kudu","Browser","Woodland_Browser","SSP585_2050",78314.2919365489,73286.8351493198,-5027.45678722909,-6.41959042584768,78314,73287,-5027
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Leopard","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Ostrich","Mixed","Mixed_Open","SSP585_2050",153160.856520394,324608.246502386,171447.389981992,111.939430137075,153161,324608,171447
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Red Hartebeest","Grazer","General_Grazer","SSP585_2050",75043.155632461,236014.230076326,160971.074443865,214.50467146165,75043,236014,160971
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Red Lechwe","Grazer","Wetland_Grazer","SSP585_2050",42354.4182558162,184570.949459912,142216.531204096,335.77732161288,42354,184571,142217
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Reedbuck","Grazer","Wetland_Grazer","SSP585_2050",75296.7435658955,328126.132373178,252829.388807282,335.77732161288,75297,328126,252829
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Roan","Grazer","General_Grazer","SSP585_2050",46901.9722702881,147508.893797704,100606.921527416,214.50467146165,46902,147509,100607
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Sable","Grazer","General_Grazer","SSP585_2050",56282.3667243457,177010.672557245,120728.305832899,214.50467146165,56282,177011,120728
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Spotted Hyaena","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Springbok","Grazer","Arid_Grazer","SSP585_2050",410680.90017956,904597.807426004,493916.907246444,120.267805741755,410681,904598,493917
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Steenbok","Browser","Shrub_Browser","SSP585_2050",1916193.94146323,1826968.05309211,-89225.8883711253,-4.65641219505115,1916194,1826968,-89226
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Vervet monkey","Omnivore","Omnivore","SSP585_2050",2113185.35709754,3350910.23721167,1237724.88011413,58.5715245450189,2113185,3350910,1237725
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Warthog","Grazer","General_Grazer","SSP585_2050",160806.762069559,505744.778734985,344938.016665426,214.50467146165,160807,505745,344938
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Baboon","Omnivore","Omnivore","SSP585_2050",410378.377656152,407509.767921563,-2868.60973458958,-0.699015808526134,410378,407510,-2869
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Black rhinoceros","Browser","Shrub_Browser","SSP585_2050",15557.371842525,13564.9369130966,-1992.43492942846,-12.8070148968367,15557,13565,-1992
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Black-backed Jackal","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Black-faced Impala","Mixed","Mixed_Open","SSP585_2050",250624.322517305,262333.712881292,11709.3903639866,4.67208858516839,250624,262334,11709
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Blue wildebeest","Grazer","General_Grazer","SSP585_2050",42904.9482176597,50894.2302201553,7989.28200249562,18.6208871805775,42905,50894,7989
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Buffalo","Grazer","General_Grazer","SSP585_2050",18878.1772157703,22393.4612968683,3515.28408109807,18.6208871805775,18878,22393,3515
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Burchell's zebra","Grazer","General_Grazer","SSP585_2050",29497.151899641,34989.7832763568,5492.63137671574,18.6208871805775,29497,34990,5493
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Bushpig","Omnivore","Omnivore","SSP585_2050",164151.351062461,163003.907168625,-1147.44389383585,-0.699015808526144,164151,163004,-1147
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Cheetah","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Damara dik dik","Browser","Shrub_Browser","SSP585_2050",3111474.36850501,2712987.38261932,-398486.985885691,-12.8070148968367,3111474,2712987,-398487
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Duiker","Browser","Woodland_Browser","SSP585_2050",824134.760960977,776580.674362211,-47554.0865987656,-5.77018333061397,824135,776581,-47554
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Eland","Mixed","Mixed_Open","SSP585_2050",25062.4322517305,26233.3712881292,1170.93903639867,4.67208858516841,25062,26233,1171
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Elephant","Mixed","Large_Mixed","SSP585_2050",3898.74122971891,3843.31135266862,-55.4298770502846,-1.42173778110124,3899,3843,-55
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Gemsbok","Mixed","Arid_Mixed","SSP585_2050",52314.8100598871,52634.8219476821,320.011887795052,0.61170419510024,52315,52635,320
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Giraffe","Browser","Woodland_Browser","SSP585_2050",16967.480372726,15988.4256486338,-979.054724092231,-5.77018333061397,16967,15988,-979
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Hartmann's zebra","Grazer","Arid_Grazer","SSP585_2050",30550.9401421162,33697.4762909412,3146.53614882499,10.2993103786267,30551,33697,3147
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Hippopotamus","Grazer","Wetland_Grazer","SSP585_2050",4977.73495436186,5697.14512121032,719.410166848458,14.4525607217809,4978,5697,719
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Impala","Mixed","Mixed_Open","SSP585_2050",250624.322517305,262333.712881292,11709.3903639866,4.67208858516839,250624,262334,11709
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Klipspringer","Browser","Rocky_Browser","SSP585_2050",1030910.59097928,884545.104015544,-146365.486963735,-14.1976897166902,1030911,884545,-146365
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Kudu","Browser","Woodland_Browser","SSP585_2050",75907.1490358794,71527.1673754668,-4379.98166041261,-5.77018333061396,75907,71527,-4380
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Leopard","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Ostrich","Mixed","Mixed_Open","SSP585_2050",125312.161258653,131166.856440646,5854.69518199332,4.67208858516839,125312,131167,5855
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Red Hartebeest","Grazer","General_Grazer","SSP585_2050",62927.2573859009,74644.8709895611,11717.6136036602,18.6208871805775,62927,74645,11718
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Red Lechwe","Grazer","Wetland_Grazer","SSP585_2050",87110.3617013325,99700.0396211806,12589.677919848,14.4525607217809,87110,99700,12590
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Reedbuck","Grazer","Wetland_Grazer","SSP585_2050",154862.865246813,177244.514882099,22381.6496352853,14.4525607217808,154863,177245,22382
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Roan","Grazer","General_Grazer","SSP585_2050",39329.5358661881,46653.0443684757,7323.50850228765,18.6208871805775,39330,46653,7324
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Sable","Grazer","General_Grazer","SSP585_2050",47195.4430394257,55983.6532421708,8788.21020274518,18.6208871805775,47195,55984,8788
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Spotted Hyaena","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Springbok","Grazer","Arid_Grazer","SSP585_2050",225112.190520856,248297.193722725,23185.0032018684,10.2993103786267,225112,248297,23185
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Steenbok","Browser","Shrub_Browser","SSP585_2050",1555737.1842525,1356493.69130966,-199243.492942846,-12.8070148968367,1555737,1356494,-199243
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Vervet monkey","Omnivore","Omnivore","SSP585_2050",1969816.21274953,1956046.8860235,-13769.3267260301,-0.699015808526139,1969816,1956047,-13769
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Warthog","Grazer","General_Grazer","SSP585_2050",134844.122969788,159953.294977631,25109.1720078434,18.6208871805775,134844,159953,25109
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Baboon","Omnivore","Omnivore","SSP585_2050",3075643.19115687,3075648.75354253,5.56238565873355,0.000180852761943472,3075643,3075649,6
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Black rhinoceros","Browser","Shrub_Browser","SSP585_2050",146274.534991053,68434.6706906584,-77839.8643003945,-53.2149114711974,146275,68435,-77840
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Black-backed Jackal","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Black-faced Impala","Mixed","Mixed_Open","SSP585_2050",1935207.25646016,3009438.85339315,1074231.59693299,55.5098991773082,1935207,3009439,1074232
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Blue wildebeest","Grazer","General_Grazer","SSP585_2050",243306.389490746,777584.157998452,534277.768507706,219.590521081662,243306,777584,534278
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Buffalo","Grazer","General_Grazer","SSP585_2050",107054.811375928,342137.029519319,235082.218143391,219.590521081662,107055,342137,235082
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Burchell's zebra","Grazer","General_Grazer","SSP585_2050",167273.142774888,534589.108623936,367315.965849048,219.590521081662,167273,534589,367316
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Bushpig","Omnivore","Omnivore","SSP585_2050",1230257.27646275,1230259.50141701,2.22495426353998,0.000180852761947257,1230257,1230260,2
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Cheetah","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Damara dik dik","Browser","Shrub_Browser","SSP585_2050",29254906.9982106,13686934.1381317,-15567972.8600789,-53.2149114711974,29254907,13686934,-15567973
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Duiker","Browser","Woodland_Browser","SSP585_2050",7108855.61102008,3150137.23345139,-3958718.37756869,-55.6871400149403,7108856,3150137,-3958718
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Eland","Mixed","Mixed_Open","SSP585_2050",193520.725646016,300943.885339315,107423.159693299,55.5098991773082,193521,300944,107423
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Elephant","Mixed","Large_Mixed","SSP585_2050",31639.7306482669,32752.1078419076,1112.3771936407,3.51576063022404,31640,32752,1112
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Gemsbok","Mixed","Arid_Mixed","SSP585_2050",459841.679517715,678544.454454998,218702.774937283,47.5604506243671,459842,678544,218703
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Giraffe","Browser","Woodland_Browser","SSP585_2050",146358.79199159,64855.7665710579,-81503.0254205319,-55.6871400149403,146359,64856,-81503
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Hartmann's zebra","Grazer","Arid_Grazer","SSP585_2050",241675.490352883,539143.933266605,297468.442913722,123.085896082955,241675,539144,297468
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Hippopotamus","Grazer","Wetland_Grazer","SSP585_2050",11275.8352457104,53532.7082664643,42256.8730207539,374.756034474959,11276,53533,42257
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Impala","Mixed","Mixed_Open","SSP585_2050",1935207.25646016,3009438.85339315,1074231.59693299,55.5098991773082,1935207,3009439,1074232
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Klipspringer","Browser","Rocky_Browser","SSP585_2050",9971502.86406711,4664250.31154297,-5307252.55252415,-53.2241992493342,9971503,4664250,-5307253
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Kudu","Browser","Woodland_Browser","SSP585_2050",654763.016804481,290144.218870522,-364618.797933958,-55.6871400149403,654763,290144,-364619
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Leopard","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Ostrich","Mixed","Mixed_Open","SSP585_2050",967603.62823008,1504719.42669657,537115.798466494,55.5098991773082,967604,1504719,537116
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Red Hartebeest","Grazer","General_Grazer","SSP585_2050",356849.371253094,1140456.7650644,783607.393811303,219.590521081662,356849,1140457,783607
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Red Lechwe","Grazer","Wetland_Grazer","SSP585_2050",197327.116799932,936822.394663125,739495.277863193,374.756034474959,197327,936822,739495
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Reedbuck","Grazer","Wetland_Grazer","SSP585_2050",350803.763199878,1665462.03495667,1314658.27175679,374.756034474959,350804,1665462,1314658
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Roan","Grazer","General_Grazer","SSP585_2050",223030.857033184,712785.478165248,489754.621132064,219.590521081662,223031,712785,489755
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Sable","Grazer","General_Grazer","SSP585_2050",267637.02843982,855342.573798297,587705.545358477,219.590521081662,267637,855343,587706
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Spotted Hyaena","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Springbok","Grazer","Arid_Grazer","SSP585_2050",1780766.77102124,3972639.50828025,2191872.73725901,123.085896082955,1780767,3972640,2191873
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Steenbok","Browser","Shrub_Browser","SSP585_2050",14627453.4991053,6843467.06906584,-7783986.43003945,-53.2149114711974,14627453,6843467,-7783986
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Vervet monkey","Omnivore","Omnivore","SSP585_2050",14763087.317553,14763114.0170042,26.6994511634111,0.000180852761953565,14763087,14763114,27
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Warthog","Grazer","General_Grazer","SSP585_2050",764677.224113772,2443835.92513799,1679158.70102422,219.590521081662,764677,2443836,1679159
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Baboon","Omnivore","Omnivore","SSP585_2050",1464536.23960244,1981317.24652528,516781.006922836,35.2863242949262,1464536,1981317,516781
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Black rhinoceros","Browser","Shrub_Browser","SSP585_2050",66854.8279688139,46658.4864094439,-20196.34155937,-30.2092491641607,66855,46658,-20196
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Black-backed Jackal","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Black-faced Impala","Mixed","Mixed_Open","SSP585_2050",966599.082182399,1907864.52839186,941265.446209464,97.3790957968079,966599,1907865,941265
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Blue wildebeest","Grazer","General_Grazer","SSP585_2050",140402.666835567,486719.078474396,346316.411638828,246.65942566776,140403,486719,346316
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Buffalo","Grazer","General_Grazer","SSP585_2050",61777.1734076496,214156.394528734,152379.221121085,246.65942566776,61777,214156,152379
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Burchell's zebra","Grazer","General_Grazer","SSP585_2050",96526.8334494525,334619.366451147,238092.533001695,246.65942566776,96527,334619,238093
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Bushpig","Omnivore","Omnivore","SSP585_2050",585814.495840977,792526.898610112,206712.402769134,35.2863242949262,585814,792527,206712
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Cheetah","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Damara dik dik","Browser","Shrub_Browser","SSP585_2050",13370965.5937628,9331697.28188878,-4039268.311874,-30.2092491641607,13370966,9331697,-4039268
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Duiker","Browser","Woodland_Browser","SSP585_2050",3144395.15355662,2098689.84126128,-1045705.31229534,-33.2561672826821,3144395,2098690,-1045705
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Eland","Mixed","Mixed_Open","SSP585_2050",96659.9082182399,190786.452839186,94126.5446209464,97.3790957968079,96660,190786,94127
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Elephant","Mixed","Large_Mixed","SSP585_2050",15307.9430209644,21186.9067099132,5878.96368894882,38.404661429021,15308,21187,5879
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Gemsbok","Mixed","Arid_Mixed","SSP585_2050",244999.828615314,441068.719874311,196068.891258996,80.0281748632786,245000,441069,196069
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Giraffe","Browser","Woodland_Browser","SSP585_2050",64737.5472791068,43208.3202612616,-21529.2270178452,-33.2561672826821,64738,43208,-21529
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Hartmann's zebra","Grazer","Arid_Grazer","SSP585_2050",143881.113365531,348575.213876355,204694.100510823,142.266136063874,143881,348575,204694
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Hippopotamus","Grazer","Wetland_Grazer","SSP585_2050",6684.84451518357,32965.3416461482,26280.4971309647,393.135503320573,6685,32965,26280
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Impala","Mixed","Mixed_Open","SSP585_2050",966599.082182399,1907864.52839186,941265.446209464,97.3790957968079,966599,1907865,941265
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Klipspringer","Browser","Rocky_Browser","SSP585_2050",4999118.84880792,3445385.46586015,-1553733.38294776,-31.0801449203046,4999119,3445385,-1553733
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Kudu","Browser","Woodland_Browser","SSP585_2050",289615.343090741,193300.38011617,-96314.9629745705,-33.2561672826821,289615,193300,-96315
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Leopard","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Ostrich","Mixed","Mixed_Open","SSP585_2050",483299.541091199,953932.264195931,470632.723104732,97.3790957968079,483300,953932,470633
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Red Hartebeest","Grazer","General_Grazer","SSP585_2050",205923.911358832,713854.648429114,507930.737070282,246.65942566776,205924,713855,507931
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Red Lechwe","Grazer","Wetland_Grazer","SSP585_2050",116984.779015713,576893.478807594,459908.699791882,393.135503320573,116985,576893,459909
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Reedbuck","Grazer","Wetland_Grazer","SSP585_2050",207972.940472378,1025588.40676906,817615.466296679,393.135503320573,207973,1025588,817615
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Roan","Grazer","General_Grazer","SSP585_2050",128702.44459927,446159.155268196,317456.710668926,246.65942566776,128702,446159,317457
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Sable","Grazer","General_Grazer","SSP585_2050",154442.933519124,535390.986321835,380948.052802711,246.65942566776,154443,535391,380948
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Spotted Hyaena","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Springbok","Grazer","Arid_Grazer","SSP585_2050",1060176.62479865,2568448.94435209,1508272.31955344,142.266136063874,1060177,2568449,1508272
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Steenbok","Browser","Shrub_Browser","SSP585_2050",6685482.79688139,4665848.64094439,-2019634.155937,-30.2092491641607,6685483,4665849,-2019634
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Vervet monkey","Omnivore","Omnivore","SSP585_2050",7029773.95009173,9510322.78332134,2480548.83322961,35.2863242949263,7029774,9510323,2480549
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Warthog","Grazer","General_Grazer","SSP585_2050",441265.524340354,1529688.5323481,1088423.00800775,246.65942566776,441266,1529689,1088423
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Baboon","Omnivore","Omnivore","SSP585_2050",738839.105339595,740121.262528606,1282.15718901169,0.173536725350016,738839,740121,1282
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Black rhinoceros","Browser","Shrub_Browser","SSP585_2050",27820.640780365,20848.8774073769,-6971.76337298813,-25.0596793511262,27821,20849,-6972
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Black-backed Jackal","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Black-faced Impala","Mixed","Mixed_Open","SSP585_2050",562779.323158966,658621.1473324,95841.8241734339,17.0300898113063,562779,658621,95842
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Blue wildebeest","Grazer","General_Grazer","SSP585_2050",107636.710231327,155197.539314629,47560.8290833019,44.18643879127,107637,155198,47561
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Buffalo","Grazer","General_Grazer","SSP585_2050",47360.1525017838,68286.9172984367,20926.7647966529,44.18643879127,47360,68287,20927
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Burchell's zebra","Grazer","General_Grazer","SSP585_2050",74000.2382840372,106698.308278807,32698.0699947701,44.1864387912701,74000,106698,32698
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Bushpig","Omnivore","Omnivore","SSP585_2050",295535.642135838,296048.505011443,512.862875604653,0.173536725350008,295536,296049,513
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Cheetah","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Damara dik dik","Browser","Shrub_Browser","SSP585_2050",5564128.156073,4169775.48147537,-1394352.67459763,-25.0596793511262,5564128,4169775,-1394353
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Duiker","Browser","Woodland_Browser","SSP585_2050",1339609.75192905,998123.477342791,-341486.274586255,-25.4914742218405,1339610,998123,-341486
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Eland","Mixed","Mixed_Open","SSP585_2050",56277.9323158966,65862.11473324,9584.1824173434,17.0300898113064,56278,65862,9584
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Elephant","Mixed","Large_Mixed","SSP585_2050",7681.421904857,7790.93312211278,109.511217255779,1.42566335519905,7681,7791,110
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Gemsbok","Mixed","Arid_Mixed","SSP585_2050",130240.322665868,149297.54165272,19057.2189868522,14.6323493345019,130240,149298,19057
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Giraffe","Browser","Woodland_Browser","SSP585_2050",27580.2007750098,20549.6010041163,-7030.59977089348,-25.4914742218405,27580,20550,-7031
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Hartmann's zebra","Grazer","Arid_Grazer","SSP585_2050",85337.0892063813,111582.914144922,26245.8249385408,30.755472424267,85337,111583,26246
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Hippopotamus","Grazer","Wetland_Grazer","SSP585_2050",6600.82683882132,10377.3154058609,3776.48856703954,57.212356258597,6601,10377,3776
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Impala","Mixed","Mixed_Open","SSP585_2050",562779.323158966,658621.1473324,95841.8241734339,17.0300898113063,562779,658621,95842
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Klipspringer","Browser","Rocky_Browser","SSP585_2050",1896807.82296449,1418544.85224603,-478262.970718452,-25.2140973338556,1896808,1418545,-478263
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Kudu","Browser","Woodland_Browser","SSP585_2050",123385.108730307,91932.4255447307,-31452.6831855761,-25.4914742218406,123385,91932,-31453
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Leopard","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Ostrich","Mixed","Mixed_Open","SSP585_2050",281389.661579483,329310.5736662,47920.912086717,17.0300898113063,281390,329311,47921
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Red Hartebeest","Grazer","General_Grazer","SSP585_2050",157867.175005946,227623.057661456,69755.8826555095,44.18643879127,157867,227623,69756
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Red Lechwe","Grazer","Wetland_Grazer","SSP585_2050",115514.469679373,181603.019602565,66088.5499231919,57.212356258597,115514,181603,66089
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Reedbuck","Grazer","Wetland_Grazer","SSP585_2050",205359.057207774,322849.812626782,117490.755419008,57.212356258597,205359,322850,117491
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Roan","Grazer","General_Grazer","SSP585_2050",98666.9843787163,142264.41103841,43597.4266596934,44.18643879127,98667,142264,43597
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Sable","Grazer","General_Grazer","SSP585_2050",118400.38125446,170717.293246092,52316.9119916321,44.18643879127,118400,170717,52317
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Spotted Hyaena","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Springbok","Grazer","Arid_Grazer","SSP585_2050",628799.604678599,822189.893699426,193390.289020827,30.7554724242671,628800,822190,193390
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Steenbok","Browser","Shrub_Browser","SSP585_2050",2782064.0780365,2084887.74073769,-697176.337298813,-25.0596793511262,2782064,2084888,-697176
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Vervet monkey","Omnivore","Omnivore","SSP585_2050",3546427.70563006,3552582.06013731,6154.3545072563,0.173536725350022,3546428,3552582,6154
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Warthog","Grazer","General_Grazer","SSP585_2050",338286.80358417,487763.694988833,149476.891404663,44.18643879127,338287,487764,149477
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Baboon","Omnivore","Omnivore","SSP585_2050",186706.960781798,239974.67057324,53267.7097914422,28.5301145540554,186707,239975,53268
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Black rhinoceros","Browser","Shrub_Browser","SSP585_2050",4554.83474729879,4735.59113494406,180.756387645276,3.96845105637416,4555,4736,181
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Black-backed Jackal","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Black-faced Impala","Mixed","Mixed_Open","SSP585_2050",178256.532469158,244056.704547306,65800.1720781477,36.9131897533867,178257,244057,65800
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Blue wildebeest","Grazer","General_Grazer","SSP585_2050",45354.9114391505,65523.1144174407,20168.2029782902,44.467517052367,45355,65523,20168
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Buffalo","Grazer","General_Grazer","SSP585_2050",19956.1610332262,28830.1703436739,8874.00931044769,44.467517052367,19956,28830,8874
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Burchell's zebra","Grazer","General_Grazer","SSP585_2050",31181.501614416,45047.1411619905,13865.6395475745,44.467517052367,31182,45047,13866
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Bushpig","Omnivore","Omnivore","SSP585_2050",74682.7843127191,95989.8682292959,21307.0839165769,28.5301145540554,74683,95990,21307
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Cheetah","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Damara dik dik","Browser","Shrub_Browser","SSP585_2050",910966.949459757,947118.226988813,36151.2775290553,3.96845105637417,910967,947118,36151
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Duiker","Browser","Woodland_Browser","SSP585_2050",195160.015470959,202433.768420808,7273.75294984845,3.7270713123769,195160,202434,7274
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Eland","Mixed","Mixed_Open","SSP585_2050",17825.6532469158,24405.6704547306,6580.01720781477,36.9131897533867,17826,24406,6580
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Elephant","Mixed","Large_Mixed","SSP585_2050",2016.70936019377,2590.37244036571,573.663080171936,28.4455009479807,2017,2590,574
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Gemsbok","Mixed","Arid_Mixed","SSP585_2050",43121.4414597416,56975.2126770573,13853.7712173156,32.1273379282777,43121,56975,13854
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Giraffe","Browser","Woodland_Browser","SSP585_2050",4018.00031851975,4167.75405572251,149.753737202762,3.72707131237689,4018,4168,150
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Hartmann's zebra","Grazer","Arid_Grazer","SSP585_2050",34244.7948142482,46698.110129785,12453.3153155368,36.3655714192085,34245,46698,12453
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Hippopotamus","Grazer","Wetland_Grazer","SSP585_2050",2999.22717965477,4479.91631392853,1480.68913427376,49.3690222707369,2999,4480,1481
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Impala","Mixed","Mixed_Open","SSP585_2050",178256.532469158,244056.704547306,65800.1720781477,36.9131897533867,178257,244057,65800
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Klipspringer","Browser","Rocky_Browser","SSP585_2050",384806.04442081,378916.689755588,-5889.35466522159,-1.53047353351373,384806,378917,-5889
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Kudu","Browser","Woodland_Browser","SSP585_2050",17975.2645828515,18645.2155124428,669.950929591305,3.7270713123769,17975,18645,670
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Leopard","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Ostrich","Mixed","Mixed_Open","SSP585_2050",89128.2662345791,122028.352273653,32900.0860390739,36.9131897533867,89128,122028,32900
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Red Hartebeest","Grazer","General_Grazer","SSP585_2050",66520.5367774207,96100.5678122464,29580.0310348256,44.467517052367,66521,96101,29580
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Red Lechwe","Grazer","Wetland_Grazer","SSP585_2050",52486.4756439585,78398.5354937493,25912.0598497908,49.3690222707369,52486,78399,25912
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Reedbuck","Grazer","Wetland_Grazer","SSP585_2050",93309.290033704,139375.17421111,46065.8841774058,49.3690222707369,93309,139375,46066
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Roan","Grazer","General_Grazer","SSP585_2050",41575.335485888,60062.854882654,18487.519396766,44.467517052367,41575,60063,18488
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Sable","Grazer","General_Grazer","SSP585_2050",49890.4025830655,72075.4258591848,22185.0232761192,44.467517052367,49890,72075,22185
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Spotted Hyaena","Carnivore","Carnivore","SSP585_2050",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Springbok","Grazer","Arid_Grazer","SSP585_2050",252330.067052355,344091.337798416,91761.2707460609,36.3655714192085,252330,344091,91761
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Steenbok","Browser","Shrub_Browser","SSP585_2050",455483.474729879,473559.113494406,18075.6387645276,3.96845105637417,455483,473559,18076
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Vervet monkey","Omnivore","Omnivore","SSP585_2050",896193.411752629,1151878.41875155,255685.006998923,28.5301145540554,896193,1151878,255685
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Warthog","Grazer","General_Grazer","SSP585_2050",142544.007380187,205929.788169099,63385.7807889121,44.467517052367,142544,205930,63386
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Baboon","Omnivore","Omnivore","SSP585_2090",405072.304531686,636922.148720871,231849.844189185,57.2366566648469,405072,636922,231850
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Black rhinoceros","Browser","Shrub_Browser","SSP585_2090",17769.2739677446,16824.7107658648,-944.563201879737,-5.31571072399662,17769,16825,-945
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Black-backed Jackal","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Black-faced Impala","Mixed","Mixed_Open","SSP585_2090",279856.68436005,590137.898650277,310281.214290227,110.871468015763,279857,590138,310281
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Blue wildebeest","Grazer","General_Grazer","SSP585_2090",46049.0098653062,145711.766785263,99662.7569199571,216.427578381102,46049,145712,99663
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Buffalo","Grazer","General_Grazer","SSP585_2090",20261.5643407347,64113.1773855159,43851.6130447811,216.427578381102,20262,64113,43852
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Burchell's zebra","Grazer","General_Grazer","SSP585_2090",31658.694282398,100176.839664869,68518.1453824705,216.427578381102,31659,100177,68518
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Bushpig","Omnivore","Omnivore","SSP585_2090",162028.921812675,254768.859488348,92739.9376756739,57.236656664847,162029,254769,92740
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Cheetah","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Damara dik dik","Browser","Shrub_Browser","SSP585_2090",3553854.79354891,3364942.15317297,-188912.640375948,-5.31571072399662,3553855,3364942,-188913
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Duiker","Browser","Woodland_Browser","SSP585_2090",790892.527827588,734538.437620981,-56354.090206607,-7.12537901469364,790893,734538,-56354
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Eland","Mixed","Mixed_Open","SSP585_2090",27985.668436005,59013.7898650277,31028.1214290227,110.871468015763,27986,59014,31028
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Elephant","Mixed","Large_Mixed","SSP585_2090",4332.79124751428,6854.37435000974,2521.58310249546,58.1976596251226,4333,6854,2522
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Gemsbok","Mixed","Arid_Mixed","SSP585_2090",77703.3209827478,142863.393658632,65160.0726758845,83.8575132333814,77703,142863,65160
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Giraffe","Browser","Woodland_Browser","SSP585_2090",16283.0814552739,15122.8501863143,-1160.23126895956,-7.12537901469365,16283,15123,-1160
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Hartmann's zebra","Grazer","Arid_Grazer","SSP585_2090",50463.7125070439,111280.683197556,60816.9706905119,120.516243591913,50464,111281,60817
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Hippopotamus","Grazer","Wetland_Grazer","SSP585_2090",2155.25277665284,9539.66595002633,7384.41317337349,342.623995355276,2155,9540,7384
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Impala","Mixed","Mixed_Open","SSP585_2090",279856.68436005,590137.898650277,310281.214290227,110.871468015763,279857,590138,310281
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Klipspringer","Browser","Rocky_Browser","SSP585_2090",1528741.04277286,1385055.37922587,-143685.663546992,-9.39895374865924,1528741,1385055,-143686
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Kudu","Browser","Woodland_Browser","SSP585_2090",72845.3644051725,67654.8560966693,-5190.50830850328,-7.12537901469365,72845,67655,-5191
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Leopard","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Ostrich","Mixed","Mixed_Open","SSP585_2090",139928.342180025,295068.949325139,155140.607145114,110.871468015763,139928,295069,155141
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Red Hartebeest","Grazer","General_Grazer","SSP585_2090",67538.5478024491,213710.591285053,146172.043482604,216.427578381102,67539,213711,146172
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Red Lechwe","Grazer","Wetland_Grazer","SSP585_2090",37716.9235914247,166944.154125461,129227.230534036,342.623995355276,37717,166944,129227
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Reedbuck","Grazer","Wetland_Grazer","SSP585_2090",67052.3086069772,296789.607334153,229737.298727175,342.623995355276,67052,296790,229737
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Roan","Grazer","General_Grazer","SSP585_2090",42211.5923765307,133569.119553158,91357.5271766274,216.427578381102,42212,133569,91358
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Sable","Grazer","General_Grazer","SSP585_2090",50653.9108518369,160282.94346379,109629.032611953,216.427578381102,50654,160283,109629
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Spotted Hyaena","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Springbok","Grazer","Arid_Grazer","SSP585_2090",371837.88163085,819962.928824095,448125.047193245,120.516243591913,371838,819963,448125
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Steenbok","Browser","Shrub_Browser","SSP585_2090",1776927.39677446,1682471.07658648,-94456.3201879738,-5.31571072399662,1776927,1682471,-94456
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Vervet monkey","Omnivore","Omnivore","SSP585_2090",1944347.06175209,3057226.31386018,1112879.25210809,57.236656664847,1944347,3057226,1112879
+"Cluster","Cluster_1","Cluster A — South, Kunene South & Erongo","Warthog","Grazer","General_Grazer","SSP585_2090",144725.459576677,457951.267039399,313225.807462722,216.427578381102,144725,457951,313226
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Baboon","Omnivore","Omnivore","SSP585_2090",385715.464348149,382964.27072928,-2751.19361886883,-0.713270240154432,385715,382964,-2751
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Black rhinoceros","Browser","Shrub_Browser","SSP585_2090",14792.7145809175,12852.7005616862,-1940.0140192313,-13.114658628876,14793,12853,-1940
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Black-backed Jackal","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Black-faced Impala","Mixed","Mixed_Open","SSP585_2090",234826.541070909,246423.963093931,11597.4220230226,4.93871858356959,234827,246424,11597
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Blue wildebeest","Grazer","General_Grazer","SSP585_2090",39742.5482431488,47596.1024847451,7853.55424159634,19.7610736824109,39743,47596,7854
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Buffalo","Grazer","General_Grazer","SSP585_2090",17486.7212269855,20942.2850932879,3455.56386630239,19.7610736824109,17487,20942,3456
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Burchell's zebra","Grazer","General_Grazer","SSP585_2090",27323.0019171648,32722.3204582623,5399.31854109749,19.7610736824109,27323,32722,5399
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Bushpig","Omnivore","Omnivore","SSP585_2090",154286.18573926,153185.708291712,-1100.47744754754,-0.71327024015444,154286,153186,-1100
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Cheetah","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Damara dik dik","Browser","Shrub_Browser","SSP585_2090",2958542.91618351,2570540.11233725,-388002.80384626,-13.114658628876,2958543,2570540,-388003
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Duiker","Browser","Woodland_Browser","SSP585_2090",777858.619528012,730578.636334279,-47279.9831937329,-6.0782232152189,777859,730579,-47280
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Eland","Mixed","Mixed_Open","SSP585_2090",23482.6541070909,24642.3963093931,1159.74220230226,4.93871858356959,23483,24642,1160
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Elephant","Mixed","Large_Mixed","SSP585_2090",3671.07928989165,3617.78732642839,-53.2919634632631,-1.45167018347991,3671,3618,-53
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Gemsbok","Mixed","Arid_Mixed","SSP585_2090",49233.9039008577,49620.2007034315,386.296802573859,0.784615421421273,49234,49620,386
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Giraffe","Browser","Woodland_Browser","SSP585_2090",16014.7362844003,15041.3248657058,-973.411418694501,-6.0782232152189,16015,15041,-973
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Hartmann's zebra","Grazer","Arid_Grazer","SSP585_2090",28523.4904451849,31649.006167953,3125.51572276813,10.9576902194863,28523,31649,3126
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Hippopotamus","Grazer","Wetland_Grazer","SSP585_2090",4625.22707652318,5330.22015213761,704.993075614438,15.2423451638268,4625,5330,705
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Impala","Mixed","Mixed_Open","SSP585_2090",234826.541070909,246423.963093931,11597.4220230226,4.93871858356959,234827,246424,11597
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Klipspringer","Browser","Rocky_Browser","SSP585_2090",981747.84270812,839401.117158108,-142346.725550012,-14.4993163577883,981748,839401,-142347
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Kudu","Browser","Woodland_Browser","SSP585_2090",71644.8728512643,67290.1375571047,-4354.7352941596,-6.07822321521889,71645,67290,-4355
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Leopard","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Ostrich","Mixed","Mixed_Open","SSP585_2090",117413.270535454,123211.981546966,5798.71101151132,4.93871858356959,117413,123212,5799
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Red Hartebeest","Grazer","General_Grazer","SSP585_2090",58289.0707566182,69807.6169776262,11518.546221008,19.7610736824109,58289,69808,11519
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Red Lechwe","Grazer","Wetland_Grazer","SSP585_2090",80941.4738391556,93278.8526624082,12337.3788232527,15.2423451638268,80941,93279,12337
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Reedbuck","Grazer","Wetland_Grazer","SSP585_2090",143895.953491832,165829.071399837,21933.1179080048,15.2423451638268,143896,165829,21933
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Roan","Grazer","General_Grazer","SSP585_2090",36430.6692228864,43629.7606110164,7199.09138812999,19.7610736824109,36431,43630,7199
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Sable","Grazer","General_Grazer","SSP585_2090",43716.8030674637,52355.7127332196,8638.90966575598,19.7610736824109,43717,52356,8639
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Spotted Hyaena","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Springbok","Grazer","Arid_Grazer","SSP585_2090",210173.087490836,233203.203342812,23030.1158519757,10.9576902194863,210173,233203,23030
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Steenbok","Browser","Shrub_Browser","SSP585_2090",1479271.45809175,1285270.05616862,-194001.40192313,-13.114658628876,1479271,1285270,-194001
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Vervet monkey","Omnivore","Omnivore","SSP585_2090",1851434.22887112,1838228.49950055,-13205.72937057,-0.713270240154415,1851434,1838228,-13206
+"Cluster","Cluster_2","Cluster C — Kavango East, Kavango West & Zambezi","Warthog","Grazer","General_Grazer","SSP585_2090",124905.151621325,149587.750666342,24682.5990450171,19.7610736824109,124905,149588,24683
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Baboon","Omnivore","Omnivore","SSP585_2090",2887687.34215845,2887689.08721468,1.74505623197183,6.04309270777029e-05,2887687,2887689,2
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Black rhinoceros","Browser","Shrub_Browser","SSP585_2090",137627.861247564,64312.4366975621,-73315.4245500019,-53.2707722734445,137628,64312,-73315
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Black-backed Jackal","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Black-faced Impala","Mixed","Mixed_Open","SSP585_2090",1813802.95929115,2825568.8281036,1011765.86881245,55.7814653256417,1813803,2825569,1011766
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Blue wildebeest","Grazer","General_Grazer","SSP585_2090",226724.690678207,729939.260026394,503214.569348187,221.949611153029,226725,729939,503215
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Buffalo","Grazer","General_Grazer","SSP585_2090",99758.863898411,321173.274411613,221414.410513202,221.949611153029,99759,321173,221414
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Burchell's zebra","Grazer","General_Grazer","SSP585_2090",155873.224841267,501833.241268146,345960.016426879,221.949611153029,155873,501833,345960
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Bushpig","Omnivore","Omnivore","SSP585_2090",1155074.93686338,1155075.63488587,0.6980224926956,6.043092706964e-05,1155075,1155076,1
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Cheetah","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Damara dik dik","Browser","Shrub_Browser","SSP585_2090",27525572.2495128,12862487.3395124,-14663084.9100004,-53.2707722734445,27525572,12862487,-14663085
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Duiker","Browser","Woodland_Browser","SSP585_2090",6686738.40170422,2958123.72562447,-3728614.67607975,-55.7613361265853,6686738,2958124,-3728615
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Eland","Mixed","Mixed_Open","SSP585_2090",181380.295929115,282556.88281036,101176.586881245,55.7814653256417,181380,282557,101177
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Elephant","Mixed","Large_Mixed","SSP585_2090",29706.8184274196,30754.3005783095,1047.48215088993,3.52606642629592,29707,30754,1047
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Gemsbok","Mixed","Arid_Mixed","SSP585_2090",431224.290287416,637208.802835581,205984.512548165,47.7673723831451,431224,637209,205985
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Giraffe","Browser","Woodland_Browser","SSP585_2090",137668.143564499,60902.5472922685,-76765.5962722301,-55.7613361265853,137668,60903,-76766
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Hartmann's zebra","Grazer","Arid_Grazer","SSP585_2090",226045.081750884,506217.551287843,280172.469536959,123.945395036609,226045,506218,280172
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Hippopotamus","Grazer","Wetland_Grazer","SSP585_2090",10433.0473905337,50233.1462877051,39800.0988971714,381.481051579268,10433,50233,39800
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Impala","Mixed","Mixed_Open","SSP585_2090",1813802.95929115,2825568.8281036,1011765.86881245,55.7814653256417,1813803,2825569,1011766
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Klipspringer","Browser","Rocky_Browser","SSP585_2090",9382666.96729204,4383891.44735688,-4998775.51993517,-53.2767020012635,9382667,4383891,-4998776
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Kudu","Browser","Woodland_Browser","SSP585_2090",615883.800156967,272458.764202254,-343425.035954714,-55.7613361265853,615884,272459,-343425
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Leopard","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Ostrich","Mixed","Mixed_Open","SSP585_2090",906901.479645574,1412784.4140518,505882.934406227,55.7814653256417,906901,1412784,505883
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Red Hartebeest","Grazer","General_Grazer","SSP585_2090",332529.546328037,1070577.58137204,738048.035044008,221.949611153029,332530,1070578,738048
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Red Lechwe","Grazer","Wetland_Grazer","SSP585_2090",182578.32933434,879080.060034839,696501.730700499,381.481051579268,182578,879080,696502
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Reedbuck","Grazer","Wetland_Grazer","SSP585_2090",324583.696594382,1562808.99561749,1238225.29902311,381.481051579268,324584,1562809,1238225
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Roan","Grazer","General_Grazer","SSP585_2090",207830.966455023,669110.988357528,461280.021902505,221.949611153029,207831,669111,461280
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Sable","Grazer","General_Grazer","SSP585_2090",249397.159746028,802933.186029033,553536.026283006,221.949611153029,249397,802933,553536
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Spotted Hyaena","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Springbok","Grazer","Arid_Grazer","SSP585_2090",1665595.33921704,3730024.06212095,2064428.72290391,123.945395036609,1665595,3730024,2064429
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Steenbok","Browser","Shrub_Browser","SSP585_2090",13762786.1247564,6431243.66975621,-7331542.45500019,-53.2707722734445,13762786,6431244,-7331542
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Vervet monkey","Omnivore","Omnivore","SSP585_2090",13860899.2423606,13860907.6186305,8.3762699123472,6.043092706964e-05,13860899,13860908,8
+"Cluster","Cluster_3","Cluster B — Omaheke & Otjozondjupa (Central / Group 4)","Warthog","Grazer","General_Grazer","SSP585_2090",712563.313560079,2294094.81722581,1581531.50366573,221.949611153029,712563,2294095,1581532
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Baboon","Omnivore","Omnivore","SSP585_2090",1369678.96992371,1845355.17345101,475676.203527294,34.729028770427,1369679,1845355,475676
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Black rhinoceros","Browser","Shrub_Browser","SSP585_2090",62792.5073788154,43612.7790123704,-19179.728366445,-30.5446129913833,62793,43613,-19180
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Black-backed Jackal","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Black-faced Impala","Mixed","Mixed_Open","SSP585_2090",900361.904819639,1774898.43966842,874536.534848777,97.1316678512697,900362,1774898,874537
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Blue wildebeest","Grazer","General_Grazer","SSP585_2090",129439.951328461,452258.575942811,322818.62461435,249.396435413654,129440,452259,322819
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Buffalo","Grazer","General_Grazer","SSP585_2090",56953.5785845228,198993.773414837,142040.194830314,249.396435413654,56954,198994,142040
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Burchell's zebra","Grazer","General_Grazer","SSP585_2090",88989.9665383168,310927.770960682,221937.804422366,249.396435413654,88990,310928,221938
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Bushpig","Omnivore","Omnivore","SSP585_2090",547871.587969485,738142.069380402,190270.481410917,34.729028770427,547872,738142,190270
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Cheetah","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Damara dik dik","Browser","Shrub_Browser","SSP585_2090",12558501.4757631,8722555.80247408,-3835945.67328899,-30.5446129913833,12558501,8722556,-3835946
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Duiker","Browser","Woodland_Browser","SSP585_2090",2955824.18448761,1963298.11055021,-992526.073937406,-33.5786573215774,2955824,1963298,-992526
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Eland","Mixed","Mixed_Open","SSP585_2090",90036.1904819639,177489.843966841,87453.6534848776,97.1316678512697,90036,177490,87454
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Elephant","Mixed","Large_Mixed","SSP585_2090",14310.9019362437,19730.6786558087,5419.77671956501,37.8716641600271,14311,19731,5420
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Gemsbok","Mixed","Arid_Mixed","SSP585_2090",228134.332998142,410264.998703878,182130.665705736,79.8348338508169,228134,410265,182131
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Giraffe","Browser","Woodland_Browser","SSP585_2090",60855.2037982743,40420.8434525042,-20434.3603457701,-33.5786573215774,60855,40421,-20434
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Hartmann's zebra","Grazer","Arid_Grazer","SSP585_2090",133290.624936239,323957.270932033,190666.645995794,143.045803924321,133291,323957,190667
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Hippopotamus","Grazer","Wetland_Grazer","SSP585_2090",6113.08582778759,30623.4125527141,24510.3267249265,400.948512999974,6113,30623,24510
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Impala","Mixed","Mixed_Open","SSP585_2090",900361.904819639,1774898.43966842,874536.534848777,97.1316678512697,900362,1774898,874537
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Klipspringer","Browser","Rocky_Browser","SSP585_2090",4686672.41794511,3216309.20011028,-1470363.21783483,-31.3732876273764,4686672,3216309,-1470363
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Kudu","Browser","Woodland_Browser","SSP585_2090",272246.964360701,180830.089129624,-91416.8752310768,-33.5786573215774,272247,180830,-91417
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Leopard","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Ostrich","Mixed","Mixed_Open","SSP585_2090",450180.952409819,887449.219834208,437268.267424388,97.1316678512697,450181,887449,437268
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Red Hartebeest","Grazer","General_Grazer","SSP585_2090",189845.261948409,663312.578049456,473467.316101047,249.396435413654,189845,663313,473467
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Red Lechwe","Grazer","Wetland_Grazer","SSP585_2090",106979.001986283,535909.719672497,428930.717686214,400.948512999974,106979,535910,428931
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Reedbuck","Grazer","Wetland_Grazer","SSP585_2090",190184.892420058,952728.390528883,762543.498108824,400.948512999974,190185,952728,762543
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Roan","Grazer","General_Grazer","SSP585_2090",118653.288717756,414570.36128091,295917.072563154,249.396435413654,118653,414570,295917
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Sable","Grazer","General_Grazer","SSP585_2090",142383.946461307,497484.433537092,355100.487075785,249.396435413654,142384,497484,355100
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Spotted Hyaena","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Springbok","Grazer","Arid_Grazer","SSP585_2090",982141.4468986,2387053.57528866,1404912.12839006,143.045803924321,982141,2387054,1404912
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Steenbok","Browser","Shrub_Browser","SSP585_2090",6279250.73788154,4361277.90123704,-1917972.8366445,-30.5446129913833,6279251,4361278,-1917973
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Vervet monkey","Omnivore","Omnivore","SSP585_2090",6574459.05563382,8857704.83256483,2283245.77693101,34.729028770427,6574459,8857705,2283246
+"Cluster","Cluster_4","Cluster E — Kunene (North)","Warthog","Grazer","General_Grazer","SSP585_2090",406811.275603734,1421384.09582026,1014572.82021653,249.396435413654,406811,1421384,1014573
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Baboon","Omnivore","Omnivore","SSP585_2090",705225.11984303,706200.900972111,975.781129081151,0.138364488391784,705225,706201,976
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Black rhinoceros","Browser","Shrub_Browser","SSP585_2090",26672.2327648923,19954.4375857044,-6717.79517918796,-25.1864747822325,26672,19954,-6718
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Black-backed Jackal","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Black-faced Impala","Mixed","Mixed_Open","SSP585_2090",536932.994901659,628417.836705443,91484.8418037837,17.0384093867316,536933,628418,91485
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Blue wildebeest","Grazer","General_Grazer","SSP585_2090",102383.394569177,147936.750684982,45553.3561158057,44.4929144100873,102383,147937,45553
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Buffalo","Grazer","General_Grazer","SSP585_2090",45048.6936104377,65092.1703013922,20043.4766909545,44.4929144100873,45049,65092,20043
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Burchell's zebra","Grazer","General_Grazer","SSP585_2090",70388.5837663089,101706.516095925,31317.9323296164,44.4929144100873,70389,101707,31318
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Bushpig","Omnivore","Omnivore","SSP585_2090",282090.047937212,282480.360388844,390.312451632461,0.138364488391784,282090,282480,390
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Cheetah","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Damara dik dik","Browser","Shrub_Browser","SSP585_2090",5334446.55297846,3990887.51714087,-1343559.03583759,-25.1864747822325,5334447,3990888,-1343559
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Duiker","Browser","Woodland_Browser","SSP585_2090",1283260.34695327,954281.077157373,-328979.269795893,-25.6362062910274,1283260,954281,-328979
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Eland","Mixed","Mixed_Open","SSP585_2090",53693.2994901659,62841.7836705443,9148.48418037837,17.0384093867317,53693,62842,9148
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Elephant","Mixed","Large_Mixed","SSP585_2090",7341.3960534877,7439.1350432525,97.7389897647981,1.3313406476465,7341,7439,98
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Gemsbok","Mixed","Arid_Mixed","SSP585_2090",124350.582137147,142514.992955649,18164.4108185028,14.6074192065054,124351,142515,18164
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Giraffe","Browser","Woodland_Browser","SSP585_2090",26420.0659666849,19646.96335324,-6773.10261344487,-25.6362062910274,26420,19647,-6773
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Hartmann's zebra","Grazer","Arid_Grazer","SSP585_2090",81328.6104571175,106436.884820747,25108.2743636295,30.8726218516526,81329,106437,25108
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Hippopotamus","Grazer","Wetland_Grazer","SSP585_2090",6264.43265127098,9883.52783203427,3619.09518076328,57.7721141279891,6264,9884,3619
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Impala","Mixed","Mixed_Open","SSP585_2090",536932.994901659,628417.836705443,91484.8418037837,17.0384093867316,536933,628418,91485
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Klipspringer","Browser","Rocky_Browser","SSP585_2090",1818923.25356359,1357972.51126173,-460950.742301861,-25.3419566437878,1818923,1357973,-460951
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Kudu","Browser","Woodland_Browser","SSP585_2090",118195.031956222,87894.3097381791,-30300.7222180428,-25.6362062910274,118195,87894,-30301
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Leopard","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Ostrich","Mixed","Mixed_Open","SSP585_2090",268466.49745083,314208.918352722,45742.4209018918,17.0384093867316,268466,314209,45742
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Red Hartebeest","Grazer","General_Grazer","SSP585_2090",150162.312034792,216973.901004641,66811.5889698484,44.4929144100873,150162,216974,66812
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Red Lechwe","Grazer","Wetland_Grazer","SSP585_2090",109627.571397242,172961.7370606,63334.1656633575,57.7721141279891,109628,172962,63334
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Reedbuck","Grazer","Wetland_Grazer","SSP585_2090",194893.460261764,307487.532552177,112594.072290413,57.772114127989,194893,307488,112594
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Roan","Grazer","General_Grazer","SSP585_2090",93851.4450217453,135608.6881279,41757.2431061552,44.4929144100873,93851,135609,41757
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Sable","Grazer","General_Grazer","SSP585_2090",112621.734026094,162730.425753481,50108.6917273863,44.4929144100873,112622,162730,50109
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Spotted Hyaena","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Springbok","Grazer","Arid_Grazer","SSP585_2090",599263.445473498,784271.782889715,185008.337416218,30.8726218516526,599263,784272,185008
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Steenbok","Browser","Shrub_Browser","SSP585_2090",2667223.27648923,1995443.75857044,-671779.517918796,-25.1864747822325,2667223,1995444,-671780
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Vervet monkey","Omnivore","Omnivore","SSP585_2090",3385080.57524654,3389764.32466613,4683.74941958999,0.138364488391797,3385081,3389764,4684
+"Cluster","Cluster_5","Cluster D — Omusati, Oshana, Oshikoto & Ohangwena","Warthog","Grazer","General_Grazer","SSP585_2090",321776.382931698,464944.073581373,143167.690649675,44.4929144100873,321776,464944,143168
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Baboon","Omnivore","Omnivore","SSP585_2090",166076.852144241,214945.527150708,48868.6750064678,29.4253379537953,166077,214946,48869
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Black rhinoceros","Browser","Shrub_Browser","SSP585_2090",4031.21553162787,4223.81190140834,192.596369780476,4.77762521674703,4031,4224,193
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Black-backed Jackal","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Black-faced Impala","Mixed","Mixed_Open","SSP585_2090",158869.50239431,218866.273655453,59996.7712611427,37.7648134833532,158870,218866,59997
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Blue wildebeest","Grazer","General_Grazer","SSP585_2090",40509.130605293,58828.0502115091,18318.9196062161,45.2217051624962,40509,58828,18319
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Buffalo","Grazer","General_Grazer","SSP585_2090",17824.0174663289,25884.342093064,8060.32462673509,45.2217051624962,17824,25884,8060
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Burchell's zebra","Grazer","General_Grazer","SSP585_2090",27850.0272911389,40444.2845204125,12594.2572292736,45.2217051624962,27850,40444,12594
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Bushpig","Omnivore","Omnivore","SSP585_2090",66430.7408576962,85978.2108602833,19547.4700025871,29.4253379537953,66431,85978,19547
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Cheetah","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Damara dik dik","Browser","Shrub_Browser","SSP585_2090",806243.106325573,844762.380281669,38519.2739560952,4.77762521674704,806243,844762,38519
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Duiker","Browser","Woodland_Browser","SSP585_2090",172069.144417414,180103.522837659,8034.37842024444,4.6692731851762,172069,180104,8034
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Eland","Mixed","Mixed_Open","SSP585_2090",15886.950239431,21886.6273655453,5999.67712611427,37.7648134833532,15887,21887,6000
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Elephant","Mixed","Large_Mixed","SSP585_2090",1795.19060351726,2321.09617672682,525.905573209565,29.2952498848409,1795,2321,526
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Gemsbok","Mixed","Arid_Mixed","SSP585_2090",38506.2457873845,51140.7199891694,12634.4742017849,32.8114931576222,38506,51141,12634
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Giraffe","Browser","Woodland_Browser","SSP585_2090",3542.60003212324,3708.01370548121,165.413673357974,4.66927318517622,3543,3708,165
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Hartmann's zebra","Grazer","Arid_Grazer","SSP585_2090",30630.9972599404,41953.5839921567,11322.5867322163,36.9644730667132,30631,41954,11323
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Hippopotamus","Grazer","Wetland_Grazer","SSP585_2090",2677.84138989706,4021.71909092862,1343.87770103155,50.1851120122993,2678,4022,1344
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Impala","Mixed","Mixed_Open","SSP585_2090",158869.50239431,218866.273655453,59996.7712611427,37.7648134833532,158870,218866,59997
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Klipspringer","Browser","Rocky_Browser","SSP585_2090",343186.274053785,339608.338476904,-3577.93557688053,-1.04256371754535,343186,339608,-3578
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Kudu","Browser","Woodland_Browser","SSP585_2090",15848.4738279197,16588.4823666265,740.008538706725,4.6692731851762,15848,16588,740
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Leopard","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Ostrich","Mixed","Mixed_Open","SSP585_2090",79434.7511971551,109433.136827726,29998.3856305713,37.7648134833532,79435,109433,29998
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Red Hartebeest","Grazer","General_Grazer","SSP585_2090",59413.3915544297,86281.1403102134,26867.7487557836,45.2217051624962,59413,86281,26868
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Red Lechwe","Grazer","Wetland_Grazer","SSP585_2090",46862.2243231986,70380.0840912508,23517.8597680522,50.1851120122993,46862,70380,23518
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Reedbuck","Grazer","Wetland_Grazer","SSP585_2090",83310.6210190197,125120.149495557,41809.5284765372,50.1851120122993,83311,125120,41810
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Roan","Grazer","General_Grazer","SSP585_2090",37133.3697215186,53925.7126938833,16792.3429723648,45.2217051624962,37133,53926,16792
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Sable","Grazer","General_Grazer","SSP585_2090",44560.0436658223,64710.85523266,20150.8115668377,45.2217051624962,44560,64711,20151
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Spotted Hyaena","Carnivore","Carnivore","SSP585_2090",,,,,,,
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Springbok","Grazer","Arid_Grazer","SSP585_2090",225702.085073245,309131.671521154,83429.5864479096,36.9644730667132,225702,309132,83430
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Steenbok","Browser","Shrub_Browser","SSP585_2090",403121.553162787,422381.190140834,19259.6369780476,4.77762521674704,403122,422381,19260
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Vervet monkey","Omnivore","Omnivore","SSP585_2090",797168.890292355,1031738.5303234,234569.640031045,29.4253379537953,797169,1031739,234570
+"Cluster","Cluster_6","Cluster F —    //Karas,Hardap","Warthog","Grazer","General_Grazer","SSP585_2090",127314.410473778,184888.1578076,57573.7473338221,45.2217051624962,127314,184888,57574
