@@ -1,0 +1,1081 @@
+"spatial_unit","unit_id","unit","climate_scenario","feeding_regime","livestock_species","mean_without_intervention_animals","mean_with_intervention_animals","mean_intervention_benefit_animals","median_intervention_benefit_animals","mean_intervention_benefit_pct","median_intervention_benefit_pct"
+"Conservancy","Conservancy_1","Okanguati","SSP245_2050","Browser-Mixed",1,63842,57378,-6463,-6463,-10.1242069902032,-10.1242069902032
+"Conservancy","Conservancy_1","Okanguati","SSP245_2050","Grazer",2,7164,16854,9690,9690,149.790933477126,149.790933477126
+"Conservancy","Conservancy_1","Okanguati","SSP245_2050","Grazer-Mixed",1,33963,62604,28641,28641,84.3288785022131,84.3288785022131
+"Conservancy","Conservancy_1","Okanguati","SSP245_2090","Browser-Mixed",1,61043,54827,-6216,-6216,-10.1835580878811,-10.1835580878811
+"Conservancy","Conservancy_1","Okanguati","SSP245_2090","Grazer",2,6786,16088,9301,9301,151.940316775826,151.940316775826
+"Conservancy","Conservancy_1","Okanguati","SSP245_2090","Grazer-Mixed",1,32281,59768,27487,27487,85.1497629706193,85.1497629706193
+"Conservancy","Conservancy_1","Okanguati","SSP585_2050","Browser-Mixed",1,61790,55534,-6256,-6256,-10.1242505122399,-10.1242505122399
+"Conservancy","Conservancy_1","Okanguati","SSP585_2050","Grazer",2,6934,16313,9379,9379,149.787482061919,149.787482061919
+"Conservancy","Conservancy_1","Okanguati","SSP585_2050","Grazer-Mixed",1,32872,60593,27720,27720,84.3279165643298,84.3279165643298
+"Conservancy","Conservancy_1","Okanguati","SSP585_2090","Browser-Mixed",1,58759,52775,-5984,-5984,-10.1835250480067,-10.1835250480067
+"Conservancy","Conservancy_1","Okanguati","SSP585_2090","Grazer",2,6533,15486,8953,8953,151.93424855062,151.93424855062
+"Conservancy","Conservancy_1","Okanguati","SSP585_2090","Grazer-Mixed",1,31073,57532,26458,26458,85.1476924704955,85.1476924704955
+"Conservancy","Conservancy_10","Salambala","SSP245_2050","Browser-Mixed",1,44983,42814,-2169,-2169,-4.82265232844971,-4.82265232844971
+"Conservancy","Conservancy_10","Salambala","SSP245_2050","Grazer",2,7504,7711,207,207,3.85026629495034,3.85026629495034
+"Conservancy","Conservancy_10","Salambala","SSP245_2050","Grazer-Mixed",1,32961,32988,27,27,0.0823810355434655,0.0823810355434655
+"Conservancy","Conservancy_10","Salambala","SSP245_2090","Browser-Mixed",1,44959,42620,-2339,-2339,-5.2028266858025,-5.2028266858025
+"Conservancy","Conservancy_10","Salambala","SSP245_2090","Grazer",2,7236,7602,366,366,6.39657294454319,6.39657294454319
+"Conservancy","Conservancy_10","Salambala","SSP245_2090","Grazer-Mixed",1,32143,32620,477,477,1.48455064668765,1.48455064668765
+"Conservancy","Conservancy_10","Salambala","SSP585_2050","Browser-Mixed",1,45322,42823,-2499,-2499,-5.51309831974606,-5.51309831974606
+"Conservancy","Conservancy_10","Salambala","SSP585_2050","Grazer",2,7559,7553,-6,-6,1.00480788532654,1.00480788532654
+"Conservancy","Conservancy_10","Salambala","SSP585_2050","Grazer-Mixed",1,33203,32463,-740,-740,-2.22730038851442,-2.22730038851442
+"Conservancy","Conservancy_10","Salambala","SSP585_2090","Browser-Mixed",1,42668,40168,-2500,-2500,-5.85895068216222,-5.85895068216222
+"Conservancy","Conservancy_10","Salambala","SSP585_2090","Grazer",2,6869,7019,150,150,3.51260758937952,3.51260758937952
+"Conservancy","Conservancy_10","Salambala","SSP585_2090","Grazer-Mixed",1,30509,30261,-248,-248,-0.813350180205064,-0.813350180205064
+"Conservancy","Conservancy_11","Doro !nawas Area2","SSP245_2050","Browser-Mixed",1,21178,36584,15406,15406,72.7414902174087,72.7414902174087
+"Conservancy","Conservancy_11","Doro !nawas Area2","SSP245_2050","Grazer",2,4400,13791,9391,9391,239.272269924183,239.272269924183
+"Conservancy","Conservancy_11","Doro !nawas Area2","SSP245_2050","Grazer-Mixed",1,15682,48201,32519,32519,207.367711939667,207.367711939667
+"Conservancy","Conservancy_11","Doro !nawas Area2","SSP245_2090","Browser-Mixed",1,20016,34932,14915,14915,74.5175571710439,74.5175571710439
+"Conservancy","Conservancy_11","Doro !nawas Area2","SSP245_2090","Grazer",2,4139,13146,9008,9008,244.531406022422,244.531406022422
+"Conservancy","Conservancy_11","Doro !nawas Area2","SSP245_2090","Grazer-Mixed",1,14732,45955,31222,31222,211.931069581741,211.931069581741
+"Conservancy","Conservancy_11","Doro !nawas Area2","SSP585_2050","Browser-Mixed",1,20542,35493,14951,14951,72.7841175921072,72.7841175921072
+"Conservancy","Conservancy_11","Doro !nawas Area2","SSP585_2050","Grazer",2,4271,13382,9110,9110,239.116817157451,239.116817157451
+"Conservancy","Conservancy_11","Doro !nawas Area2","SSP585_2050","Grazer-Mixed",1,15219,46768,31549,31549,207.291581927447,207.291581927447
+"Conservancy","Conservancy_11","Doro !nawas Area2","SSP585_2090","Browser-Mixed",1,18550,32363,13813,13813,74.4653723415496,74.4653723415496
+"Conservancy","Conservancy_11","Doro !nawas Area2","SSP585_2090","Grazer",2,3834,12179,8345,8345,244.546093631745,244.546093631745
+"Conservancy","Conservancy_11","Doro !nawas Area2","SSP585_2090","Grazer-Mixed",1,13649,42573,28924,28924,211.906216433344,211.906216433344
+"Conservancy","Conservancy_12","Doro !nawas/Uibasen Twyfelfontein/Sorris Sorri JMA","SSP245_2050","Browser-Mixed",1,922,3265,2343,2343,254.134263885063,254.134263885063
+"Conservancy","Conservancy_12","Doro !nawas/Uibasen Twyfelfontein/Sorris Sorri JMA","SSP245_2050","Grazer",2,189,1313,1124,1124,992.447763911692,992.447763911692
+"Conservancy","Conservancy_12","Doro !nawas/Uibasen Twyfelfontein/Sorris Sorri JMA","SSP245_2050","Grazer-Mixed",1,471,4473,4003,4003,850.474604888068,850.474604888068
+"Conservancy","Conservancy_12","Doro !nawas/Uibasen Twyfelfontein/Sorris Sorri JMA","SSP245_2090","Browser-Mixed",1,860,3106,2246,2246,261.194789025948,261.194789025948
+"Conservancy","Conservancy_12","Doro !nawas/Uibasen Twyfelfontein/Sorris Sorri JMA","SSP245_2090","Grazer",2,176,1249,1073,1073,1049.51584916903,1049.51584916903
+"Conservancy","Conservancy_12","Doro !nawas/Uibasen Twyfelfontein/Sorris Sorri JMA","SSP245_2090","Grazer-Mixed",1,430,4252,3822,3822,889.14495538885,889.14495538885
+"Conservancy","Conservancy_12","Doro !nawas/Uibasen Twyfelfontein/Sorris Sorri JMA","SSP585_2050","Browser-Mixed",1,900,3187,2287,2287,254.141984054679,254.141984054679
+"Conservancy","Conservancy_12","Doro !nawas/Uibasen Twyfelfontein/Sorris Sorri JMA","SSP585_2050","Grazer",2,184,1282,1097,1097,992.515458854506,992.515458854506
+"Conservancy","Conservancy_12","Doro !nawas/Uibasen Twyfelfontein/Sorris Sorri JMA","SSP585_2050","Grazer-Mixed",1,459,4366,3907,3907,850.520022232927,850.520022232927
+"Conservancy","Conservancy_12","Doro !nawas/Uibasen Twyfelfontein/Sorris Sorri JMA","SSP585_2090","Browser-Mixed",1,795,2873,2078,2078,261.202279441775,261.202279441775
+"Conservancy","Conservancy_12","Doro !nawas/Uibasen Twyfelfontein/Sorris Sorri JMA","SSP585_2090","Grazer",2,162,1155,993,993,1049.5459466689,1049.5459466689
+"Conservancy","Conservancy_12","Doro !nawas/Uibasen Twyfelfontein/Sorris Sorri JMA","SSP585_2090","Grazer-Mixed",1,398,3934,3536,3536,889.170453851018,889.170453851018
+"Conservancy","Conservancy_13","Kwandu","SSP245_2050","Browser-Mixed",1,9174,8821,-352,-352,-3.84240858495969,-3.84240858495969
+"Conservancy","Conservancy_13","Kwandu","SSP245_2050","Grazer",2,1508,1474,-34,-34,-1.57855856369705,-1.57855856369705
+"Conservancy","Conservancy_13","Kwandu","SSP245_2050","Grazer-Mixed",1,6458,6250,-208,-208,-3.21858608093902,-3.21858608093902
+"Conservancy","Conservancy_13","Kwandu","SSP245_2090","Browser-Mixed",1,9135,8944,-191,-191,-2.08675592740897,-2.08675592740897
+"Conservancy","Conservancy_13","Kwandu","SSP245_2090","Grazer",2,1451,1585,133,133,10.0395453196526,10.0395453196526
+"Conservancy","Conservancy_13","Kwandu","SSP245_2090","Grazer-Mixed",1,6278,6643,365,365,5.81216647256381,5.81216647256381
+"Conservancy","Conservancy_13","Kwandu","SSP585_2050","Browser-Mixed",1,9208,8700,-508,-508,-5.51194956930362,-5.51194956930362
+"Conservancy","Conservancy_13","Kwandu","SSP585_2050","Grazer",2,1514,1417,-96,-96,-5.56246129732189,-5.56246129732189
+"Conservancy","Conservancy_13","Kwandu","SSP585_2050","Grazer-Mixed",1,6482,6032,-450,-450,-6.94207889779443,-6.94207889779443
+"Conservancy","Conservancy_13","Kwandu","SSP585_2090","Browser-Mixed",1,8657,8171,-486,-486,-5.61558256235564,-5.61558256235564
+"Conservancy","Conservancy_13","Kwandu","SSP585_2090","Grazer",2,1375,1292,-84,-84,-5.20448978368489,-5.20448978368489
+"Conservancy","Conservancy_13","Kwandu","SSP585_2090","Grazer-Mixed",1,5949,5546,-403,-403,-6.77960474660588,-6.77960474660588
+"Conservancy","Conservancy_14","Orupembe","SSP245_2050","Browser-Mixed",1,45921,95807,49886,49886,108.635588405262,108.635588405262
+"Conservancy","Conservancy_14","Orupembe","SSP245_2050","Grazer",2,6825,36217,29392,29392,563.713484729479,563.713484729479
+"Conservancy","Conservancy_14","Orupembe","SSP245_2050","Grazer-Mixed",1,23872,126020,102148,102148,427.895886717986,427.895886717986
+"Conservancy","Conservancy_14","Orupembe","SSP245_2090","Browser-Mixed",1,42902,90245,47343,47343,110.351985644303,110.351985644303
+"Conservancy","Conservancy_14","Orupembe","SSP245_2090","Grazer",2,6372,34187,27815,27815,574.150761879975,574.150761879975
+"Conservancy","Conservancy_14","Orupembe","SSP245_2090","Grazer-Mixed",1,22207,118903,96695,96695,435.418671710893,435.418671710893
+"Conservancy","Conservancy_14","Orupembe","SSP585_2050","Browser-Mixed",1,44867,93734,48867,48867,108.915132838853,108.915132838853
+"Conservancy","Conservancy_14","Orupembe","SSP585_2050","Grazer",2,6672,35442,28770,28770,564.636236549827,564.636236549827
+"Conservancy","Conservancy_14","Orupembe","SSP585_2050","Grazer-Mixed",1,23323,123315,99992,99992,428.723155242832,428.723155242832
+"Conservancy","Conservancy_14","Orupembe","SSP585_2090","Browser-Mixed",1,41386,86971,45585,45585,110.144886700197,110.144886700197
+"Conservancy","Conservancy_14","Orupembe","SSP585_2090","Grazer",2,6144,32942,26797,26797,573.525271643037,573.525271643037
+"Conservancy","Conservancy_14","Orupembe","SSP585_2090","Grazer-Mixed",1,21423,114574,93152,93152,434.832283299017,434.832283299017
+"Conservancy","Conservancy_15","Mayuni","SSP245_2050","Browser-Mixed",1,7616,7379,-237,-237,-3.11636330002581,-3.11636330002581
+"Conservancy","Conservancy_15","Mayuni","SSP245_2050","Grazer",2,1004,1206,202,202,22.2285253321545,22.2285253321545
+"Conservancy","Conservancy_15","Mayuni","SSP245_2050","Grazer-Mixed",1,4552,5121,569,569,12.4978521136803,12.4978521136803
+"Conservancy","Conservancy_15","Mayuni","SSP245_2090","Browser-Mixed",1,7604,7434,-171,-171,-2.24533847170781,-2.24533847170781
+"Conservancy","Conservancy_15","Mayuni","SSP245_2090","Grazer",2,946,1202,255,255,29.4958015679692,29.4958015679692
+"Conservancy","Conservancy_15","Mayuni","SSP245_2090","Grazer-Mixed",1,4378,5133,755,755,17.2466662889661,17.2466662889661
+"Conservancy","Conservancy_15","Mayuni","SSP585_2050","Browser-Mixed",1,7632,7388,-244,-244,-3.20328662772226,-3.20328662772226
+"Conservancy","Conservancy_15","Mayuni","SSP585_2050","Grazer",2,1006,1219,213,213,23.3423191262971,23.3423191262971
+"Conservancy","Conservancy_15","Mayuni","SSP585_2050","Grazer-Mixed",1,4561,5162,601,601,13.1690004983592,13.1690004983592
+"Conservancy","Conservancy_15","Mayuni","SSP585_2090","Browser-Mixed",1,7199,6963,-236,-236,-3.27960268417906,-3.27960268417906
+"Conservancy","Conservancy_15","Mayuni","SSP585_2090","Grazer",2,896,1112,216,216,26.6592567303291,26.6592567303291
+"Conservancy","Conservancy_15","Mayuni","SSP585_2090","Grazer-Mixed",1,4144,4755,611,611,14.7373956294734,14.7373956294734
+"Conservancy","Conservancy_16","Uibasen Twyfelfontein","SSP245_2050","Browser-Mixed",1,2589,6901,4312,4312,166.577176894603,166.577176894603
+"Conservancy","Conservancy_16","Uibasen Twyfelfontein","SSP245_2050","Grazer",2,748,2804,2056,2056,315.306762005434,315.306762005434
+"Conservancy","Conservancy_16","Uibasen Twyfelfontein","SSP245_2050","Grazer-Mixed",1,2320,9645,7325,7325,315.7619046969,315.7619046969
+"Conservancy","Conservancy_16","Uibasen Twyfelfontein","SSP245_2090","Browser-Mixed",1,2279,6474,4195,4195,184.03705297566,184.03705297566
+"Conservancy","Conservancy_16","Uibasen Twyfelfontein","SSP245_2090","Grazer",2,650,2636,1986,1986,357.367534887488,357.367534887488
+"Conservancy","Conservancy_16","Uibasen Twyfelfontein","SSP245_2090","Grazer-Mixed",1,1973,9057,7084,7084,359.006040141948,359.006040141948
+"Conservancy","Conservancy_16","Uibasen Twyfelfontein","SSP585_2050","Browser-Mixed",1,2522,6722,4200,4200,166.541478051729,166.541478051729
+"Conservancy","Conservancy_16","Uibasen Twyfelfontein","SSP585_2050","Grazer",2,729,2731,2002,2002,315.193823177326,315.193823177326
+"Conservancy","Conservancy_16","Uibasen Twyfelfontein","SSP585_2050","Grazer-Mixed",1,2260,9394,7134,7134,315.650605519669,315.650605519669
+"Conservancy","Conservancy_16","Uibasen Twyfelfontein","SSP585_2090","Browser-Mixed",1,2110,5993,3883,3883,184.083886010578,184.083886010578
+"Conservancy","Conservancy_16","Uibasen Twyfelfontein","SSP585_2090","Grazer",2,601,2440,1839,1839,357.538948436332,357.538948436332
+"Conservancy","Conservancy_16","Uibasen Twyfelfontein","SSP585_2090","Grazer-Mixed",1,1826,8384,6558,6558,359.17435763094,359.17435763094
+"Conservancy","Conservancy_17","Oskop","SSP245_2050","Browser-Mixed",1,4246,4246,0,0,0,0
+"Conservancy","Conservancy_17","Oskop","SSP245_2050","Grazer",2,1886,1886,0,0,0,0
+"Conservancy","Conservancy_17","Oskop","SSP245_2050","Grazer-Mixed",1,6601,6601,0,0,0,0
+"Conservancy","Conservancy_17","Oskop","SSP245_2090","Browser-Mixed",1,4115,4115,0,0,0,0
+"Conservancy","Conservancy_17","Oskop","SSP245_2090","Grazer",2,1828,1828,0,0,0,0
+"Conservancy","Conservancy_17","Oskop","SSP245_2090","Grazer-Mixed",1,6397,6397,0,0,0,0
+"Conservancy","Conservancy_17","Oskop","SSP585_2050","Browser-Mixed",1,4124,4124,0,0,0,0
+"Conservancy","Conservancy_17","Oskop","SSP585_2050","Grazer",2,1832,1832,0,0,0,0
+"Conservancy","Conservancy_17","Oskop","SSP585_2050","Grazer-Mixed",1,6412,6412,0,0,0,0
+"Conservancy","Conservancy_17","Oskop","SSP585_2090","Browser-Mixed",1,3756,3756,0,0,0,0
+"Conservancy","Conservancy_17","Oskop","SSP585_2090","Grazer",2,1669,1669,0,0,0,0
+"Conservancy","Conservancy_17","Oskop","SSP585_2090","Grazer-Mixed",1,5839,5839,0,0,0,0
+"Conservancy","Conservancy_18","//Huab","SSP245_2050","Browser-Mixed",1,83257,79930,-3327,-3327,-3.99569065151949,-3.99569065151949
+"Conservancy","Conservancy_18","//Huab","SSP245_2050","Grazer",2,10492,24621,14129,14129,148.265518346517,148.265518346517
+"Conservancy","Conservancy_18","//Huab","SSP245_2050","Grazer-Mixed",1,47290,90391,43101,43101,91.1426088717333,91.1426088717333
+"Conservancy","Conservancy_18","//Huab","SSP245_2090","Browser-Mixed",1,80243,76783,-3460,-3460,-4.3113616025215,-4.3113616025215
+"Conservancy","Conservancy_18","//Huab","SSP245_2090","Grazer",2,9961,23584,13623,13623,150.783813638273,150.783813638273
+"Conservancy","Conservancy_18","//Huab","SSP245_2090","Grazer-Mixed",1,45137,86637,41500,41500,91.94314139151,91.94314139151
+"Conservancy","Conservancy_18","//Huab","SSP585_2050","Browser-Mixed",1,80593,77382,-3211,-3211,-3.98438676781649,-3.98438676781649
+"Conservancy","Conservancy_18","//Huab","SSP585_2050","Grazer",2,10157,23838,13681,13681,148.302366560401,148.302366560401
+"Conservancy","Conservancy_18","//Huab","SSP585_2050","Grazer-Mixed",1,45777,87512,41735,41735,91.1719019676484,91.1719019676484
+"Conservancy","Conservancy_18","//Huab","SSP585_2090","Browser-Mixed",1,74466,71251,-3215,-3215,-4.31774750086911,-4.31774750086911
+"Conservancy","Conservancy_18","//Huab","SSP585_2090","Grazer",2,9244,21884,12640,12640,150.771781752666,150.771781752666
+"Conservancy","Conservancy_18","//Huab","SSP585_2090","Grazer-Mixed",1,41886,80393,38506,38506,91.930125594617,91.930125594617
+"Conservancy","Conservancy_19","Omatendeka","SSP245_2050","Browser-Mixed",1,81200,80887,-313,-313,-0.385434672413847,-0.385434672413847
+"Conservancy","Conservancy_19","Omatendeka","SSP245_2050","Grazer",2,11683,20032,8349,8349,77.663327495253,77.663327495253
+"Conservancy","Conservancy_19","Omatendeka","SSP245_2050","Grazer-Mixed",1,50428,76259,25831,25831,51.222633129544,51.222633129544
+"Conservancy","Conservancy_19","Omatendeka","SSP245_2090","Browser-Mixed",1,78063,77610,-453,-453,-0.580328736435528,-0.580328736435528
+"Conservancy","Conservancy_19","Omatendeka","SSP245_2090","Grazer",2,11050,19068,8018,8018,78.9687848104204,78.9687848104204
+"Conservancy","Conservancy_19","Omatendeka","SSP245_2090","Grazer-Mixed",1,47944,72717,24773,24773,51.6717067064272,51.6717067064272
+"Conservancy","Conservancy_19","Omatendeka","SSP585_2050","Browser-Mixed",1,78529,78236,-293,-293,-0.37372068024548,-0.37372068024548
+"Conservancy","Conservancy_19","Omatendeka","SSP585_2050","Grazer",2,11306,19382,8076,8076,77.6261484789765,77.6261484789765
+"Conservancy","Conservancy_19","Omatendeka","SSP585_2050","Grazer-Mixed",1,48790,73777,24988,24988,51.2149406791114,51.2149406791114
+"Conservancy","Conservancy_19","Omatendeka","SSP585_2090","Browser-Mixed",1,73364,72936,-428,-428,-0.58312219742279,-0.58312219742279
+"Conservancy","Conservancy_19","Omatendeka","SSP585_2090","Grazer",2,10375,17912,7537,7537,79.0750097983571,79.0750097983571
+"Conservancy","Conservancy_19","Omatendeka","SSP585_2090","Grazer-Mixed",1,45027,68315,23288,23288,51.7205651101946,51.7205651101946
+"Conservancy","Conservancy_2","Iipumbu ya Tshilongo","SSP245_2050","Browser-Mixed",1,73208,71942,-1266,-1266,-1.72947414869461,-1.72947414869461
+"Conservancy","Conservancy_2","Iipumbu ya Tshilongo","SSP245_2050","Grazer",2,23691,26596,2905,2905,12.6626749971385,12.6626749971385
+"Conservancy","Conservancy_2","Iipumbu ya Tshilongo","SSP245_2050","Grazer-Mixed",1,86540,95272,8732,8732,10.0896562010301,10.0896562010301
+"Conservancy","Conservancy_2","Iipumbu ya Tshilongo","SSP245_2090","Browser-Mixed",1,70986,69694,-1291,-1291,-1.81884179063115,-1.81884179063115
+"Conservancy","Conservancy_2","Iipumbu ya Tshilongo","SSP245_2090","Grazer",2,22819,25665,2846,2846,12.881696536222,12.881696536222
+"Conservancy","Conservancy_2","Iipumbu ya Tshilongo","SSP245_2090","Grazer-Mixed",1,83448,91992,8544,8544,10.2384872166026,10.2384872166026
+"Conservancy","Conservancy_2","Iipumbu ya Tshilongo","SSP585_2050","Browser-Mixed",1,70536,69319,-1217,-1217,-1.72542376208037,-1.72542376208037
+"Conservancy","Conservancy_2","Iipumbu ya Tshilongo","SSP585_2050","Grazer",2,22834,25643,2810,2810,12.7079244010402,12.7079244010402
+"Conservancy","Conservancy_2","Iipumbu ya Tshilongo","SSP585_2050","Grazer-Mixed",1,83403,91852,8449,8449,10.1302369672559,10.1302369672559
+"Conservancy","Conservancy_2","Iipumbu ya Tshilongo","SSP585_2090","Browser-Mixed",1,67482,66257,-1226,-1226,-1.81645521212128,-1.81645521212128
+"Conservancy","Conservancy_2","Iipumbu ya Tshilongo","SSP585_2090","Grazer",2,21703,24405,2702,2702,12.8605698106144,12.8605698106144
+"Conservancy","Conservancy_2","Iipumbu ya Tshilongo","SSP585_2090","Grazer-Mixed",1,79360,87472,8113,8113,10.2226079761696,10.2226079761696
+"Conservancy","Conservancy_20","//Gamaseb","SSP245_2050","Browser-Mixed",1,11527,27260,15733,15733,136.483144153218,136.483144153218
+"Conservancy","Conservancy_20","//Gamaseb","SSP245_2050","Grazer",2,2892,10418,7526,7526,333.572877101602,333.572877101602
+"Conservancy","Conservancy_20","//Gamaseb","SSP245_2050","Grazer-Mixed",1,8227,35033,26806,26806,325.828280735765,325.828280735765
+"Conservancy","Conservancy_20","//Gamaseb","SSP245_2090","Browser-Mixed",1,10859,26082,15223,15223,140.19135383006,140.19135383006
+"Conservancy","Conservancy_20","//Gamaseb","SSP245_2090","Grazer",2,2676,9959,7282,7282,354.853797944974,354.853797944974
+"Conservancy","Conservancy_20","//Gamaseb","SSP245_2090","Grazer-Mixed",1,7527,33464,25937,25937,344.581759728242,344.581759728242
+"Conservancy","Conservancy_20","//Gamaseb","SSP585_2050","Browser-Mixed",1,11111,26267,15156,15156,136.402696196789,136.402696196789
+"Conservancy","Conservancy_20","//Gamaseb","SSP585_2050","Grazer",2,2788,10039,7250,7250,333.105535676134,333.105535676134
+"Conservancy","Conservancy_20","//Gamaseb","SSP585_2050","Grazer-Mixed",1,7936,33759,25824,25824,325.413821585865,325.413821585865
+"Conservancy","Conservancy_20","//Gamaseb","SSP585_2090","Browser-Mixed",1,9783,23484,13702,13702,140.05775664569,140.05775664569
+"Conservancy","Conservancy_20","//Gamaseb","SSP585_2090","Grazer",2,2413,8967,6554,6554,354.016190013057,354.016190013057
+"Conservancy","Conservancy_20","//Gamaseb","SSP585_2090","Grazer-Mixed",1,6789,30134,23345,23345,343.855133431423,343.855133431423
+"Conservancy","Conservancy_21","Ehi-Rovipuka","SSP245_2050","Browser-Mixed",1,116291,110793,-5498,-5498,-4.7275020108192,-4.7275020108192
+"Conservancy","Conservancy_21","Ehi-Rovipuka","SSP245_2050","Grazer",2,16502,26450,9947,9947,65.1820696705952,65.1820696705952
+"Conservancy","Conservancy_21","Ehi-Rovipuka","SSP245_2050","Grazer-Mixed",1,72345,101995,29651,29651,40.9852832338696,40.9852832338696
+"Conservancy","Conservancy_21","Ehi-Rovipuka","SSP245_2090","Browser-Mixed",1,112122,106719,-5403,-5403,-4.81848978763081,-4.81848978763081
+"Conservancy","Conservancy_21","Ehi-Rovipuka","SSP245_2090","Grazer",2,15644,25249,9604,9604,66.4772742065676,66.4772742065676
+"Conservancy","Conservancy_21","Ehi-Rovipuka","SSP245_2090","Grazer-Mixed",1,68947,97553,28606,28606,41.4901853340693,41.4901853340693
+"Conservancy","Conservancy_21","Ehi-Rovipuka","SSP585_2050","Browser-Mixed",1,112456,107140,-5316,-5316,-4.7272299523039,-4.7272299523039
+"Conservancy","Conservancy_21","Ehi-Rovipuka","SSP585_2050","Grazer",2,15951,25573,9622,9622,65.2322260151977,65.2322260151977
+"Conservancy","Conservancy_21","Ehi-Rovipuka","SSP585_2050","Grazer-Mixed",1,69937,98618,28681,28681,41.0104167251692,41.0104167251692
+"Conservancy","Conservancy_21","Ehi-Rovipuka","SSP585_2090","Browser-Mixed",1,105498,100416,-5082,-5082,-4.8174918152217,-4.8174918152217
+"Conservancy","Conservancy_21","Ehi-Rovipuka","SSP585_2090","Grazer",2,14727,23761,9035,9035,66.4297391535932,66.4297391535932
+"Conservancy","Conservancy_21","Ehi-Rovipuka","SSP585_2090","Grazer-Mixed",1,64894,91804,26910,26910,41.467647153412,41.467647153412
+"Conservancy","Conservancy_22","/Audi","SSP245_2050","Browser-Mixed",1,18281,16431,-1850,-1850,-10.1205527915331,-10.1205527915331
+"Conservancy","Conservancy_22","/Audi","SSP245_2050","Grazer",2,1997,4765,2768,2768,154.010795143144,154.010795143144
+"Conservancy","Conservancy_22","/Audi","SSP245_2050","Grazer-Mixed",1,9559,17740,8181,8181,85.5832208394799,85.5832208394799
+"Conservancy","Conservancy_22","/Audi","SSP245_2090","Browser-Mixed",1,17514,15741,-1773,-1773,-10.1207394855283,-10.1207394855283
+"Conservancy","Conservancy_22","/Audi","SSP245_2090","Grazer",2,1913,4565,2652,2652,154.013206695273,154.013206695273
+"Conservancy","Conservancy_22","/Audi","SSP245_2090","Grazer-Mixed",1,9158,16996,7838,7838,85.5846638108057,85.5846638108057
+"Conservancy","Conservancy_22","/Audi","SSP585_2050","Browser-Mixed",1,17591,15810,-1780,-1780,-10.1202020595929,-10.1202020595929
+"Conservancy","Conservancy_22","/Audi","SSP585_2050","Grazer",2,1922,4585,2664,2664,154.004455490269,154.004455490269
+"Conservancy","Conservancy_22","/Audi","SSP585_2050","Grazer-Mixed",1,9198,17070,7872,7872,85.5799380227543,85.5799380227543
+"Conservancy","Conservancy_22","/Audi","SSP585_2090","Browser-Mixed",1,16230,14588,-1643,-1643,-10.1206877659666,-10.1206877659666
+"Conservancy","Conservancy_22","/Audi","SSP585_2090","Grazer",2,1773,4231,2458,2458,154.010555253575,154.010555253575
+"Conservancy","Conservancy_22","/Audi","SSP585_2090","Grazer-Mixed",1,8487,15750,7263,7263,85.5836370135277,85.5836370135277
+"Conservancy","Conservancy_23","Uukolonkadhi Ruacana","SSP245_2050","Browser-Mixed",1,159484,150356,-9128,-9128,-5.72337954075452,-5.72337954075452
+"Conservancy","Conservancy_23","Uukolonkadhi Ruacana","SSP245_2050","Grazer",2,24986,39226,14240,14240,60.8063775824606,60.8063775824606
+"Conservancy","Conservancy_23","Uukolonkadhi Ruacana","SSP245_2050","Grazer-Mixed",1,107134,149034,41900,41900,39.1102923532558,39.1102923532558
+"Conservancy","Conservancy_23","Uukolonkadhi Ruacana","SSP245_2090","Browser-Mixed",1,154008,145075,-8933,-8933,-5.80032655136058,-5.80032655136058
+"Conservancy","Conservancy_23","Uukolonkadhi Ruacana","SSP245_2090","Grazer",2,24042,37745,13702,13702,60.926576550461,60.926576550461
+"Conservancy","Conservancy_23","Uukolonkadhi Ruacana","SSP245_2090","Grazer-Mixed",1,103001,143397,40396,40396,39.218760885049,39.218760885049
+"Conservancy","Conservancy_23","Uukolonkadhi Ruacana","SSP585_2050","Browser-Mixed",1,153906,145104,-8802,-8802,-5.71892714011951,-5.71892714011951
+"Conservancy","Conservancy_23","Uukolonkadhi Ruacana","SSP585_2050","Grazer",2,24115,37904,13790,13790,61.0071142079352,61.0071142079352
+"Conservancy","Conservancy_23","Uukolonkadhi Ruacana","SSP585_2050","Grazer-Mixed",1,103395,143983,40588,40588,39.2556118513269,39.2556118513269
+"Conservancy","Conservancy_23","Uukolonkadhi Ruacana","SSP585_2090","Browser-Mixed",1,147438,138886,-8552,-8552,-5.80071581532941,-5.80071581532941
+"Conservancy","Conservancy_23","Uukolonkadhi Ruacana","SSP585_2090","Grazer",2,23016,36133,13117,13117,60.9270665816399,60.9270665816399
+"Conservancy","Conservancy_23","Uukolonkadhi Ruacana","SSP585_2090","Grazer-Mixed",1,98605,137277,38671,38671,39.2183203350283,39.2183203350283
+"Conservancy","Conservancy_24","Uukwaluudhi","SSP245_2050","Browser-Mixed",1,78996,73500,-5496,-5496,-6.95722826104907,-6.95722826104907
+"Conservancy","Conservancy_24","Uukwaluudhi","SSP245_2050","Grazer",2,9101,17331,8230,8230,99.7990435138329,99.7990435138329
+"Conservancy","Conservancy_24","Uukwaluudhi","SSP245_2050","Grazer-Mixed",1,42763,67084,24321,24321,56.8745729272618,56.8745729272618
+"Conservancy","Conservancy_24","Uukwaluudhi","SSP245_2090","Browser-Mixed",1,76177,70859,-5319,-5319,-6.98225065306055,-6.98225065306055
+"Conservancy","Conservancy_24","Uukwaluudhi","SSP245_2090","Grazer",2,8703,16661,7958,7958,101.037047027353,101.037047027353
+"Conservancy","Conservancy_24","Uukwaluudhi","SSP245_2090","Grazer-Mixed",1,41004,64522,23519,23519,57.3580241037946,57.3580241037946
+"Conservancy","Conservancy_24","Uukwaluudhi","SSP585_2050","Browser-Mixed",1,76121,70824,-5296,-5296,-6.95791101659367,-6.95791101659367
+"Conservancy","Conservancy_24","Uukwaluudhi","SSP585_2050","Grazer",2,8770,16696,7926,7926,99.7431609624863,99.7431609624863
+"Conservancy","Conservancy_24","Uukwaluudhi","SSP585_2050","Grazer-Mixed",1,41206,64628,23421,23421,56.8393436597428,56.8393436597428
+"Conservancy","Conservancy_24","Uukwaluudhi","SSP585_2090","Browser-Mixed",1,72603,67534,-5070,-5070,-6.98249644038323,-6.98249644038323
+"Conservancy","Conservancy_24","Uukwaluudhi","SSP585_2090","Grazer",2,8294,15879,7585,7585,101.049253180022,101.049253180022
+"Conservancy","Conservancy_24","Uukwaluudhi","SSP585_2090","Grazer-Mixed",1,39078,61494,22416,22416,57.3629029525763,57.3629029525763
+"Conservancy","Conservancy_25","Okamatapati","SSP245_2050","Browser-Mixed",1,167793,146103,-21691,-21691,-12.9269955490654,-12.9269955490654
+"Conservancy","Conservancy_25","Okamatapati","SSP245_2050","Grazer",2,18269,50723,32454,32454,197.472616575163,197.472616575163
+"Conservancy","Conservancy_25","Okamatapati","SSP245_2050","Grazer-Mixed",1,87546,183457,95910,95910,109.55366111814,109.55366111814
+"Conservancy","Conservancy_25","Okamatapati","SSP245_2090","Browser-Mixed",1,161718,140806,-20912,-20912,-12.9310777323383,-12.9310777323383
+"Conservancy","Conservancy_25","Okamatapati","SSP245_2090","Grazer",2,17578,48867,31289,31289,197.909710744101,197.909710744101
+"Conservancy","Conservancy_25","Okamatapati","SSP245_2090","Grazer-Mixed",1,84286,176752,92467,92467,109.706218126566,109.706218126566
+"Conservancy","Conservancy_25","Okamatapati","SSP585_2050","Browser-Mixed",1,162187,141221,-20966,-20966,-12.9269577327368,-12.9269577327368
+"Conservancy","Conservancy_25","Okamatapati","SSP585_2050","Grazer",2,17659,49028,31369,31369,197.472838936446,197.472838936446
+"Conservancy","Conservancy_25","Okamatapati","SSP585_2050","Grazer-Mixed",1,84621,177327,92706,92706,109.553592691338,109.553592691338
+"Conservancy","Conservancy_25","Okamatapati","SSP585_2090","Browser-Mixed",1,152206,132524,-19682,-19682,-12.9311371329562,-12.9311371329562
+"Conservancy","Conservancy_25","Okamatapati","SSP585_2090","Grazer",2,16544,45993,29448,29448,197.910812792582,197.910812792582
+"Conservancy","Conservancy_25","Okamatapati","SSP585_2090","Grazer-Mixed",1,79328,166357,87028,87028,109.706782754139,109.706782754139
+"Conservancy","Conservancy_26","Otjituuo","SSP245_2050","Browser-Mixed",1,333279,290452,-42827,-42827,-12.8502808287811,-12.8502808287811
+"Conservancy","Conservancy_26","Otjituuo","SSP245_2050","Grazer",2,36215,100294,64079,64079,196.741729278024,196.741729278024
+"Conservancy","Conservancy_26","Otjituuo","SSP245_2050","Grazer-Mixed",1,173668,363039,189371,189371,109.042319968166,109.042319968166
+"Conservancy","Conservancy_26","Otjituuo","SSP245_2090","Browser-Mixed",1,321187,279911,-41275,-41275,-12.8509170836639,-12.8509170836639
+"Conservancy","Conservancy_26","Otjituuo","SSP245_2090","Grazer",2,34898,96654,61757,61757,196.774679133556,196.774679133556
+"Conservancy","Conservancy_26","Otjituuo","SSP245_2090","Grazer-Mixed",1,167355,349864,182509,182509,109.055015725796,109.055015725796
+"Conservancy","Conservancy_26","Otjituuo","SSP585_2050","Browser-Mixed",1,321736,280392,-41344,-41344,-12.8502981302939,-12.8502981302939
+"Conservancy","Conservancy_26","Otjituuo","SSP585_2050","Grazer",2,34961,96820,61859,61859,196.741999618956,196.741999618956
+"Conservancy","Conservancy_26","Otjituuo","SSP585_2050","Grazer-Mixed",1,167653,350465,182813,182813,109.042468495253,109.042468495253
+"Conservancy","Conservancy_26","Otjituuo","SSP585_2090","Browser-Mixed",1,303439,264444,-38995,-38995,-12.8509024888158,-12.8509024888158
+"Conservancy","Conservancy_26","Otjituuo","SSP585_2090","Grazer",2,32969,91314,58344,58344,196.774455655609,196.774455655609
+"Conservancy","Conservancy_26","Otjituuo","SSP585_2090","Grazer-Mixed",1,158108,330532,172424,172424,109.054891871492,109.054891871492
+"Conservancy","Conservancy_27","Ozonahi","SSP245_2050","Browser-Mixed",1,173628,151405,-22223,-22223,-12.799119745775,-12.799119745775
+"Conservancy","Conservancy_27","Ozonahi","SSP245_2050","Grazer",2,19133,52383,33250,33250,192.87904593241,192.87904593241
+"Conservancy","Conservancy_27","Ozonahi","SSP245_2050","Grazer-Mixed",1,91295,189559,98264,98264,107.63301744348,107.63301744348
+"Conservancy","Conservancy_27","Ozonahi","SSP245_2090","Browser-Mixed",1,167251,145807,-21444,-21444,-12.8215275596547,-12.8215275596547
+"Conservancy","Conservancy_27","Ozonahi","SSP245_2090","Grazer",2,18311,50396,32085,32085,194.644646689746,194.644646689746
+"Conservancy","Conservancy_27","Ozonahi","SSP245_2090","Grazer-Mixed",1,87573,182394,94820,94820,108.275382494864,108.275382494864
+"Conservancy","Conservancy_27","Ozonahi","SSP585_2050","Browser-Mixed",1,167834,146352,-21481,-21481,-12.799184325283,-12.799184325283
+"Conservancy","Conservancy_27","Ozonahi","SSP585_2050","Grazer",2,18495,50635,32141,32141,192.882311369304,192.882311369304
+"Conservancy","Conservancy_27","Ozonahi","SSP585_2050","Grazer-Mixed",1,88248,183233,94985,94985,107.634291629173,107.634291629173
+"Conservancy","Conservancy_27","Ozonahi","SSP585_2090","Browser-Mixed",1,157567,137365,-20203,-20203,-12.8215314246874,-12.8215314246874
+"Conservancy","Conservancy_27","Ozonahi","SSP585_2090","Grazer",2,17251,47478,30227,30227,194.645202369844,194.645202369844
+"Conservancy","Conservancy_27","Ozonahi","SSP585_2090","Grazer-Mixed",1,82503,171833,89330,89330,108.275572605606,108.275572605606
+"Conservancy","Conservancy_28","N#a Jaqna","SSP245_2050","Browser-Mixed",1,496902,432837,-64065,-64065,-12.8928459963339,-12.8928459963339
+"Conservancy","Conservancy_28","N#a Jaqna","SSP245_2050","Grazer",2,54402,150278,95876,95876,195.751408272021,195.751408272021
+"Conservancy","Conservancy_28","N#a Jaqna","SSP245_2050","Grazer-Mixed",1,260211,543547,283336,283336,108.886851351249,108.886851351249
+"Conservancy","Conservancy_28","N#a Jaqna","SSP245_2090","Browser-Mixed",1,481160,419037,-62124,-62124,-12.9112336129949,-12.9112336129949
+"Conservancy","Conservancy_28","N#a Jaqna","SSP245_2090","Grazer",2,52494,145452,92957,92957,196.785605220007,196.785605220007
+"Conservancy","Conservancy_28","N#a Jaqna","SSP245_2090","Grazer-Mixed",1,251391,526104,274714,274714,109.277604539957,109.277604539957
+"Conservancy","Conservancy_28","N#a Jaqna","SSP585_2050","Browser-Mixed",1,480192,418282,-61910,-61910,-12.8928494455602,-12.8928494455602
+"Conservancy","Conservancy_28","N#a Jaqna","SSP585_2050","Grazer",2,52572,145224,92652,92652,195.751358946748,195.751358946748
+"Conservancy","Conservancy_28","N#a Jaqna","SSP585_2050","Grazer-Mixed",1,251461,525269,273808,273808,108.886849094166,108.886849094166
+"Conservancy","Conservancy_28","N#a Jaqna","SSP585_2090","Browser-Mixed",1,453214,394699,-58516,-58516,-12.9112786028604,-12.9112786028604
+"Conservancy","Conservancy_28","N#a Jaqna","SSP585_2090","Grazer",2,49445,137004,87559,87559,196.786771056792,196.786771056792
+"Conservancy","Conservancy_28","N#a Jaqna","SSP585_2090","Grazer-Mixed",1,236789,495548,258759,258759,109.278136042792,109.278136042792
+"Conservancy","Conservancy_29","!Han /Awab","SSP245_2050","Browser-Mixed",1,70094,73689,3595,3595,5.1288944256395,5.1288944256395
+"Conservancy","Conservancy_29","!Han /Awab","SSP245_2050","Grazer",2,30051,31940,1889,1889,6.39160502339051,6.39160502339051
+"Conservancy","Conservancy_29","!Han /Awab","SSP245_2050","Grazer-Mixed",1,104977,111627,6650,6650,6.33443246384016,6.33443246384016
+"Conservancy","Conservancy_29","!Han /Awab","SSP245_2090","Browser-Mixed",1,67366,70921,3554,3554,5.27620888034229,5.27620888034229
+"Conservancy","Conservancy_29","!Han /Awab","SSP245_2090","Grazer",2,29027,30847,1820,1820,6.37409245672991,6.37409245672991
+"Conservancy","Conservancy_29","!Han /Awab","SSP245_2090","Grazer-Mixed",1,101326,107754,6427,6427,6.34303915975512,6.34303915975512
+"Conservancy","Conservancy_29","!Han /Awab","SSP585_2050","Browser-Mixed",1,67247,70698,3451,3451,5.13131906247151,5.13131906247151
+"Conservancy","Conservancy_29","!Han /Awab","SSP585_2050","Grazer",2,28830,30643,1813,1813,6.39448591309683,6.39448591309683
+"Conservancy","Conservancy_29","!Han /Awab","SSP585_2050","Grazer-Mixed",1,100713,107096,6383,6383,6.33731497197341,6.33731497197341
+"Conservancy","Conservancy_29","!Han /Awab","SSP585_2090","Browser-Mixed",1,60548,63733,3185,3185,5.26102250444419,5.26102250444419
+"Conservancy","Conservancy_29","!Han /Awab","SSP585_2090","Grazer",2,26090,27722,1631,1631,6.35568475124603,6.35568475124603
+"Conservancy","Conservancy_29","!Han /Awab","SSP585_2090","Grazer-Mixed",1,91078,96838,5760,5760,6.32466298118301,6.32466298118301
+"Conservancy","Conservancy_3","Otjitanda","SSP245_2050","Browser-Mixed",1,57893,54769,-3124,-3124,-5.39568504435194,-5.39568504435194
+"Conservancy","Conservancy_3","Otjitanda","SSP245_2050","Grazer",2,6827,16559,9732,9732,157.861593689235,157.861593689235
+"Conservancy","Conservancy_3","Otjitanda","SSP245_2050","Grazer-Mixed",1,31544,61049,29505,29505,93.5373735629224,93.5373735629224
+"Conservancy","Conservancy_3","Otjitanda","SSP245_2090","Browser-Mixed",1,55051,52004,-3047,-3047,-5.53555455537157,-5.53555455537157
+"Conservancy","Conservancy_3","Otjitanda","SSP245_2090","Grazer",2,6421,15677,9256,9256,159.821558473853,159.821558473853
+"Conservancy","Conservancy_3","Otjitanda","SSP245_2090","Grazer-Mixed",1,29785,57829,28044,28044,94.1526297178858,94.1526297178858
+"Conservancy","Conservancy_3","Otjitanda","SSP585_2050","Browser-Mixed",1,56502,53474,-3028,-3028,-5.35930716144962,-5.35930716144962
+"Conservancy","Conservancy_3","Otjitanda","SSP585_2050","Grazer",2,6663,16173,9510,9510,158.071631195194,158.071631195194
+"Conservancy","Conservancy_3","Otjitanda","SSP585_2050","Grazer-Mixed",1,30782,59619,28836,28836,93.6782842184484,93.6782842184484
+"Conservancy","Conservancy_3","Otjitanda","SSP585_2090","Browser-Mixed",1,53166,50227,-2938,-2938,-5.52690219592968,-5.52690219592968
+"Conservancy","Conservancy_3","Otjitanda","SSP585_2090","Grazer",2,6202,15142,8940,8940,159.820262427025,159.820262427025
+"Conservancy","Conservancy_3","Otjitanda","SSP585_2090","Grazer-Mixed",1,28767,55855,27088,27088,94.1615582656373,94.1615582656373
+"Conservancy","Conservancy_30","!Khob !naub","SSP245_2050","Browser-Mixed",1,33148,54596,21448,21448,64.7052597390697,64.7052597390697
+"Conservancy","Conservancy_30","!Khob !naub","SSP245_2050","Grazer",2,10812,21364,10551,10551,105.411072999375,105.411072999375
+"Conservancy","Conservancy_30","!Khob !naub","SSP245_2050","Grazer-Mixed",1,35572,73019,37447,37447,105.271546547408,105.271546547408
+"Conservancy","Conservancy_30","!Khob !naub","SSP245_2090","Browser-Mixed",1,30031,51240,21209,21209,70.6255448502407,70.6255448502407
+"Conservancy","Conservancy_30","!Khob !naub","SSP245_2090","Grazer",2,9940,20219,10279,10279,112.201344483589,112.201344483589
+"Conservancy","Conservancy_30","!Khob !naub","SSP245_2090","Grazer-Mixed",1,32342,68892,36551,36551,113.014074110171,113.014074110171
+"Conservancy","Conservancy_30","!Khob !naub","SSP585_2050","Browser-Mixed",1,32121,52901,20780,20780,64.6927366238628,64.6927366238628
+"Conservancy","Conservancy_30","!Khob !naub","SSP585_2050","Grazer",2,10478,20701,10222,10222,105.377980662245,105.377980662245
+"Conservancy","Conservancy_30","!Khob !naub","SSP585_2050","Grazer-Mixed",1,34474,70754,36280,36280,105.23930163591,105.23930163591
+"Conservancy","Conservancy_30","!Khob !naub","SSP585_2090","Browser-Mixed",1,27386,46726,19340,19340,70.6222640657803,70.6222640657803
+"Conservancy","Conservancy_30","!Khob !naub","SSP585_2090","Grazer",2,9065,18438,9373,9373,112.192231884996,112.192231884996
+"Conservancy","Conservancy_30","!Khob !naub","SSP585_2090","Grazer-Mixed",1,29494,62823,33329,33329,113.005310778908,113.005310778908
+"Conservancy","Conservancy_31","Anabeb","SSP245_2050","Browser-Mixed",1,32095,41403,9308,9308,29.001111588046,29.001111588046
+"Conservancy","Conservancy_31","Anabeb","SSP245_2050","Grazer",2,4402,11816,7414,7414,198.604283579817,198.604283579817
+"Conservancy","Conservancy_31","Anabeb","SSP245_2050","Grazer-Mixed",1,17596,42643,25046,25046,142.340551907141,142.340551907141
+"Conservancy","Conservancy_31","Anabeb","SSP245_2090","Browser-Mixed",1,30389,39233,8844,8844,29.1034672319335,29.1034672319335
+"Conservancy","Conservancy_31","Anabeb","SSP245_2090","Grazer",2,4130,11178,7048,7048,201.824964951743,201.824964951743
+"Conservancy","Conservancy_31","Anabeb","SSP245_2090","Grazer-Mixed",1,16533,40341,23808,23808,143.999030474826,143.999030474826
+"Conservancy","Conservancy_31","Anabeb","SSP585_2050","Browser-Mixed",1,31040,40068,9029,9029,29.0882888060064,29.0882888060064
+"Conservancy","Conservancy_31","Anabeb","SSP585_2050","Grazer",2,4260,11441,7181,7181,198.812497277535,198.812497277535
+"Conservancy","Conservancy_31","Anabeb","SSP585_2050","Grazer-Mixed",1,17020,41282,24262,24262,142.547693950918,142.547693950918
+"Conservancy","Conservancy_31","Anabeb","SSP585_2090","Browser-Mixed",1,28485,36799,8314,8314,29.186023223365,29.186023223365
+"Conservancy","Conservancy_31","Anabeb","SSP585_2090","Grazer",2,3873,10489,6616,6616,202.110379761005,202.110379761005
+"Conservancy","Conservancy_31","Anabeb","SSP585_2090","Grazer-Mixed",1,15497,37849,22352,22352,144.237534394854,144.237534394854
+"Conservancy","Conservancy_32","Ozondundu","SSP245_2050","Browser-Mixed",1,40613,38104,-2509,-2509,-6.17775487941755,-6.17775487941755
+"Conservancy","Conservancy_32","Ozondundu","SSP245_2050","Grazer",2,4413,8167,3754,3754,94.5918085618557,94.5918085618557
+"Conservancy","Conservancy_32","Ozondundu","SSP245_2050","Grazer-Mixed",1,21161,32255,11094,11094,52.4255993198489,52.4255993198489
+"Conservancy","Conservancy_32","Ozondundu","SSP245_2090","Browser-Mixed",1,38540,36156,-2384,-2384,-6.18557789933398,-6.18557789933398
+"Conservancy","Conservancy_32","Ozondundu","SSP245_2090","Grazer",2,4187,7754,3567,3567,94.7142603498954,94.7142603498954
+"Conservancy","Conservancy_32","Ozondundu","SSP245_2090","Grazer-Mixed",1,20081,30622,10541,10541,52.4918409085775,52.4918409085775
+"Conservancy","Conservancy_32","Ozondundu","SSP585_2050","Browser-Mixed",1,39081,36666,-2414,-2414,-6.17762017566458,-6.17762017566458
+"Conservancy","Conservancy_32","Ozondundu","SSP585_2050","Grazer",2,4246,7859,3612,3612,94.5897464334359,94.5897464334359
+"Conservancy","Conservancy_32","Ozondundu","SSP585_2050","Grazer-Mixed",1,20363,31038,10675,10675,52.4244561756846,52.4244561756846
+"Conservancy","Conservancy_32","Ozondundu","SSP585_2090","Browser-Mixed",1,36081,33850,-2232,-2232,-6.18466094195524,-6.18466094195524
+"Conservancy","Conservancy_32","Ozondundu","SSP585_2090","Grazer",2,3920,7259,3339,3339,94.700219795995,94.700219795995
+"Conservancy","Conservancy_32","Ozondundu","SSP585_2090","Grazer-Mixed",1,18800,28668,9867,9867,52.4840594560393,52.4840594560393
+"Conservancy","Conservancy_33","Sesfontein","SSP245_2050","Browser-Mixed",1,19649,43964,24315,24315,123.744697219133,123.744697219133
+"Conservancy","Conservancy_33","Sesfontein","SSP245_2050","Grazer",2,3453,15709,12256,12256,536.66330795359,536.66330795359
+"Conservancy","Conservancy_33","Sesfontein","SSP245_2050","Grazer-Mixed",1,9948,53312,43365,43365,435.927902748718,435.927902748718
+"Conservancy","Conservancy_33","Sesfontein","SSP245_2090","Browser-Mixed",1,18524,41632,23108,23108,124.7413846254,124.7413846254
+"Conservancy","Conservancy_33","Sesfontein","SSP245_2090","Grazer",2,3266,14892,11626,11626,539.667805739795,539.667805739795
+"Conservancy","Conservancy_33","Sesfontein","SSP245_2090","Grazer-Mixed",1,9376,50522,41147,41147,438.859823963631,438.859823963631
+"Conservancy","Conservancy_33","Sesfontein","SSP585_2050","Browser-Mixed",1,19054,42695,23642,23642,124.078082866172,124.078082866172
+"Conservancy","Conservancy_33","Sesfontein","SSP585_2050","Grazer",2,3352,15262,11911,11911,537.748241740028,537.748241740028
+"Conservancy","Conservancy_33","Sesfontein","SSP585_2050","Grazer-Mixed",1,9645,51792,42146,42146,436.954626958322,436.954626958322
+"Conservancy","Conservancy_33","Sesfontein","SSP585_2090","Browser-Mixed",1,17351,39024,21674,21674,124.91545417574,124.91545417574
+"Conservancy","Conservancy_33","Sesfontein","SSP585_2090","Grazer",2,3061,13963,10902,10902,540.228131432319,540.228131432319
+"Conservancy","Conservancy_33","Sesfontein","SSP585_2090","Grazer-Mixed",1,8781,47366,38585,38585,439.392990134015,439.392990134015
+"Conservancy","Conservancy_34","George Mukoya","SSP245_2050","Browser-Mixed",1,26036,25271,-765,-765,-2.93885249705787,-2.93885249705787
+"Conservancy","Conservancy_34","George Mukoya","SSP245_2050","Grazer",2,2762,3825,1063,1063,42.8252355262791,42.8252355262791
+"Conservancy","Conservancy_34","George Mukoya","SSP245_2050","Grazer-Mixed",1,13326,16451,3125,3125,23.4513921095823,23.4513921095823
+"Conservancy","Conservancy_34","George Mukoya","SSP245_2090","Browser-Mixed",1,25622,24899,-722,-722,-2.81844745345413,-2.81844745345413
+"Conservancy","Conservancy_34","George Mukoya","SSP245_2090","Grazer",2,2747,3827,1080,1080,43.722609889991,43.722609889991
+"Conservancy","Conservancy_34","George Mukoya","SSP245_2090","Grazer-Mixed",1,13216,16409,3193,3193,24.1604218799845,24.1604218799845
+"Conservancy","Conservancy_34","George Mukoya","SSP585_2050","Browser-Mixed",1,25572,24857,-715,-715,-2.79737642650031,-2.79737642650031
+"Conservancy","Conservancy_34","George Mukoya","SSP585_2050","Grazer",2,2713,3769,1057,1057,43.2849723310104,43.2849723310104
+"Conservancy","Conservancy_34","George Mukoya","SSP585_2050","Grazer-Mixed",1,13089,16208,3120,3120,23.8367558979304,23.8367558979304
+"Conservancy","Conservancy_34","George Mukoya","SSP585_2090","Browser-Mixed",1,24152,23465,-688,-688,-2.84742584207749,-2.84742584207749
+"Conservancy","Conservancy_34","George Mukoya","SSP585_2090","Grazer",2,2589,3605,1016,1016,43.631207575649,43.631207575649
+"Conservancy","Conservancy_34","George Mukoya","SSP585_2090","Grazer-Mixed",1,12458,15459,3000,3000,24.0831997944587,24.0831997944587
+"Conservancy","Conservancy_35","Muduva Nyangana","SSP245_2050","Browser-Mixed",1,33020,31863,-1157,-1157,-3.50341193575948,-3.50341193575948
+"Conservancy","Conservancy_35","Muduva Nyangana","SSP245_2050","Grazer",2,3612,4801,1188,1188,36.8791009810578,36.8791009810578
+"Conservancy","Conservancy_35","Muduva Nyangana","SSP245_2050","Grazer-Mixed",1,17271,20678,3407,3407,19.7275538100294,19.7275538100294
+"Conservancy","Conservancy_35","Muduva Nyangana","SSP245_2090","Browser-Mixed",1,32437,31581,-855,-855,-2.63733290691527,-2.63733290691527
+"Conservancy","Conservancy_35","Muduva Nyangana","SSP245_2090","Grazer",2,3535,4815,1280,1280,40.2314817787737,40.2314817787737
+"Conservancy","Conservancy_35","Muduva Nyangana","SSP245_2090","Grazer-Mixed",1,16930,20712,3783,3783,22.3429122296313,22.3429122296313
+"Conservancy","Conservancy_35","Muduva Nyangana","SSP585_2050","Browser-Mixed",1,32476,30873,-1604,-1604,-4.93764101441157,-4.93764101441157
+"Conservancy","Conservancy_35","Muduva Nyangana","SSP585_2050","Grazer",2,3553,4558,1005,1005,32.3551523880692,32.3551523880692
+"Conservancy","Conservancy_35","Muduva Nyangana","SSP585_2050","Grazer-Mixed",1,16986,19687,2701,2701,15.8997290456204,15.8997290456204
+"Conservancy","Conservancy_35","Muduva Nyangana","SSP585_2090","Browser-Mixed",1,30540,29022,-1518,-1518,-4.9718659246984,-4.9718659246984
+"Conservancy","Conservancy_35","Muduva Nyangana","SSP585_2090","Grazer",2,3328,4282,954,954,32.8288712770519,32.8288712770519
+"Conservancy","Conservancy_35","Muduva Nyangana","SSP585_2090","Grazer-Mixed",1,15940,18506,2566,2566,16.0963539093317,16.0963539093317
+"Conservancy","Conservancy_36","Shamungwa","SSP245_2050","Browser-Mixed",1,2861,2750,-110,-110,-3.85959075362421,-3.85959075362421
+"Conservancy","Conservancy_36","Shamungwa","SSP245_2050","Grazer",2,310,475,165,165,59.2567726400909,59.2567726400909
+"Conservancy","Conservancy_36","Shamungwa","SSP245_2050","Grazer-Mixed",1,1488,1976,488,488,32.8211088637722,32.8211088637722
+"Conservancy","Conservancy_36","Shamungwa","SSP245_2090","Browser-Mixed",1,2807,2699,-108,-108,-3.85483975988477,-3.85483975988477
+"Conservancy","Conservancy_36","Shamungwa","SSP245_2090","Grazer",2,305,467,162,162,59.0257373792295,59.0257373792295
+"Conservancy","Conservancy_36","Shamungwa","SSP245_2090","Grazer-Mixed",1,1463,1941,479,479,32.7128101362554,32.7128101362554
+"Conservancy","Conservancy_36","Shamungwa","SSP585_2050","Browser-Mixed",1,2818,2662,-156,-156,-5.53831265889205,-5.53831265889205
+"Conservancy","Conservancy_36","Shamungwa","SSP585_2050","Grazer",2,305,451,146,146,53.9000351810401,53.9000351810401
+"Conservancy","Conservancy_36","Shamungwa","SSP585_2050","Grazer-Mixed",1,1465,1880,415,415,28.3123041546271,28.3123041546271
+"Conservancy","Conservancy_36","Shamungwa","SSP585_2090","Browser-Mixed",1,2642,2496,-146,-146,-5.53168825934957,-5.53168825934957
+"Conservancy","Conservancy_36","Shamungwa","SSP585_2090","Grazer",2,287,424,137,137,53.6914762045407,53.6914762045407
+"Conservancy","Conservancy_36","Shamungwa","SSP585_2090","Grazer-Mixed",1,1377,1765,389,389,28.219592949959,28.219592949959
+"Conservancy","Conservancy_37","King Nehale","SSP245_2050","Browser-Mixed",1,24548,23778,-770,-770,-3.13652399218696,-3.13652399218696
+"Conservancy","Conservancy_37","King Nehale","SSP245_2050","Grazer",2,6183,7361,1179,1179,20.0314844152961,20.0314844152961
+"Conservancy","Conservancy_37","King Nehale","SSP245_2050","Grazer-Mixed",1,23592,27056,3464,3464,14.6815787235564,14.6815787235564
+"Conservancy","Conservancy_37","King Nehale","SSP245_2090","Browser-Mixed",1,23862,23099,-762,-762,-3.19460665318249,-3.19460665318249
+"Conservancy","Conservancy_37","King Nehale","SSP245_2090","Grazer",2,6016,7379,1363,1363,23.7036468804458,23.7036468804458
+"Conservancy","Conservancy_37","King Nehale","SSP245_2090","Grazer-Mixed",1,22942,26992,4050,4050,17.6544468689461,17.6544468689461
+"Conservancy","Conservancy_37","King Nehale","SSP585_2050","Browser-Mixed",1,23680,22983,-697,-697,-2.94531786710639,-2.94531786710639
+"Conservancy","Conservancy_37","King Nehale","SSP585_2050","Grazer",2,5964,7439,1475,1475,25.8054739638189,25.8054739638189
+"Conservancy","Conservancy_37","King Nehale","SSP585_2050","Grazer-Mixed",1,22758,27175,4417,4417,19.4108057151817,19.4108057151817
+"Conservancy","Conservancy_37","King Nehale","SSP585_2090","Browser-Mixed",1,22843,22131,-712,-712,-3.11708282828234,-3.11708282828234
+"Conservancy","Conservancy_37","King Nehale","SSP585_2090","Grazer",2,5760,7194,1434,1434,25.9827078332012,25.9827078332012
+"Conservancy","Conservancy_37","King Nehale","SSP585_2090","Grazer-Mixed",1,21966,26255,4289,4289,19.5242603744703,19.5242603744703
+"Conservancy","Conservancy_38","Doro !nawas Area1","SSP245_2050","Browser-Mixed",1,15876,60392,44516,44516,280.395131620343,280.395131620343
+"Conservancy","Conservancy_38","Doro !nawas Area1","SSP245_2050","Grazer",2,3264,24554,21289,21289,1094.2412655136,1094.2412655136
+"Conservancy","Conservancy_38","Doro !nawas Area1","SSP245_2050","Grazer-Mixed",1,8086,83915,75829,75829,937.786701606423,937.786701606423
+"Conservancy","Conservancy_38","Doro !nawas Area1","SSP245_2090","Browser-Mixed",1,14998,57601,42602,42602,284.04576100551,284.04576100551
+"Conservancy","Conservancy_38","Doro !nawas Area1","SSP245_2090","Grazer",2,3069,23420,20351,20351,1132.23464942542,1132.23464942542
+"Conservancy","Conservancy_38","Doro !nawas Area1","SSP245_2090","Grazer-Mixed",1,7534,80032,72498,72498,962.304467732741,962.304467732741
+"Conservancy","Conservancy_38","Doro !nawas Area1","SSP585_2050","Browser-Mixed",1,15536,59101,43565,43565,280.415351553228,280.415351553228
+"Conservancy","Conservancy_38","Doro !nawas Area1","SSP585_2050","Grazer",2,3194,24028,20834,20834,1094.41879733637,1094.41879733637
+"Conservancy","Conservancy_38","Doro !nawas Area1","SSP585_2050","Grazer-Mixed",1,7912,82121,74209,74209,937.906093813051,937.906093813051
+"Conservancy","Conservancy_38","Doro !nawas Area1","SSP585_2090","Browser-Mixed",1,13856,53212,39356,39356,284.029978538224,284.029978538224
+"Conservancy","Conservancy_38","Doro !nawas Area1","SSP585_2090","Grazer",2,2836,21636,18800,18800,1132.16228460738,1132.16228460738
+"Conservancy","Conservancy_38","Doro !nawas Area1","SSP585_2090","Grazer-Mixed",1,6960,73934,66974,66974,962.24620402026,962.24620402026
+"Conservancy","Conservancy_39","African Wild Dog","SSP245_2050","Browser-Mixed",1,206982,180358,-26624,-26624,-12.8629268228062,-12.8629268228062
+"Conservancy","Conservancy_39","African Wild Dog","SSP245_2050","Grazer",2,22524,62359,39835,39835,196.611406418499,196.611406418499
+"Conservancy","Conservancy_39","African Wild Dog","SSP245_2050","Grazer-Mixed",1,107956,225680,117724,117724,109.047701766946,109.047701766946
+"Conservancy","Conservancy_39","African Wild Dog","SSP245_2090","Browser-Mixed",1,199306,173658,-25648,-25648,-12.8687352467654,-12.8687352467654
+"Conservancy","Conservancy_39","African Wild Dog","SSP245_2090","Grazer",2,21662,60037,38375,38375,196.973082155914,196.973082155914
+"Conservancy","Conservancy_39","African Wild Dog","SSP245_2090","Grazer-Mixed",1,103871,217280,113409,113409,109.182819938179,109.182819938179
+"Conservancy","Conservancy_39","African Wild Dog","SSP585_2050","Browser-Mixed",1,200218,174464,-25754,-25754,-12.8629332667673,-12.8629332667673
+"Conservancy","Conservancy_39","African Wild Dog","SSP585_2050","Grazer",2,21788,60321,38533,38533,196.611460753622,196.611460753622
+"Conservancy","Conservancy_39","African Wild Dog","SSP585_2050","Grazer-Mixed",1,104429,218305,113877,113877,109.047742490861,109.047742490861
+"Conservancy","Conservancy_39","African Wild Dog","SSP585_2090","Browser-Mixed",1,187045,162975,-24070,-24070,-12.8686536835788,-12.8686536835788
+"Conservancy","Conservancy_39","African Wild Dog","SSP585_2090","Grazer",2,20330,56344,36014,36014,196.971858707201,196.971858707201
+"Conservancy","Conservancy_39","African Wild Dog","SSP585_2090","Grazer-Mixed",1,97481,203913,106432,106432,109.18213578504,109.18213578504
+"Conservancy","Conservancy_4","Orupupa","SSP245_2050","Browser-Mixed",1,65885,62323,-3562,-3562,-5.40576503015413,-5.40576503015413
+"Conservancy","Conservancy_4","Orupupa","SSP245_2050","Grazer",2,7547,13511,5963,5963,87.3776358540953,87.3776358540953
+"Conservancy","Conservancy_4","Orupupa","SSP245_2050","Grazer-Mixed",1,35466,53183,17717,17717,49.9550030912008,49.9550030912008
+"Conservancy","Conservancy_4","Orupupa","SSP245_2090","Browser-Mixed",1,63152,59737,-3414,-3414,-5.40678032768818,-5.40678032768818
+"Conservancy","Conservancy_4","Orupupa","SSP245_2090","Grazer",2,7169,12924,5754,5754,88.8518308660618,88.8518308660618
+"Conservancy","Conservancy_4","Orupupa","SSP245_2090","Grazer-Mixed",1,33797,50898,17101,17101,50.5990148039704,50.5990148039704
+"Conservancy","Conservancy_4","Orupupa","SSP585_2050","Browser-Mixed",1,63522,60089,-3433,-3433,-5.40435992141064,-5.40435992141064
+"Conservancy","Conservancy_4","Orupupa","SSP585_2050","Grazer",2,7277,13027,5749,5749,87.3649682304675,87.3649682304675
+"Conservancy","Conservancy_4","Orupupa","SSP585_2050","Grazer-Mixed",1,34196,51278,17081,17081,49.9510438519418,49.9510438519418
+"Conservancy","Conservancy_4","Orupupa","SSP585_2090","Browser-Mixed",1,59631,56407,-3224,-3224,-5.40656277708359,-5.40656277708359
+"Conservancy","Conservancy_4","Orupupa","SSP585_2090","Grazer",2,6770,12203,5434,5434,88.8482422950522,88.8482422950522
+"Conservancy","Conservancy_4","Orupupa","SSP585_2090","Grazer-Mixed",1,31913,48060,16147,16147,50.5976969934525,50.5976969934525
+"Conservancy","Conservancy_40","Torra","SSP245_2050","Browser-Mixed",1,27104,81902,54798,54798,202.178126348572,202.178126348572
+"Conservancy","Conservancy_40","Torra","SSP245_2050","Grazer",2,5877,32853,26977,26977,610.719325442756,610.719325442756
+"Conservancy","Conservancy_40","Torra","SSP245_2050","Grazer-Mixed",1,17049,112782,95733,95733,561.508878222615,561.508878222615
+"Conservancy","Conservancy_40","Torra","SSP245_2090","Browser-Mixed",1,25071,77575,52504,52504,209.42238554782,209.42238554782
+"Conservancy","Conservancy_40","Torra","SSP245_2090","Grazer",2,5317,31159,25841,25841,663.759134513895,663.759134513895
+"Conservancy","Conservancy_40","Torra","SSP245_2090","Grazer-Mixed",1,15201,106909,91708,91708,603.2806866103,603.2806866103
+"Conservancy","Conservancy_40","Torra","SSP585_2050","Browser-Mixed",1,26417,79896,53479,53479,202.437693190588,202.437693190588
+"Conservancy","Conservancy_40","Torra","SSP585_2050","Grazer",2,5727,32051,26324,26324,611.902436297529,611.902436297529
+"Conservancy","Conservancy_40","Torra","SSP585_2050","Grazer-Mixed",1,16606,110025,93418,93418,562.539345192435,562.539345192435
+"Conservancy","Conservancy_40","Torra","SSP585_2090","Browser-Mixed",1,23229,71888,48659,48659,209.470982076173,209.470982076173
+"Conservancy","Conservancy_40","Torra","SSP585_2090","Grazer",2,4928,28875,23948,23948,663.807946329926,663.807946329926
+"Conservancy","Conservancy_40","Torra","SSP585_2090","Grazer-Mixed",1,14086,99073,84987,84987,603.364270227328,603.364270227328
+"Conservancy","Conservancy_41","Ondjou","SSP245_2050","Browser-Mixed",1,472296,411743,-60552,-60552,-12.8208717063884,-12.8208717063884
+"Conservancy","Conservancy_41","Ondjou","SSP245_2050","Grazer",2,52073,142673,90599,90599,193.068550159086,193.068550159086
+"Conservancy","Conservancy_41","Ondjou","SSP245_2050","Grazer-Mixed",1,248406,516153,267747,267747,107.785945236238,107.785945236238
+"Conservancy","Conservancy_41","Ondjou","SSP245_2090","Browser-Mixed",1,457483,398626,-58857,-58857,-12.8654264813917,-12.8654264813917
+"Conservancy","Conservancy_41","Ondjou","SSP245_2090","Grazer",2,50119,138182,88063,88063,195.155843417616,195.155843417616
+"Conservancy","Conservancy_41","Ondjou","SSP245_2090","Grazer-Mixed",1,239638,499889,260251,260251,108.601778191249,108.601778191249
+"Conservancy","Conservancy_41","Ondjou","SSP585_2050","Browser-Mixed",1,456569,398033,-58536,-58536,-12.8208384401549,-12.8208384401549
+"Conservancy","Conservancy_41","Ondjou","SSP585_2050","Grazer",2,50340,137922,87582,87582,193.067106170487,193.067106170487
+"Conservancy","Conservancy_41","Ondjou","SSP585_2050","Grazer-Mixed",1,240136,498967,258831,258831,107.785387898758,107.785387898758
+"Conservancy","Conservancy_41","Ondjou","SSP585_2090","Browser-Mixed",1,429297,374066,-55231,-55231,-12.865478021579,-12.865478021579
+"Conservancy","Conservancy_41","Ondjou","SSP585_2090","Grazer",2,47031,129669,82637,82637,195.157194721305,195.157194721305
+"Conservancy","Conservancy_41","Ondjou","SSP585_2090","Grazer-Mixed",1,224873,469090,244217,244217,108.60238967515,108.60238967515
+"Conservancy","Conservancy_42","#Gaingu","SSP245_2050","Browser-Mixed",1,298,722,424,424,142.006588645771,142.006588645771
+"Conservancy","Conservancy_42","#Gaingu","SSP245_2050","Grazer",2,61,263,202,202,570.601603599978,570.601603599978
+"Conservancy","Conservancy_42","#Gaingu","SSP245_2050","Grazer-Mixed",1,149,870,721,721,483.411029742341,483.411029742341
+"Conservancy","Conservancy_42","#Gaingu","SSP245_2090","Browser-Mixed",1,284,688,404,404,142.013222864363,142.013222864363
+"Conservancy","Conservancy_42","#Gaingu","SSP245_2090","Grazer",2,58,251,193,193,570.628260784008,570.628260784008
+"Conservancy","Conservancy_42","#Gaingu","SSP245_2090","Grazer-Mixed",1,142,829,687,687,483.433613584904,483.433613584904
+"Conservancy","Conservancy_42","#Gaingu","SSP585_2050","Browser-Mixed",1,289,700,411,411,142.014439746882,142.014439746882
+"Conservancy","Conservancy_42","#Gaingu","SSP585_2050","Grazer",2,59,255,196,196,570.633150381902,570.633150381902
+"Conservancy","Conservancy_42","#Gaingu","SSP585_2050","Grazer-Mixed",1,145,844,699,699,483.437756029541,483.437756029541
+"Conservancy","Conservancy_42","#Gaingu","SSP585_2090","Browser-Mixed",1,258,625,367,367,141.977098025939,141.977098025939
+"Conservancy","Conservancy_42","#Gaingu","SSP585_2090","Grazer",2,53,228,175,175,570.483106316661,570.483106316661
+"Conservancy","Conservancy_42","#Gaingu","SSP585_2090","Grazer-Mixed",1,129,753,624,624,483.310639393999,483.310639393999
+"Conservancy","Conservancy_43","#Gaingu","SSP245_2050","Browser-Mixed",1,63394,135950,72555,72555,114.450774139023,114.450774139023
+"Conservancy","Conservancy_43","#Gaingu","SSP245_2050","Grazer",2,13181,49566,36385,36385,362.030723822629,362.030723822629
+"Conservancy","Conservancy_43","#Gaingu","SSP245_2050","Grazer-Mixed",1,39440,168264,128823,128823,326.627475642335,326.627475642335
+"Conservancy","Conservancy_43","#Gaingu","SSP245_2090","Browser-Mixed",1,59813,129099,69286,69286,115.83855307856,115.83855307856
+"Conservancy","Conservancy_43","#Gaingu","SSP245_2090","Grazer",2,12268,47033,34765,34765,375.849416321249,375.849416321249
+"Conservancy","Conservancy_43","#Gaingu","SSP245_2090","Grazer-Mixed",1,36536,159615,123079,123079,336.874307588519,336.874307588519
+"Conservancy","Conservancy_43","#Gaingu","SSP585_2050","Browser-Mixed",1,61737,132584,70848,70848,114.757784516984,114.757784516984
+"Conservancy","Conservancy_43","#Gaingu","SSP585_2050","Grazer",2,12839,48358,35519,35519,363.121180336984,363.121180336984
+"Conservancy","Conservancy_43","#Gaingu","SSP585_2050","Grazer-Mixed",1,38385,164147,125762,125762,327.635817708668,327.635817708668
+"Conservancy","Conservancy_43","#Gaingu","SSP585_2090","Browser-Mixed",1,54425,117557,63132,63132,116.000035676349,116.000035676349
+"Conservancy","Conservancy_43","#Gaingu","SSP585_2090","Grazer",2,11167,42837,31670,31670,376.264806866773,376.264806866773
+"Conservancy","Conservancy_43","#Gaingu","SSP585_2090","Grazer-Mixed",1,33242,145368,112126,112126,337.30067884841,337.30067884841
+"Conservancy","Conservancy_44","Sheya Shuushona","SSP245_2050","Browser-Mixed",1,263941,250703,-13237,-13237,-5.01532658534516,-5.01532658534516
+"Conservancy","Conservancy_44","Sheya Shuushona","SSP245_2050","Grazer",2,54062,73392,19330,19330,37.6701816622017,37.6701816622017
+"Conservancy","Conservancy_44","Sheya Shuushona","SSP245_2050","Grazer-Mixed",1,215720,272730,57010,57010,26.4276782297642,26.4276782297642
+"Conservancy","Conservancy_44","Sheya Shuushona","SSP245_2090","Browser-Mixed",1,254771,241934,-12837,-12837,-5.03864422965197,-5.03864422965197
+"Conservancy","Conservancy_44","Sheya Shuushona","SSP245_2090","Grazer",2,51967,71314,19347,19347,39.2063421290864,39.2063421290864
+"Conservancy","Conservancy_44","Sheya Shuushona","SSP245_2090","Grazer-Mixed",1,207548,264743,57195,57195,27.5574337340061,27.5574337340061
+"Conservancy","Conservancy_44","Sheya Shuushona","SSP585_2050","Browser-Mixed",1,254159,241467,-12692,-12692,-4.99376383953889,-4.99376383953889
+"Conservancy","Conservancy_44","Sheya Shuushona","SSP585_2050","Grazer",2,52056,71081,19024,19024,38.4829661531123,38.4829661531123
+"Conservancy","Conservancy_44","Sheya Shuushona","SSP585_2050","Grazer-Mixed",1,207719,263926,56206,56206,27.0586924842246,27.0586924842246
+"Conservancy","Conservancy_44","Sheya Shuushona","SSP585_2090","Browser-Mixed",1,241815,229604,-12210,-12210,-5.04943685308825,-5.04943685308825
+"Conservancy","Conservancy_44","Sheya Shuushona","SSP585_2090","Grazer",2,49310,67506,18197,18197,38.8712581225501,38.8712581225501
+"Conservancy","Conservancy_44","Sheya Shuushona","SSP585_2090","Grazer-Mixed",1,196948,250701,53754,53754,27.2934637106693,27.2934637106693
+"Conservancy","Conservancy_45","!Khoro !goreb","SSP245_2050","Browser-Mixed",1,53770,53679,-90,-90,-0.16827370282323,-0.16827370282323
+"Conservancy","Conservancy_45","!Khoro !goreb","SSP245_2050","Grazer",2,6819,16685,9867,9867,159.984329878164,159.984329878164
+"Conservancy","Conservancy_45","!Khoro !goreb","SSP245_2050","Grazer-Mixed",1,30457,61045,30588,30588,100.431201925131,100.431201925131
+"Conservancy","Conservancy_45","!Khoro !goreb","SSP245_2090","Browser-Mixed",1,51843,51489,-354,-354,-0.683658653471999,-0.683658653471999
+"Conservancy","Conservancy_45","!Khoro !goreb","SSP245_2090","Grazer",2,6530,16014,9484,9484,160.66659476831,160.66659476831
+"Conservancy","Conservancy_45","!Khoro !goreb","SSP245_2090","Grazer-Mixed",1,29245,58589,29343,29343,100.335671930533,100.335671930533
+"Conservancy","Conservancy_45","!Khoro !goreb","SSP585_2050","Browser-Mixed",1,51845,51767,-78,-78,-0.149528786920784,-0.149528786920784
+"Conservancy","Conservancy_45","!Khoro !goreb","SSP585_2050","Grazer",2,6576,16092,9516,9516,159.999381883795,159.999381883795
+"Conservancy","Conservancy_45","!Khoro !goreb","SSP585_2050","Grazer-Mixed",1,29370,58874,29504,29504,100.45858920683,100.45858920683
+"Conservancy","Conservancy_45","!Khoro !goreb","SSP585_2090","Browser-Mixed",1,47942,47612,-329,-329,-0.686845109613511,-0.686845109613511
+"Conservancy","Conservancy_45","!Khoro !goreb","SSP585_2090","Grazer",2,6039,14808,8769,8769,160.608843192468,160.608843192468
+"Conservancy","Conservancy_45","!Khoro !goreb","SSP585_2090","Grazer-Mixed",1,27047,54177,27130,27130,100.304812357789,100.304812357789
+"Conservancy","Conservancy_46","Otjimboyo","SSP245_2050","Browser-Mixed",1,3690,7979,4289,4289,116.211159539644,116.211159539644
+"Conservancy","Conservancy_46","Otjimboyo","SSP245_2050","Grazer",2,1070,3119,2049,2049,223.318412456096,223.318412456096
+"Conservancy","Conservancy_46","Otjimboyo","SSP245_2050","Grazer-Mixed",1,3244,10543,7300,7300,225.043579054673,225.043579054673
+"Conservancy","Conservancy_46","Otjimboyo","SSP245_2090","Browser-Mixed",1,3225,7386,4161,4161,129.01176577293,129.01176577293
+"Conservancy","Conservancy_46","Otjimboyo","SSP245_2090","Grazer",2,882,2870,1988,1988,272.880557132449,272.880557132449
+"Conservancy","Conservancy_46","Otjimboyo","SSP245_2090","Grazer-Mixed",1,2597,9678,7082,7082,272.721998317083,272.721998317083
+"Conservancy","Conservancy_46","Otjimboyo","SSP585_2050","Browser-Mixed",1,3589,7762,4173,4173,116.263748158341,116.263748158341
+"Conservancy","Conservancy_46","Otjimboyo","SSP585_2050","Grazer",2,1041,3034,1994,1994,223.499152840223,223.499152840223
+"Conservancy","Conservancy_46","Otjimboyo","SSP585_2050","Grazer-Mixed",1,3154,10256,7102,7102,225.219625934847,225.219625934847
+"Conservancy","Conservancy_46","Otjimboyo","SSP585_2090","Browser-Mixed",1,2976,6814,3839,3839,129.010500914805,129.010500914805
+"Conservancy","Conservancy_46","Otjimboyo","SSP585_2090","Grazer",2,814,2648,1834,1834,272.883943729756,272.883943729756
+"Conservancy","Conservancy_46","Otjimboyo","SSP585_2090","Grazer-Mixed",1,2396,8930,6534,6534,272.724710538557,272.724710538557
+"Conservancy","Conservancy_47","Tsiseb","SSP245_2050","Browser-Mixed",1,48198,128514,80315,80315,166.63423715026,166.63423715026
+"Conservancy","Conservancy_47","Tsiseb","SSP245_2050","Grazer",2,10456,48890,38434,38434,559.37564038901,559.37564038901
+"Conservancy","Conservancy_47","Tsiseb","SSP245_2050","Grazer-Mixed",1,27061,163947,136886,136886,505.849584317178,505.849584317178
+"Conservancy","Conservancy_47","Tsiseb","SSP245_2090","Browser-Mixed",1,45087,121976,76889,76889,170.536201981696,170.536201981696
+"Conservancy","Conservancy_47","Tsiseb","SSP245_2090","Grazer",2,9590,46363,36773,36773,603.791824899293,603.791824899293
+"Conservancy","Conservancy_47","Tsiseb","SSP245_2090","Grazer-Mixed",1,24416,155394,130978,130978,536.434000630053,536.434000630053
+"Conservancy","Conservancy_47","Tsiseb","SSP585_2050","Browser-Mixed",1,47226,125952,78726,78726,166.701146981916,166.701146981916
+"Conservancy","Conservancy_47","Tsiseb","SSP585_2050","Grazer",2,10241,47915,37674,37674,560.131557297064,560.131557297064
+"Conservancy","Conservancy_47","Tsiseb","SSP585_2050","Grazer-Mixed",1,26497,160674,134176,134176,506.379109352522,506.379109352522
+"Conservancy","Conservancy_47","Tsiseb","SSP585_2090","Browser-Mixed",1,41431,112094,70662,70662,170.553305549206,170.553305549206
+"Conservancy","Conservancy_47","Tsiseb","SSP585_2090","Grazer",2,8811,42606,33795,33795,604.093693334749,604.093693334749
+"Conservancy","Conservancy_47","Tsiseb","SSP585_2090","Grazer-Mixed",1,22431,142803,120372,120372,536.62739830393,536.62739830393
+"Conservancy","Conservancy_48","Sorris Sorris","SSP245_2050","Browser-Mixed",1,38220,64136,25916,25916,67.8061418597574,67.8061418597574
+"Conservancy","Conservancy_48","Sorris Sorris","SSP245_2050","Grazer",2,9291,24409,15118,15118,177.464692503302,177.464692503302
+"Conservancy","Conservancy_48","Sorris Sorris","SSP245_2050","Grazer-Mixed",1,32680,85275,52595,52595,160.937738473926,160.937738473926
+"Conservancy","Conservancy_48","Sorris Sorris","SSP245_2090","Browser-Mixed",1,36179,61204,25025,25025,69.1697892512922,69.1697892512922
+"Conservancy","Conservancy_48","Sorris Sorris","SSP245_2090","Grazer",2,8679,23291,14612,14612,184.098179482317,184.098179482317
+"Conservancy","Conservancy_48","Sorris Sorris","SSP245_2090","Grazer-Mixed",1,30537,81369,50832,50832,166.460714923602,166.460714923602
+"Conservancy","Conservancy_48","Sorris Sorris","SSP585_2050","Browser-Mixed",1,37120,62348,25228,25228,67.9630314439629,67.9630314439629
+"Conservancy","Conservancy_48","Sorris Sorris","SSP585_2050","Grazer",2,9030,23733,14704,14704,177.61902360837,177.61902360837
+"Conservancy","Conservancy_48","Sorris Sorris","SSP585_2050","Grazer-Mixed",1,31751,82910,51160,51160,161.129145599723,161.129145599723
+"Conservancy","Conservancy_48","Sorris Sorris","SSP585_2090","Browser-Mixed",1,33439,56553,23114,23114,69.1221122329816,69.1221122329816
+"Conservancy","Conservancy_48","Sorris Sorris","SSP585_2090","Grazer",2,8020,21520,13500,13500,184.043480407558,184.043480407558
+"Conservancy","Conservancy_48","Sorris Sorris","SSP585_2090","Grazer-Mixed",1,28222,75182,46960,46960,166.39653997552,166.39653997552
+"Conservancy","Conservancy_49","Okangundumba","SSP245_2050","Browser-Mixed",1,61794,55437,-6357,-6357,-10.2875019644343,-10.2875019644343
+"Conservancy","Conservancy_49","Okangundumba","SSP245_2050","Grazer",2,6750,16379,9629,9629,158.53539507217,158.53539507217
+"Conservancy","Conservancy_49","Okangundumba","SSP245_2050","Grazer-Mixed",1,32303,60778,28474,28474,88.147341839905,88.147341839905
+"Conservancy","Conservancy_49","Okangundumba","SSP245_2090","Browser-Mixed",1,58881,52752,-6129,-6129,-10.4096048906104,-10.4096048906104
+"Conservancy","Conservancy_49","Okangundumba","SSP245_2090","Grazer",2,6398,15568,9171,9171,159.393033891784,159.393033891784
+"Conservancy","Conservancy_49","Okangundumba","SSP245_2090","Grazer-Mixed",1,30680,57782,27102,27102,88.3376351784209,88.3376351784209
+"Conservancy","Conservancy_49","Okangundumba","SSP585_2050","Browser-Mixed",1,59449,53333,-6116,-6116,-10.2875890946806,-10.2875890946806
+"Conservancy","Conservancy_49","Okangundumba","SSP585_2050","Grazer",2,6493,15757,9264,9264,158.538826935605,158.538826935605
+"Conservancy","Conservancy_49","Okangundumba","SSP585_2050","Grazer-Mixed",1,31077,58472,27394,27394,88.1493201810175,88.1493201810175
+"Conservancy","Conservancy_49","Okangundumba","SSP585_2090","Browser-Mixed",1,55545,49763,-5782,-5782,-10.4096135750454,-10.4096135750454
+"Conservancy","Conservancy_49","Okangundumba","SSP585_2090","Grazer",2,6035,14686,8651,8651,159.393166868824,159.393166868824
+"Conservancy","Conservancy_49","Okangundumba","SSP585_2090","Grazer-Mixed",1,28942,54508,25566,25566,88.3377088759783,88.3377088759783
+"Conservancy","Conservancy_5","Omuramba ua Mbinda","SSP245_2050","Browser-Mixed",1,173273,150881,-22392,-22392,-12.9229340255996,-12.9229340255996
+"Conservancy","Conservancy_5","Omuramba ua Mbinda","SSP245_2050","Grazer",2,18827,52330,33503,33503,197.877410600059,197.877410600059
+"Conservancy","Conservancy_5","Omuramba ua Mbinda","SSP245_2050","Grazer-Mixed",1,90284,189296,99011,99011,109.666163450444,109.666163450444
+"Conservancy","Conservancy_5","Omuramba ua Mbinda","SSP245_2090","Browser-Mixed",1,167775,146094,-21681,-21681,-12.9224626324844,-12.9224626324844
+"Conservancy","Conservancy_5","Omuramba ua Mbinda","SSP245_2090","Grazer",2,18229,50668,32439,32439,197.870192575976,197.870192575976
+"Conservancy","Conservancy_5","Omuramba ua Mbinda","SSP245_2090","Grazer-Mixed",1,87420,183286,95866,95866,109.662163130213,109.662163130213
+"Conservancy","Conservancy_5","Omuramba ua Mbinda","SSP585_2050","Browser-Mixed",1,168367,146610,-21757,-21757,-12.9224401282213,-12.9224401282213
+"Conservancy","Conservancy_5","Omuramba ua Mbinda","SSP585_2050","Grazer",2,18293,50847,32553,32553,197.869847988183,197.869847988183
+"Conservancy","Conservancy_5","Omuramba ua Mbinda","SSP585_2050","Grazer-Mixed",1,87728,183932,96204,96204,109.6619721553,109.6619721553
+"Conservancy","Conservancy_5","Omuramba ua Mbinda","SSP585_2090","Browser-Mixed",1,157077,136780,-20297,-20297,-12.9214285909375,-12.9214285909375
+"Conservancy","Conservancy_5","Omuramba ua Mbinda","SSP585_2090","Grazer",2,17067,47435,30368,30368,197.854359216203,197.854359216203
+"Conservancy","Conservancy_5","Omuramba ua Mbinda","SSP585_2090","Grazer-Mixed",1,81845,171591,89746,89746,109.653388081987,109.653388081987
+"Conservancy","Conservancy_50","Sanitatas","SSP245_2050","Browser-Mixed",1,22888,40518,17629,17629,77.0243735419126,77.0243735419126
+"Conservancy","Conservancy_50","Sanitatas","SSP245_2050","Grazer",2,3453,15024,11572,11572,409.278366965498,409.278366965498
+"Conservancy","Conservancy_50","Sanitatas","SSP245_2050","Grazer-Mixed",1,12751,52525,39774,39774,311.928638767955,311.928638767955
+"Conservancy","Conservancy_50","Sanitatas","SSP245_2090","Browser-Mixed",1,21742,38396,16655,16655,76.6038360688713,76.6038360688713
+"Conservancy","Conservancy_50","Sanitatas","SSP245_2090","Grazer",2,3204,14166,10962,10962,420.701787389755,420.701787389755
+"Conservancy","Conservancy_50","Sanitatas","SSP245_2090","Grazer-Mixed",1,11887,49555,37669,37669,316.893931852273,316.893931852273
+"Conservancy","Conservancy_50","Sanitatas","SSP585_2050","Browser-Mixed",1,22289,39500,17211,17211,77.2185364881472,77.2185364881472
+"Conservancy","Conservancy_50","Sanitatas","SSP585_2050","Grazer",2,3363,14650,11287,11287,409.870737152385,409.870737152385
+"Conservancy","Conservancy_50","Sanitatas","SSP585_2050","Grazer-Mixed",1,12417,51213,38797,38797,312.462655102346,312.462655102346
+"Conservancy","Conservancy_50","Sanitatas","SSP585_2090","Browser-Mixed",1,20864,36791,15927,15927,76.3353062382579,76.3353062382579
+"Conservancy","Conservancy_50","Sanitatas","SSP585_2090","Grazer",2,3073,13570,10497,10497,419.888603642309,419.888603642309
+"Conservancy","Conservancy_50","Sanitatas","SSP585_2090","Grazer-Mixed",1,11408,47474,36066,36066,316.157013732773,316.157013732773
+"Conservancy","Conservancy_51","Epupa","SSP245_2050","Browser-Mixed",1,155895,142357,-13538,-13538,-8.68432591664902,-8.68432591664902
+"Conservancy","Conservancy_51","Epupa","SSP245_2050","Grazer",2,17014,41990,24975,24975,163.501572077418,163.501572077418
+"Conservancy","Conservancy_51","Epupa","SSP245_2050","Grazer-Mixed",1,81211,155713,74502,74502,91.7387288047184,91.7387288047184
+"Conservancy","Conservancy_51","Epupa","SSP245_2090","Browser-Mixed",1,149277,136118,-13159,-13159,-8.81539022652215,-8.81539022652215
+"Conservancy","Conservancy_51","Epupa","SSP245_2090","Grazer",2,16287,40109,23822,23822,162.893592189629,162.893592189629
+"Conservancy","Conservancy_51","Epupa","SSP245_2090","Grazer-Mixed",1,77766,148774,71007,71007,91.3085490577975,91.3085490577975
+"Conservancy","Conservancy_51","Epupa","SSP585_2050","Browser-Mixed",1,151320,138175,-13145,-13145,-8.68678111954904,-8.68678111954904
+"Conservancy","Conservancy_51","Epupa","SSP585_2050","Grazer",2,16515,40756,24241,24241,163.494894431332,163.494894431332
+"Conservancy","Conservancy_51","Epupa","SSP585_2050","Grazer-Mixed",1,78828,151139,72311,72311,91.7333867217064,91.7333867217064
+"Conservancy","Conservancy_51","Epupa","SSP585_2090","Browser-Mixed",1,144237,131527,-12710,-12710,-8.81178391796189,-8.81178391796189
+"Conservancy","Conservancy_51","Epupa","SSP585_2090","Grazer",2,15738,38757,23020,23020,162.90808118207,162.90808118207
+"Conservancy","Conservancy_51","Epupa","SSP585_2090","Grazer-Mixed",1,75140,143758,68618,68618,91.319179464248,91.319179464248
+"Conservancy","Conservancy_52","Ongongo","SSP245_2050","Browser-Mixed",1,20469,20731,262,262,1.27813263493899,1.27813263493899
+"Conservancy","Conservancy_52","Ongongo","SSP245_2050","Grazer",2,2312,6409,4097,4097,199.72867242552,199.72867242552
+"Conservancy","Conservancy_52","Ongongo","SSP245_2050","Grazer-Mixed",1,10684,23452,12768,12768,119.497828335599,119.497828335599
+"Conservancy","Conservancy_52","Ongongo","SSP245_2090","Browser-Mixed",1,19544,19780,236,236,1.20545606747122,1.20545606747122
+"Conservancy","Conservancy_52","Ongongo","SSP245_2090","Grazer",2,2196,6091,3895,3895,200.027410877046,200.027410877046
+"Conservancy","Conservancy_52","Ongongo","SSP245_2090","Grazer-Mixed",1,10168,22302,12134,12134,119.342169149398,119.342169149398
+"Conservancy","Conservancy_52","Ongongo","SSP585_2050","Browser-Mixed",1,19794,20049,254,254,1.28497465089952,1.28497465089952
+"Conservancy","Conservancy_52","Ongongo","SSP585_2050","Grazer",2,2236,6198,3963,3963,199.752046927107,199.752046927107
+"Conservancy","Conservancy_52","Ongongo","SSP585_2050","Grazer-Mixed",1,10332,22681,12349,12349,119.516299462601,119.516299462601
+"Conservancy","Conservancy_52","Ongongo","SSP585_2090","Browser-Mixed",1,18610,18839,228,228,1.2273243580523,1.2273243580523
+"Conservancy","Conservancy_52","Ongongo","SSP585_2090","Grazer",2,2091,5802,3710,3710,200.118013166808,200.118013166808
+"Conservancy","Conservancy_52","Ongongo","SSP585_2090","Grazer-Mixed",1,9682,21242,11561,11561,119.409681557582,119.409681557582
+"Conservancy","Conservancy_53","Otjiu-West","SSP245_2050","Browser-Mixed",1,47311,46790,-521,-521,-1.10110344850563,-1.10110344850563
+"Conservancy","Conservancy_53","Otjiu-West","SSP245_2050","Grazer",2,5353,14663,9310,9310,195.14680840176,195.14680840176
+"Conservancy","Conservancy_53","Otjiu-West","SSP245_2050","Grazer-Mixed",1,24845,53612,28766,28766,115.781586301342,115.781586301342
+"Conservancy","Conservancy_53","Otjiu-West","SSP245_2090","Browser-Mixed",1,45256,44667,-589,-589,-1.30141151120236,-1.30141151120236
+"Conservancy","Conservancy_53","Otjiu-West","SSP245_2090","Grazer",2,5088,13963,8875,8875,195.81665912664,195.81665912664
+"Conservancy","Conservancy_53","Otjiu-West","SSP245_2090","Grazer-Mixed",1,23678,51081,27403,27403,115.729834903241,115.729834903241
+"Conservancy","Conservancy_53","Otjiu-West","SSP585_2050","Browser-Mixed",1,45748,45249,-500,-500,-1.09184541547287,-1.09184541547287
+"Conservancy","Conservancy_53","Otjiu-West","SSP585_2050","Grazer",2,5176,14180,9004,9004,195.180288048617,195.180288048617
+"Conservancy","Conservancy_53","Otjiu-West","SSP585_2050","Grazer-Mixed",1,24024,51846,27822,27822,115.80672620603,115.80672620603
+"Conservancy","Conservancy_53","Otjiu-West","SSP585_2090","Browser-Mixed",1,43058,42506,-551,-551,-1.28084411269988,-1.28084411269988
+"Conservancy","Conservancy_53","Otjiu-West","SSP585_2090","Grazer",2,4841,13289,8447,8447,195.884045672152,195.884045672152
+"Conservancy","Conservancy_53","Otjiu-West","SSP585_2090","Grazer-Mixed",1,22528,48612,26084,26084,115.783000716115,115.783000716115
+"Conservancy","Conservancy_54","Marienfluss","SSP245_2050","Browser-Mixed",1,20720,70108,49388,49388,238.36063242029,238.36063242029
+"Conservancy","Conservancy_54","Marienfluss","SSP245_2050","Grazer",2,3908,28170,24262,24262,995.083307970355,995.083307970355
+"Conservancy","Conservancy_54","Marienfluss","SSP245_2050","Grazer-Mixed",1,10431,96552,86121,86121,825.646995895208,825.646995895208
+"Conservancy","Conservancy_54","Marienfluss","SSP245_2090","Browser-Mixed",1,19424,66213,46789,46789,240.885664599995,240.885664599995
+"Conservancy","Conservancy_54","Marienfluss","SSP245_2090","Grazer",2,3681,26631,22950,22950,1003.39042224164,1003.39042224164
+"Conservancy","Conservancy_54","Marienfluss","SSP245_2090","Grazer-Mixed",1,9775,91256,81481,81481,833.605214281742,833.605214281742
+"Conservancy","Conservancy_54","Marienfluss","SSP585_2050","Browser-Mixed",1,20356,68916,48560,48560,238.549127104519,238.549127104519
+"Conservancy","Conservancy_54","Marienfluss","SSP585_2050","Grazer",2,3841,27692,23852,23852,995.696803102946,995.696803102946
+"Conservancy","Conservancy_54","Marienfluss","SSP585_2050","Grazer-Mixed",1,10247,94915,84667,84667,826.230998747512,826.230998747512
+"Conservancy","Conservancy_54","Marienfluss","SSP585_2090","Browser-Mixed",1,18863,64333,45470,45470,241.051870873716,241.051870873716
+"Conservancy","Conservancy_54","Marienfluss","SSP585_2090","Grazer",2,3576,25876,22300,22300,1003.91474058474,1003.91474058474
+"Conservancy","Conservancy_54","Marienfluss","SSP585_2090","Grazer-Mixed",1,9492,88668,79176,79176,834.114577630647,834.114577630647
+"Conservancy","Conservancy_55","Puros","SSP245_2050","Browser-Mixed",1,22090,81350,59260,59260,268.261981083357,268.261981083357
+"Conservancy","Conservancy_55","Puros","SSP245_2050","Grazer",2,4383,33013,28630,28630,1093.60871114807,1093.60871114807
+"Conservancy","Conservancy_55","Puros","SSP245_2050","Grazer-Mixed",1,11073,112916,101843,101843,919.736908801414,919.736908801414
+"Conservancy","Conservancy_55","Puros","SSP245_2090","Browser-Mixed",1,20878,77298,56420,56420,270.230980430406,270.230980430406
+"Conservancy","Conservancy_55","Puros","SSP245_2090","Grazer",2,4153,31369,27216,27216,1099.56046633547,1099.56046633547
+"Conservancy","Conservancy_55","Puros","SSP245_2090","Grazer-Mixed",1,10463,107295,96831,96831,925.457398848695,925.457398848695
+"Conservancy","Conservancy_55","Puros","SSP585_2050","Browser-Mixed",1,21518,79262,57743,57743,268.344421113598,268.344421113598
+"Conservancy","Conservancy_55","Puros","SSP585_2050","Grazer",2,4270,32165,27895,27895,1093.86424593411,1093.86424593411
+"Conservancy","Conservancy_55","Puros","SSP585_2050","Grazer-Mixed",1,10786,110017,99231,99231,919.985648441375,919.985648441375
+"Conservancy","Conservancy_55","Puros","SSP585_2090","Browser-Mixed",1,19689,72899,53210,53210,270.254524921869,270.254524921869
+"Conservancy","Conservancy_55","Puros","SSP585_2090","Grazer",2,3917,29584,25667,25667,1099.63769577249,1099.63769577249
+"Conservancy","Conservancy_55","Puros","SSP585_2090","Grazer-Mixed",1,9867,101189,91322,91322,925.529939845507,925.529939845507
+"Conservancy","Conservancy_56","Okondjombo","SSP245_2050","Browser-Mixed",1,32853,49975,17122,17122,52.116801841496,52.116801841496
+"Conservancy","Conservancy_56","Okondjombo","SSP245_2050","Grazer",2,4401,17797,13397,13397,363.694008036468,363.694008036468
+"Conservancy","Conservancy_56","Okondjombo","SSP245_2050","Grazer-Mixed",1,17569,62892,45323,45323,257.972320023826,257.972320023826
+"Conservancy","Conservancy_56","Okondjombo","SSP245_2090","Browser-Mixed",1,31085,47333,16248,16248,52.2682102596237,52.2682102596237
+"Conservancy","Conservancy_56","Okondjombo","SSP245_2090","Grazer",2,4133,16851,12718,12718,368.503527115062,368.503527115062
+"Conservancy","Conservancy_56","Okondjombo","SSP245_2090","Grazer-Mixed",1,16524,59550,43026,43026,260.386956765656,260.386956765656
+"Conservancy","Conservancy_56","Okondjombo","SSP585_2050","Browser-Mixed",1,31873,48518,16645,16645,52.2241574547984,52.2241574547984
+"Conservancy","Conservancy_56","Okondjombo","SSP585_2050","Grazer",2,4271,17281,13010,13010,364.019537754508,364.019537754508
+"Conservancy","Conservancy_56","Okondjombo","SSP585_2050","Grazer-Mixed",1,17045,61065,44020,44020,258.260998709884,258.260998709884
+"Conservancy","Conservancy_56","Okondjombo","SSP585_2090","Browser-Mixed",1,29604,45029,15426,15426,52.1070813252448,52.1070813252448
+"Conservancy","Conservancy_56","Okondjombo","SSP585_2090","Grazer",2,3935,16026,12091,12091,367.850584540748,367.850584540748
+"Conservancy","Conservancy_56","Okondjombo","SSP585_2090","Grazer-Mixed",1,15739,56639,40900,40900,259.872149441665,259.872149441665
+"Conservancy","Conservancy_57","Otjikongo","SSP245_2050","Browser-Mixed",1,22980,32054,9074,9074,39.484898166674,39.484898166674
+"Conservancy","Conservancy_57","Otjikongo","SSP245_2050","Grazer",2,3234,11180,7946,7946,283.933544770057,283.933544770057
+"Conservancy","Conservancy_57","Otjikongo","SSP245_2050","Grazer-Mixed",1,13045,39689,26644,26644,204.240830543913,204.240830543913
+"Conservancy","Conservancy_57","Otjikongo","SSP245_2090","Browser-Mixed",1,21585,30335,8750,8750,40.5356932353484,40.5356932353484
+"Conservancy","Conservancy_57","Otjikongo","SSP245_2090","Grazer",2,2927,10533,7606,7606,303.287157595774,303.287157595774
+"Conservancy","Conservancy_57","Otjikongo","SSP245_2090","Grazer-Mixed",1,11891,37411,25519,25519,214.60461144439,214.60461144439
+"Conservancy","Conservancy_57","Otjikongo","SSP585_2050","Browser-Mixed",1,22243,31028,8785,8785,39.4947620203268,39.4947620203268
+"Conservancy","Conservancy_57","Otjikongo","SSP585_2050","Grazer",2,3130,10822,7692,7692,283.960809015311,283.960809015311
+"Conservancy","Conservancy_57","Otjikongo","SSP585_2050","Grazer-Mixed",1,12627,38420,25793,25793,204.265642815531,204.265642815531
+"Conservancy","Conservancy_57","Otjikongo","SSP585_2090","Browser-Mixed",1,20449,28720,8270,8270,40.4422716607187,40.4422716607187
+"Conservancy","Conservancy_57","Otjikongo","SSP585_2090","Grazer",2,2772,9970,7198,7198,302.997237398992,302.997237398992
+"Conservancy","Conservancy_57","Otjikongo","SSP585_2090","Grazer-Mixed",1,11266,35414,24148,24148,214.353968298514,214.353968298514
+"Conservancy","Conservancy_58","Kunene River","SSP245_2050","Browser-Mixed",1,151400,135807,-15594,-15594,-10.2995784361547,-10.2995784361547
+"Conservancy","Conservancy_58","Kunene River","SSP245_2050","Grazer",2,16517,40198,23681,23681,159.363678206983,159.363678206983
+"Conservancy","Conservancy_58","Kunene River","SSP245_2050","Grazer-Mixed",1,79074,149109,70034,70034,88.5675597993216,88.5675597993216
+"Conservancy","Conservancy_58","Kunene River","SSP245_2090","Browser-Mixed",1,145205,130132,-15073,-15073,-10.3804261179841,-10.3804261179841
+"Conservancy","Conservancy_58","Kunene River","SSP245_2090","Grazer",2,15798,38486,22688,22688,159.676065978781,159.676065978781
+"Conservancy","Conservancy_58","Kunene River","SSP245_2090","Grazer-Mixed",1,75716,142786,67070,67070,88.5816584598322,88.5816584598322
+"Conservancy","Conservancy_58","Kunene River","SSP585_2050","Browser-Mixed",1,146325,131255,-15070,-15070,-10.2989530328685,-10.2989530328685
+"Conservancy","Conservancy_58","Kunene River","SSP585_2050","Grazer",2,15963,38849,22886,22886,159.356813058882,159.356813058882
+"Conservancy","Conservancy_58","Kunene River","SSP585_2050","Grazer-Mixed",1,76424,144108,67684,67684,88.5641227936828,88.5641227936828
+"Conservancy","Conservancy_58","Kunene River","SSP585_2090","Browser-Mixed",1,139416,124945,-14471,-14471,-10.3797684717255,-10.3797684717255
+"Conservancy","Conservancy_58","Kunene River","SSP585_2090","Grazer",2,15168,36951,21782,21782,159.667485378851,159.667485378851
+"Conservancy","Conservancy_58","Kunene River","SSP585_2090","Grazer-Mixed",1,72697,137089,64393,64393,88.5770278164401,88.5770278164401
+"Conservancy","Conservancy_59","Ombazu","SSP245_2050","Browser-Mixed",1,47423,42553,-4870,-4870,-10.2693620147181,-10.2693620147181
+"Conservancy","Conservancy_59","Ombazu","SSP245_2050","Grazer",2,5164,12540,7376,7376,158.73150827175,158.73150827175
+"Conservancy","Conservancy_59","Ombazu","SSP245_2050","Grazer-Mixed",1,24755,46565,21810,21810,88.1053802690323,88.1053802690323
+"Conservancy","Conservancy_59","Ombazu","SSP245_2090","Browser-Mixed",1,45295,40629,-4666,-4666,-10.3003196647867,-10.3003196647867
+"Conservancy","Conservancy_59","Ombazu","SSP245_2090","Grazer",2,4926,11978,7052,7052,159.136075323249,159.136075323249
+"Conservancy","Conservancy_59","Ombazu","SSP245_2090","Grazer-Mixed",1,23622,44474,20852,20852,88.2733645950267,88.2733645950267
+"Conservancy","Conservancy_59","Ombazu","SSP585_2050","Browser-Mixed",1,45783,41081,-4702,-4702,-10.2692653765622,-10.2692653765622
+"Conservancy","Conservancy_59","Ombazu","SSP585_2050","Grazer",2,4985,12106,7120,7120,158.731996686288,158.731996686288
+"Conservancy","Conservancy_59","Ombazu","SSP585_2050","Grazer-Mixed",1,23898,44954,21056,21056,88.1058181979338,88.1058181979338
+"Conservancy","Conservancy_59","Ombazu","SSP585_2090","Browser-Mixed",1,43312,38851,-4461,-4461,-10.3001337443652,-10.3001337443652
+"Conservancy","Conservancy_59","Ombazu","SSP585_2090","Grazer",2,4710,11454,6744,6744,159.137953425151,159.137953425151
+"Conservancy","Conservancy_59","Ombazu","SSP585_2090","Grazer-Mixed",1,22588,42527,19939,19939,88.2746735316758,88.2746735316758
+"Conservancy","Conservancy_6","Otjombinde","SSP245_2050","Browser-Mixed",1,316095,275212,-40883,-40883,-12.9336589111593,-12.9336589111593
+"Conservancy","Conservancy_6","Otjombinde","SSP245_2050","Grazer",2,34434,95603,61169,61169,197.459557560349,197.459557560349
+"Conservancy","Conservancy_6","Otjombinde","SSP245_2050","Grazer-Mixed",1,164977,345750,180772,180772,109.57393837177,109.57393837177
+"Conservancy","Conservancy_6","Otjombinde","SSP245_2090","Browser-Mixed",1,306075,266473,-39602,-39602,-12.9387261168891,-12.9387261168891
+"Conservancy","Conservancy_6","Otjombinde","SSP245_2090","Grazer",2,33285,92538,59253,59253,197.924656224013,197.924656224013
+"Conservancy","Conservancy_6","Otjombinde","SSP245_2090","Grazer-Mixed",1,159570,334681,175111,175111,109.738982838289,109.738982838289
+"Conservancy","Conservancy_6","Otjombinde","SSP585_2050","Browser-Mixed",1,308053,268211,-39842,-39842,-12.933503702467,-12.933503702467
+"Conservancy","Conservancy_6","Otjombinde","SSP585_2050","Grazer",2,33558,93170,59612,59612,197.458553939814,197.458553939814
+"Conservancy","Conservancy_6","Otjombinde","SSP585_2050","Grazer-Mixed",1,160780,336951,176171,176171,109.573054027681,109.573054027681
+"Conservancy","Conservancy_6","Otjombinde","SSP585_2090","Browser-Mixed",1,286331,249283,-37048,-37048,-12.9387779287746,-12.9387779287746
+"Conservancy","Conservancy_6","Otjombinde","SSP585_2090","Grazer",2,31137,86569,55431,55431,197.925636160662,197.925636160662
+"Conservancy","Conservancy_6","Otjombinde","SSP585_2090","Grazer-Mixed",1,149276,313092,163815,163815,109.739481234703,109.739481234703
+"Conservancy","Conservancy_60","Ombombo","SSP245_2050","Browser-Mixed",1,81397,73199,-8198,-8198,-10.0718600811056,-10.0718600811056
+"Conservancy","Conservancy_60","Ombombo","SSP245_2050","Grazer",2,9227,21657,12430,12430,148.966909800909,148.966909800909
+"Conservancy","Conservancy_60","Ombombo","SSP245_2050","Grazer-Mixed",1,43598,80356,36758,36758,84.3101591697459,84.3101591697459
+"Conservancy","Conservancy_60","Ombombo","SSP245_2090","Browser-Mixed",1,78108,70206,-7902,-7902,-10.1168338635558,-10.1168338635558
+"Conservancy","Conservancy_60","Ombombo","SSP245_2090","Grazer",2,8818,20773,11955,11955,150.039953142121,150.039953142121
+"Conservancy","Conservancy_60","Ombombo","SSP245_2090","Grazer-Mixed",1,41711,77061,35350,35350,84.7511137968677,84.7511137968677
+"Conservancy","Conservancy_60","Ombombo","SSP585_2050","Browser-Mixed",1,78562,70649,-7912,-7912,-10.071375487762,-10.071375487762
+"Conservancy","Conservancy_60","Ombombo","SSP585_2050","Grazer",2,8906,20903,11996,11996,148.954893718071,148.954893718071
+"Conservancy","Conservancy_60","Ombombo","SSP585_2050","Grazer-Mixed",1,42081,77557,35476,35476,84.3054493389262,84.3054493389262
+"Conservancy","Conservancy_60","Ombombo","SSP585_2090","Browser-Mixed",1,74732,67172,-7560,-7560,-10.1162798933343,-10.1162798933343
+"Conservancy","Conservancy_60","Ombombo","SSP585_2090","Grazer",2,8437,19875,11438,11438,150.022888299564,150.022888299564
+"Conservancy","Conservancy_60","Ombombo","SSP585_2090","Grazer-Mixed",1,39909,73730,33821,33821,84.7445542062944,84.7445542062944
+"Conservancy","Conservancy_61","Otjikondavirongo","SSP245_2050","Browser-Mixed",1,22835,32841,10006,10006,43.8212418765044,43.8212418765044
+"Conservancy","Conservancy_61","Otjikondavirongo","SSP245_2050","Grazer",2,2991,11472,8480,8480,335.448710793279,335.448710793279
+"Conservancy","Conservancy_61","Otjikondavirongo","SSP245_2050","Grazer-Mixed",1,12187,40694,28507,28507,233.906561751848,233.906561751848
+"Conservancy","Conservancy_61","Otjikondavirongo","SSP245_2090","Browser-Mixed",1,21532,31127,9595,9595,44.5643673491876,44.5643673491876
+"Conservancy","Conservancy_61","Otjikondavirongo","SSP245_2090","Grazer",2,2804,10887,8084,8084,342.096504299077,342.096504299077
+"Conservancy","Conservancy_61","Otjikondavirongo","SSP245_2090","Grazer-Mixed",1,11427,38613,27187,27187,237.923058802313,237.923058802313
+"Conservancy","Conservancy_61","Otjikondavirongo","SSP585_2050","Browser-Mixed",1,22048,31737,9689,9689,43.9450539251643,43.9450539251643
+"Conservancy","Conservancy_61","Otjikondavirongo","SSP585_2050","Grazer",2,2889,11088,8199,8199,335.837963158336,335.837963158336
+"Conservancy","Conservancy_61","Otjikondavirongo","SSP585_2050","Grazer-Mixed",1,11768,39333,27565,27565,234.243101291382,234.243101291382
+"Conservancy","Conservancy_61","Otjikondavirongo","SSP585_2090","Browser-Mixed",1,20274,29327,9053,9053,44.6507156955519,44.6507156955519
+"Conservancy","Conservancy_61","Otjikondavirongo","SSP585_2090","Grazer",2,2641,10259,7618,7618,342.350058806161,342.350058806161
+"Conservancy","Conservancy_61","Otjikondavirongo","SSP585_2090","Grazer-Mixed",1,10760,36384,25624,25624,238.148688359973,238.148688359973
+"Conservancy","Conservancy_62","Ombujokanguindi","SSP245_2050","Browser-Mixed",1,56205,53153,-3052,-3052,-5.43077638190017,-5.43077638190017
+"Conservancy","Conservancy_62","Ombujokanguindi","SSP245_2050","Grazer",2,6254,15871,9617,9617,171.490350398096,171.490350398096
+"Conservancy","Conservancy_62","Ombujokanguindi","SSP245_2050","Grazer-Mixed",1,29492,58655,29162,29162,98.8808110145286,98.8808110145286
+"Conservancy","Conservancy_62","Ombujokanguindi","SSP245_2090","Browser-Mixed",1,53353,50401,-2953,-2953,-5.53447475556268,-5.53447475556268
+"Conservancy","Conservancy_62","Ombujokanguindi","SSP245_2090","Grazer",2,5904,15000,9096,9096,171.948295217178,171.948295217178
+"Conservancy","Conservancy_62","Ombujokanguindi","SSP245_2090","Grazer-Mixed",1,27896,55463,27567,27567,98.8230899462144,98.8230899462144
+"Conservancy","Conservancy_62","Ombujokanguindi","SSP585_2050","Browser-Mixed",1,54103,51179,-2925,-2925,-5.40582977570035,-5.40582977570035
+"Conservancy","Conservancy_62","Ombujokanguindi","SSP585_2050","Grazer",2,6021,15284,9263,9263,171.585662653368,171.585662653368
+"Conservancy","Conservancy_62","Ombujokanguindi","SSP585_2050","Grazer-Mixed",1,28390,56482,28093,28093,98.9530117391247,98.9530117391247
+"Conservancy","Conservancy_62","Ombujokanguindi","SSP585_2090","Browser-Mixed",1,50376,47586,-2790,-2790,-5.53823556385433,-5.53823556385433
+"Conservancy","Conservancy_62","Ombujokanguindi","SSP585_2090","Grazer",2,5575,14162,8587,8587,171.92685137448,171.92685137448
+"Conservancy","Conservancy_62","Ombujokanguindi","SSP585_2090","Grazer-Mixed",1,26339,52364,26025,26025,98.8089299221293,98.8089299221293
+"Conservancy","Conservancy_63","Otuzemba","SSP245_2050","Browser-Mixed",1,40482,36136,-4346,-4346,-10.7367783709824,-10.7367783709824
+"Conservancy","Conservancy_63","Otuzemba","SSP245_2050","Grazer",2,4465,10968,6503,6503,161.644776767842,161.644776767842
+"Conservancy","Conservancy_63","Otuzemba","SSP245_2050","Grazer-Mixed",1,21298,40517,19219,19219,90.2403680163369,90.2403680163369
+"Conservancy","Conservancy_63","Otuzemba","SSP245_2090","Browser-Mixed",1,38758,34591,-4168,-4168,-10.7526823064821,-10.7526823064821
+"Conservancy","Conservancy_63","Otuzemba","SSP245_2090","Grazer",2,4264,10499,6236,6236,162.34801581066,162.34801581066
+"Conservancy","Conservancy_63","Otuzemba","SSP245_2090","Grazer-Mixed",1,20357,38785,18428,18428,90.5219048720611,90.5219048720611
+"Conservancy","Conservancy_63","Otuzemba","SSP585_2050","Browser-Mixed",1,38947,34766,-4182,-4182,-10.7367205673349,-10.7367205673349
+"Conservancy","Conservancy_63","Otuzemba","SSP585_2050","Grazer",2,4296,10552,6257,6257,161.640274399597,161.640274399597
+"Conservancy","Conservancy_63","Otuzemba","SSP585_2050","Grazer-Mixed",1,20490,38981,18490,18490,90.23872270556,90.23872270556
+"Conservancy","Conservancy_63","Otuzemba","SSP585_2090","Browser-Mixed",1,36688,32743,-3945,-3945,-10.7527253075453,-10.7527253075453
+"Conservancy","Conservancy_63","Otuzemba","SSP585_2090","Grazer",2,4036,9939,5902,5902,162.345817670066,162.345817670066
+"Conservancy","Conservancy_63","Otuzemba","SSP585_2090","Grazer-Mixed",1,19270,36713,17443,17443,90.5213602446074,90.5213602446074
+"Conservancy","Conservancy_64","Etanga","SSP245_2050","Browser-Mixed",1,50415,45256,-5158,-5158,-10.2317988197544,-10.2317988197544
+"Conservancy","Conservancy_64","Etanga","SSP245_2050","Grazer",2,5625,13343,7718,7718,152.046432205424,152.046432205424
+"Conservancy","Conservancy_64","Etanga","SSP245_2050","Grazer-Mixed",1,26722,49531,22809,22809,85.3552921416301,85.3552921416301
+"Conservancy","Conservancy_64","Etanga","SSP245_2090","Browser-Mixed",1,47900,42958,-4941,-4941,-10.3161538190398,-10.3161538190398
+"Conservancy","Conservancy_64","Etanga","SSP245_2090","Grazer",2,5260,12653,7393,7393,156.091121025341,156.091121025341
+"Conservancy","Conservancy_64","Etanga","SSP245_2090","Grazer-Mixed",1,25128,46978,21850,21850,86.9532089591028,86.9532089591028
+"Conservancy","Conservancy_64","Etanga","SSP585_2050","Browser-Mixed",1,48928,43922,-5006,-5006,-10.2316988489488,-10.2316988489488
+"Conservancy","Conservancy_64","Etanga","SSP585_2050","Grazer",2,5459,12949,7490,7490,152.039824622224,152.039824622224
+"Conservancy","Conservancy_64","Etanga","SSP585_2050","Grazer-Mixed",1,25935,48071,22136,22136,85.352803871422,85.352803871422
+"Conservancy","Conservancy_64","Etanga","SSP585_2090","Browser-Mixed",1,46116,41358,-4757,-4757,-10.3162478053168,-10.3162478053168
+"Conservancy","Conservancy_64","Etanga","SSP585_2090","Grazer",2,5064,12182,7118,7118,156.086997292492,156.086997292492
+"Conservancy","Conservancy_64","Etanga","SSP585_2090","Grazer-Mixed",1,24193,45229,21036,21036,86.9522387077034,86.9522387077034
+"Conservancy","Conservancy_65","Eiseb","SSP245_2050","Browser-Mixed",1,357779,311101,-46678,-46678,-13.046574022905,-13.046574022905
+"Conservancy","Conservancy_65","Eiseb","SSP245_2050","Grazer",2,39042,108882,69840,69840,198.794184858198,198.794184858198
+"Conservancy","Conservancy_65","Eiseb","SSP245_2050","Grazer-Mixed",1,186941,393339,206397,206397,110.407742265703,110.407742265703
+"Conservancy","Conservancy_65","Eiseb","SSP245_2090","Browser-Mixed",1,346326,301114,-45212,-45212,-13.05487181284,-13.05487181284
+"Conservancy","Conservancy_65","Eiseb","SSP245_2090","Grazer",2,37723,105371,67647,67647,199.332087225531,199.332087225531
+"Conservancy","Conservancy_65","Eiseb","SSP245_2090","Grazer-Mixed",1,180744,380662,199917,199917,110.607775630032,110.607775630032
+"Conservancy","Conservancy_65","Eiseb","SSP585_2050","Browser-Mixed",1,346673,301444,-45229,-45229,-13.0466287755048,-13.0466287755048
+"Conservancy","Conservancy_65","Eiseb","SSP585_2050","Grazer",2,37830,105503,67672,67672,198.79494558741,198.79494558741
+"Conservancy","Conservancy_65","Eiseb","SSP585_2050","Grazer-Mixed",1,181138,381130,199991,199991,110.40818238806,110.40818238806
+"Conservancy","Conservancy_65","Eiseb","SSP585_2090","Browser-Mixed",1,324612,282234,-42378,-42378,-13.054937610408,-13.054937610408
+"Conservancy","Conservancy_65","Eiseb","SSP585_2090","Grazer",2,35358,98765,63406,63406,199.332884903132,199.332884903132
+"Conservancy","Conservancy_65","Eiseb","SSP585_2090","Grazer-Mixed",1,169412,356796,187384,187384,110.608267865976,110.608267865976
+"Conservancy","Conservancy_66","Otjambangu","SSP245_2050","Browser-Mixed",1,18719,16855,-1864,-1864,-9.95767485177578,-9.95767485177578
+"Conservancy","Conservancy_66","Otjambangu","SSP245_2050","Grazer",2,2036,4943,2906,2906,158.762723009688,158.762723009688
+"Conservancy","Conservancy_66","Otjambangu","SSP245_2050","Grazer-Mixed",1,9753,18358,8606,8606,88.236251652704,88.236251652704
+"Conservancy","Conservancy_66","Otjambangu","SSP245_2090","Browser-Mixed",1,17831,16017,-1814,-1814,-10.1721332577034,-10.1721332577034
+"Conservancy","Conservancy_66","Otjambangu","SSP245_2090","Grazer",2,1939,4690,2751,2751,157.827111380621,157.827111380621
+"Conservancy","Conservancy_66","Otjambangu","SSP245_2090","Grazer-Mixed",1,9291,17426,8135,8135,87.5646644865949,87.5646644865949
+"Conservancy","Conservancy_66","Otjambangu","SSP585_2050","Browser-Mixed",1,17998,16206,-1792,-1792,-9.95763009516156,-9.95763009516156
+"Conservancy","Conservancy_66","Otjambangu","SSP585_2050","Grazer",2,1958,4752,2794,2794,158.762059890271,158.762059890271
+"Conservancy","Conservancy_66","Otjambangu","SSP585_2050","Grazer-Mixed",1,9377,17652,8274,8274,88.2359040435416,88.2359040435416
+"Conservancy","Conservancy_66","Otjambangu","SSP585_2090","Browser-Mixed",1,16702,15003,-1699,-1699,-10.1717518576194,-10.1717518576194
+"Conservancy","Conservancy_66","Otjambangu","SSP585_2090","Grazer",2,1816,4393,2577,2577,157.835022964379,157.835022964379
+"Conservancy","Conservancy_66","Otjambangu","SSP585_2090","Grazer-Mixed",1,8702,16323,7620,7620,87.569674558965,87.569674558965
+"Conservancy","Conservancy_67","Sikunga","SSP245_2050","Browser-Mixed",1,12634,12445,-189,-189,-1.49206608758304,-1.49206608758304
+"Conservancy","Conservancy_67","Sikunga","SSP245_2050","Grazer",2,2844,2825,-18,-18,-0.45650746226252,-0.45650746226252
+"Conservancy","Conservancy_67","Sikunga","SSP245_2050","Grazer-Mixed",1,12287,12175,-112,-112,-0.910599265768736,-0.910599265768736
+"Conservancy","Conservancy_67","Sikunga","SSP245_2090","Browser-Mixed",1,12563,12373,-190,-190,-1.51144339886678,-1.51144339886678
+"Conservancy","Conservancy_67","Sikunga","SSP245_2090","Grazer",2,2812,2813,1,1,0.23572565418033,0.23572565418033
+"Conservancy","Conservancy_67","Sikunga","SSP245_2090","Grazer-Mixed",1,12180,12126,-53,-53,-0.435722203717664,-0.435722203717664
+"Conservancy","Conservancy_67","Sikunga","SSP585_2050","Browser-Mixed",1,12762,12572,-190,-190,-1.49104595444721,-1.49104595444721
+"Conservancy","Conservancy_67","Sikunga","SSP585_2050","Grazer",2,2873,2854,-18,-18,-0.457449924116073,-0.457449924116073
+"Conservancy","Conservancy_67","Sikunga","SSP585_2050","Grazer-Mixed",1,12412,12299,-113,-113,-0.910821542385228,-0.910821542385228
+"Conservancy","Conservancy_67","Sikunga","SSP585_2090","Browser-Mixed",1,11937,11756,-180,-180,-1.51050169306067,-1.51050169306067
+"Conservancy","Conservancy_67","Sikunga","SSP585_2090","Grazer",2,2672,2673,0,0,0.235077440041392,0.235077440041392
+"Conservancy","Conservancy_67","Sikunga","SSP585_2090","Grazer-Mixed",1,11573,11522,-50,-50,-0.435764121935839,-0.435764121935839
+"Conservancy","Conservancy_68","Okongo","SSP245_2050","Browser-Mixed",1,71277,66076,-5201,-5201,-7.29672739448011,-7.29672739448011
+"Conservancy","Conservancy_68","Okongo","SSP245_2050","Grazer",2,7573,12113,4540,4540,67.5361361685852,67.5361361685852
+"Conservancy","Conservancy_68","Okongo","SSP245_2050","Grazer-Mixed",1,36548,49318,12771,12771,34.9425972980056,34.9425972980056
+"Conservancy","Conservancy_68","Okongo","SSP245_2090","Browser-Mixed",1,69824,64634,-5190,-5190,-7.43347346592667,-7.43347346592667
+"Conservancy","Conservancy_68","Okongo","SSP245_2090","Grazer",2,7441,11972,4531,4531,68.6862315207483,68.6862315207483
+"Conservancy","Conservancy_68","Okongo","SSP245_2090","Grazer-Mixed",1,35869,48627,12758,12758,35.5678433923091,35.5678433923091
+"Conservancy","Conservancy_68","Okongo","SSP585_2050","Browser-Mixed",1,69194,64145,-5049,-5049,-7.29618650805537,-7.29618650805537
+"Conservancy","Conservancy_68","Okongo","SSP585_2050","Grazer",2,7352,11759,4407,4407,67.5317392804337,67.5317392804337
+"Conservancy","Conservancy_68","Okongo","SSP585_2050","Grazer-Mixed",1,35478,47875,12396,12396,34.9398182833949,34.9398182833949
+"Conservancy","Conservancy_68","Okongo","SSP585_2090","Browser-Mixed",1,66230,61307,-4923,-4923,-7.43339592201389,-7.43339592201389
+"Conservancy","Conservancy_68","Okongo","SSP585_2090","Grazer",2,7058,11356,4298,4298,68.6865662121932,68.6865662121932
+"Conservancy","Conservancy_68","Okongo","SSP585_2090","Grazer-Mixed",1,34023,46125,12101,12101,35.5681638262691,35.5681638262691
+"Conservancy","Conservancy_69","Okatjandja Kozomenje","SSP245_2050","Browser-Mixed",1,35769,32101,-3668,-3668,-10.2536906827273,-10.2536906827273
+"Conservancy","Conservancy_69","Okatjandja Kozomenje","SSP245_2050","Grazer",2,3944,9451,5507,5507,154.985955483163,154.985955483163
+"Conservancy","Conservancy_69","Okatjandja Kozomenje","SSP245_2050","Grazer-Mixed",1,18813,35091,16278,16278,86.5279959119433,86.5279959119433
+"Conservancy","Conservancy_69","Okatjandja Kozomenje","SSP245_2090","Browser-Mixed",1,34110,30599,-3511,-3511,-10.2938289345694,-10.2938289345694
+"Conservancy","Conservancy_69","Okatjandja Kozomenje","SSP245_2090","Grazer",2,3724,8978,5254,5254,156.756591793631,156.756591793631
+"Conservancy","Conservancy_69","Okatjandja Kozomenje","SSP245_2090","Grazer-Mixed",1,17829,33354,15526,15526,87.0829418019128,87.0829418019128
+"Conservancy","Conservancy_69","Okatjandja Kozomenje","SSP585_2050","Browser-Mixed",1,34439,30908,-3531,-3531,-10.2539270480691,-10.2539270480691
+"Conservancy","Conservancy_69","Okatjandja Kozomenje","SSP585_2050","Grazer",2,3797,9100,5303,5303,154.989258341359,154.989258341359
+"Conservancy","Conservancy_69","Okatjandja Kozomenje","SSP585_2050","Grazer-Mixed",1,18114,33787,15674,15674,86.5299585447292,86.5299585447292
+"Conservancy","Conservancy_69","Okatjandja Kozomenje","SSP585_2090","Browser-Mixed",1,32433,29094,-3339,-3339,-10.2940725216914,-10.2940725216914
+"Conservancy","Conservancy_69","Okatjandja Kozomenje","SSP585_2090","Grazer",2,3541,8536,4995,4995,156.760993627626,156.760993627626
+"Conservancy","Conservancy_69","Okatjandja Kozomenje","SSP585_2090","Grazer-Mixed",1,16952,31714,14763,14763,87.0852212592875,87.0852212592875
+"Conservancy","Conservancy_7","Bamunu","SSP245_2050","Browser-Mixed",1,26780,26339,-440,-440,-1.64419376198609,-1.64419376198609
+"Conservancy","Conservancy_7","Bamunu","SSP245_2050","Grazer",2,4914,5500,586,586,12.7268184239563,12.7268184239563
+"Conservancy","Conservancy_7","Bamunu","SSP245_2050","Grazer-Mixed",1,20958,22677,1719,1719,8.20321335295468,8.20321335295468
+"Conservancy","Conservancy_7","Bamunu","SSP245_2090","Browser-Mixed",1,26565,26129,-436,-436,-1.64229986793358,-1.64229986793358
+"Conservancy","Conservancy_7","Bamunu","SSP245_2090","Grazer",2,4837,5448,611,611,13.4561532985053,13.4561532985053
+"Conservancy","Conservancy_7","Bamunu","SSP245_2090","Grazer-Mixed",1,20693,22489,1796,1796,8.68137717121515,8.68137717121515
+"Conservancy","Conservancy_7","Bamunu","SSP585_2050","Browser-Mixed",1,26893,26369,-524,-524,-1.94686505394111,-1.94686505394111
+"Conservancy","Conservancy_7","Bamunu","SSP585_2050","Grazer",2,4934,5503,569,569,12.3618259656417,12.3618259656417
+"Conservancy","Conservancy_7","Bamunu","SSP585_2050","Grazer-Mixed",1,21045,22686,1641,1641,7.79534826541434,7.79534826541434
+"Conservancy","Conservancy_7","Bamunu","SSP585_2090","Browser-Mixed",1,25182,24688,-494,-494,-1.96138995091012,-1.96138995091012
+"Conservancy","Conservancy_7","Bamunu","SSP585_2090","Grazer",2,4586,5124,539,539,12.5995945546437,12.5995945546437
+"Conservancy","Conservancy_7","Bamunu","SSP585_2090","Grazer-Mixed",1,19616,21169,1553,1553,7.91896996292502,7.91896996292502
+"Conservancy","Conservancy_70","Otjombande","SSP245_2050","Browser-Mixed",1,18008,16137,-1871,-1871,-10.3891513556064,-10.3891513556064
+"Conservancy","Conservancy_70","Otjombande","SSP245_2050","Grazer",2,1957,4756,2799,2799,159.079847077072,159.079847077072
+"Conservancy","Conservancy_70","Otjombande","SSP245_2050","Grazer-Mixed",1,9383,17655,8272,8272,88.1640630849285,88.1640630849285
+"Conservancy","Conservancy_70","Otjombande","SSP245_2090","Browser-Mixed",1,17156,15374,-1782,-1782,-10.3887172442703,-10.3887172442703
+"Conservancy","Conservancy_70","Otjombande","SSP245_2090","Grazer",2,1864,4531,2667,2667,159.073199915761,159.073199915761
+"Conservancy","Conservancy_70","Otjombande","SSP245_2090","Grazer-Mixed",1,8939,16820,7881,7881,88.1603791440648,88.1603791440648
+"Conservancy","Conservancy_70","Otjombande","SSP585_2050","Browser-Mixed",1,17315,15517,-1799,-1799,-10.3889385867918,-10.3889385867918
+"Conservancy","Conservancy_70","Otjombande","SSP585_2050","Grazer",2,1881,4573,2692,2692,159.076589137195,159.076589137195
+"Conservancy","Conservancy_70","Otjombande","SSP585_2050","Grazer-Mixed",1,9022,16976,7954,7954,88.1622574934461,88.1622574934461
+"Conservancy","Conservancy_70","Otjombande","SSP585_2090","Browser-Mixed",1,16251,14562,-1688,-1688,-10.3883919586392,-10.3883919586392
+"Conservancy","Conservancy_70","Otjombande","SSP585_2090","Grazer",2,1766,4292,2526,2526,159.068219105809,159.068219105809
+"Conservancy","Conservancy_70","Otjombande","SSP585_2090","Grazer-Mixed",1,8467,15932,7465,7465,88.1576187161989,88.1576187161989
+"Conservancy","Conservancy_71","Sobbe","SSP245_2050","Browser-Mixed",1,19276,18923,-352,-352,-1.82804344867565,-1.82804344867565
+"Conservancy","Conservancy_71","Sobbe","SSP245_2050","Grazer",2,2600,3123,524,524,21.6694807749186,21.6694807749186
+"Conservancy","Conservancy_71","Sobbe","SSP245_2050","Grazer-Mixed",1,11518,13065,1547,1547,13.4337837254326,13.4337837254326
+"Conservancy","Conservancy_71","Sobbe","SSP245_2090","Browser-Mixed",1,19176,18808,-368,-368,-1.91717313429519,-1.91717313429519
+"Conservancy","Conservancy_71","Sobbe","SSP245_2090","Grazer",2,2460,3010,550,550,24.153363218294,24.153363218294
+"Conservancy","Conservancy_71","Sobbe","SSP245_2090","Grazer-Mixed",1,11068,12693,1626,1626,14.6875437548452,14.6875437548452
+"Conservancy","Conservancy_71","Sobbe","SSP585_2050","Browser-Mixed",1,19337,18968,-369,-369,-1.90633721905291,-1.90633721905291
+"Conservancy","Conservancy_71","Sobbe","SSP585_2050","Grazer",2,2608,3128,520,520,21.4718771531119,21.4718771531119
+"Conservancy","Conservancy_71","Sobbe","SSP585_2050","Grazer-Mixed",1,11554,13085,1531,1531,13.249442252747,13.249442252747
+"Conservancy","Conservancy_71","Sobbe","SSP585_2090","Browser-Mixed",1,18172,17808,-364,-364,-2.00459296941809,-2.00459296941809
+"Conservancy","Conservancy_71","Sobbe","SSP585_2090","Grazer",2,2331,2847,516,516,23.9190929293935,23.9190929293935
+"Conservancy","Conservancy_71","Sobbe","SSP585_2090","Grazer-Mixed",1,10488,12006,1518,1518,14.473660726504,14.473660726504
+"Conservancy","Conservancy_72","Balyerwa","SSP245_2050","Browser-Mixed",1,10747,10600,-147,-147,-1.3692747076723,-1.3692747076723
+"Conservancy","Conservancy_72","Balyerwa","SSP245_2050","Grazer",2,2016,2236,220,220,11.5998631315901,11.5998631315901
+"Conservancy","Conservancy_72","Balyerwa","SSP245_2050","Grazer-Mixed",1,8567,9218,651,651,7.59497471165512,7.59497471165512
+"Conservancy","Conservancy_72","Balyerwa","SSP245_2090","Browser-Mixed",1,10650,10503,-148,-148,-1.38765930060202,-1.38765930060202
+"Conservancy","Conservancy_72","Balyerwa","SSP245_2090","Grazer",2,1962,2183,221,221,11.9901424279357,11.9901424279357
+"Conservancy","Conservancy_72","Balyerwa","SSP245_2090","Grazer-Mixed",1,8383,9036,653,653,7.79568556717575,7.79568556717575
+"Conservancy","Conservancy_72","Balyerwa","SSP585_2050","Browser-Mixed",1,10761,10614,-147,-147,-1.36929001599348,-1.36929001599348
+"Conservancy","Conservancy_72","Balyerwa","SSP585_2050","Grazer",2,2019,2239,220,220,11.6003218464937,11.6003218464937
+"Conservancy","Conservancy_72","Balyerwa","SSP585_2050","Grazer-Mixed",1,8579,9230,652,652,7.59523252835452,7.59523252835452
+"Conservancy","Conservancy_72","Balyerwa","SSP585_2090","Browser-Mixed",1,10085,9945,-140,-140,-1.38771062540424,-1.38771062540424
+"Conservancy","Conservancy_72","Balyerwa","SSP585_2090","Grazer",2,1858,2067,209,209,11.9908902954049,11.9908902954049
+"Conservancy","Conservancy_72","Balyerwa","SSP585_2090","Grazer-Mixed",1,7938,8557,619,619,7.79614522482867,7.79614522482867
+"Conservancy","Conservancy_73","Wuparo","SSP245_2050","Browser-Mixed",1,9200,9069,-131,-131,-1.4231863932546,-1.4231863932546
+"Conservancy","Conservancy_73","Wuparo","SSP245_2050","Grazer",2,2010,2206,196,196,10.2385562492497,10.2385562492497
+"Conservancy","Conservancy_73","Wuparo","SSP245_2050","Grazer-Mixed",1,8015,8594,579,579,7.22276743440624,7.22276743440624
+"Conservancy","Conservancy_73","Wuparo","SSP245_2090","Browser-Mixed",1,9123,8996,-127,-127,-1.39390773762883,-1.39390773762883
+"Conservancy","Conservancy_73","Wuparo","SSP245_2090","Grazer",2,2006,2196,190,190,9.96591285732368,9.96591285732368
+"Conservancy","Conservancy_73","Wuparo","SSP245_2090","Grazer-Mixed",1,7978,8540,562,562,7.04824098808973,7.04824098808973
+"Conservancy","Conservancy_73","Wuparo","SSP585_2050","Browser-Mixed",1,9212,9081,-131,-131,-1.42317776154572,-1.42317776154572
+"Conservancy","Conservancy_73","Wuparo","SSP585_2050","Grazer",2,2013,2209,196,196,10.2393276690599,10.2393276690599
+"Conservancy","Conservancy_73","Wuparo","SSP585_2050","Grazer-Mixed",1,8026,8605,580,580,7.22316750677838,7.22316750677838
+"Conservancy","Conservancy_73","Wuparo","SSP585_2090","Browser-Mixed",1,8639,8519,-120,-120,-1.39406193417109,-1.39406193417109
+"Conservancy","Conservancy_73","Wuparo","SSP585_2090","Grazer",2,1899,2080,180,180,9.96722307752075,9.96722307752075
+"Conservancy","Conservancy_73","Wuparo","SSP585_2090","Grazer-Mixed",1,7554,8087,533,533,7.04914600579941,7.04914600579941
+"Conservancy","Conservancy_74","Dzoti","SSP245_2050","Browser-Mixed",1,14216,13950,-266,-266,-1.87003106823326,-1.87003106823326
+"Conservancy","Conservancy_74","Dzoti","SSP245_2050","Grazer",2,2690,3087,398,398,15.674603973431,15.674603973431
+"Conservancy","Conservancy_74","Dzoti","SSP245_2050","Grazer-Mixed",1,11147,12323,1175,1175,10.5447328024726,10.5447328024726
+"Conservancy","Conservancy_74","Dzoti","SSP245_2090","Browser-Mixed",1,14113,13846,-268,-268,-1.89634365357081,-1.89634365357081
+"Conservancy","Conservancy_74","Dzoti","SSP245_2090","Grazer",2,2633,3034,400,400,16.1364383881871,16.1364383881871
+"Conservancy","Conservancy_74","Dzoti","SSP245_2090","Grazer-Mixed",1,10957,12140,1183,1183,10.8006899759073,10.8006899759073
+"Conservancy","Conservancy_74","Dzoti","SSP585_2050","Browser-Mixed",1,14239,13972,-266,-266,-1.87032588972297,-1.87032588972297
+"Conservancy","Conservancy_74","Dzoti","SSP585_2050","Grazer",2,2694,3092,398,398,15.6790095450221,15.6790095450221
+"Conservancy","Conservancy_74","Dzoti","SSP585_2050","Grazer-Mixed",1,11164,12342,1178,1178,10.5473928963263,10.5473928963263
+"Conservancy","Conservancy_74","Dzoti","SSP585_2090","Browser-Mixed",1,13362,13109,-253,-253,-1.89639564243995,-1.89639564243995
+"Conservancy","Conservancy_74","Dzoti","SSP585_2090","Grazer",2,2493,2872,379,379,16.1377723741487,16.1377723741487
+"Conservancy","Conservancy_74","Dzoti","SSP585_2090","Grazer-Mixed",1,10374,11494,1120,1120,10.8014446090962,10.8014446090962
+"Conservancy","Conservancy_75","Huibes","SSP245_2050","Browser-Mixed",1,66913,64775,-2138,-2138,-3.1950272095624,-3.1950272095624
+"Conservancy","Conservancy_75","Huibes","SSP245_2050","Grazer",2,14332,17685,3353,3353,24.5787257332467,24.5787257332467
+"Conservancy","Conservancy_75","Huibes","SSP245_2050","Grazer-Mixed",1,56596,66529,9933,9933,17.5502532890749,17.5502532890749
+"Conservancy","Conservancy_75","Huibes","SSP245_2090","Browser-Mixed",1,64866,62775,-2091,-2091,-3.22351946130673,-3.22351946130673
+"Conservancy","Conservancy_75","Huibes","SSP245_2090","Grazer",2,13796,17037,3241,3241,24.6859769694396,24.6859769694396
+"Conservancy","Conservancy_75","Huibes","SSP245_2090","Grazer-Mixed",1,54570,64164,9595,9595,17.5822581995456,17.5822581995456
+"Conservancy","Conservancy_75","Huibes","SSP585_2050","Browser-Mixed",1,64669,62605,-2064,-2064,-3.19173028125403,-3.19173028125403
+"Conservancy","Conservancy_75","Huibes","SSP585_2050","Grazer",2,13864,17102,3238,3238,24.5367816648781,24.5367816648781
+"Conservancy","Conservancy_75","Huibes","SSP585_2050","Grazer-Mixed",1,54737,64329,9592,9592,17.5247283003866,17.5247283003866
+"Conservancy","Conservancy_75","Huibes","SSP585_2090","Browser-Mixed",1,58426,56547,-1880,-1880,-3.21714397982839,-3.21714397982839
+"Conservancy","Conservancy_75","Huibes","SSP585_2090","Grazer",2,12451,15365,2914,2914,24.5956293792779,24.5956293792779
+"Conservancy","Conservancy_75","Huibes","SSP585_2090","Grazer-Mixed",1,49225,57853,8628,8628,17.5272933354796,17.5272933354796
+"Conservancy","Conservancy_76","Kabulabula","SSP245_2050","Browser-Mixed",1,3836,3833,-3,-3,-0.0772561978390506,-0.0772561978390506
+"Conservancy","Conservancy_76","Kabulabula","SSP245_2050","Grazer",2,955,933,-22,-22,-2.38288992287121,-2.38288992287121
+"Conservancy","Conservancy_76","Kabulabula","SSP245_2050","Grazer-Mixed",1,4084,4013,-70,-70,-1.71991997558107,-1.71991997558107
+"Conservancy","Conservancy_76","Kabulabula","SSP245_2090","Browser-Mixed",1,3811,3810,-2,-2,-0.0459315286083453,-0.0459315286083453
+"Conservancy","Conservancy_76","Kabulabula","SSP245_2090","Grazer",2,940,927,-13,-13,-1.4309610708002,-1.4309610708002
+"Conservancy","Conservancy_76","Kabulabula","SSP245_2090","Grazer-Mixed",1,4035,3994,-41,-41,-1.02814776809214,-1.02814776809214
+"Conservancy","Conservancy_76","Kabulabula","SSP585_2050","Browser-Mixed",1,3874,3871,-3,-3,-0.0772616707194685,-0.0772616707194685
+"Conservancy","Conservancy_76","Kabulabula","SSP585_2050","Grazer",2,964,942,-22,-22,-2.38304567029107,-2.38304567029107
+"Conservancy","Conservancy_76","Kabulabula","SSP585_2050","Grazer-Mixed",1,4125,4054,-71,-71,-1.7200366646934,-1.7200366646934
+"Conservancy","Conservancy_76","Kabulabula","SSP585_2090","Browser-Mixed",1,3622,3621,-2,-2,-0.0459177308359997,-0.0459177308359997
+"Conservancy","Conservancy_76","Kabulabula","SSP585_2090","Grazer",2,893,881,-12,-12,-1.43053917087916,-1.43053917087916
+"Conservancy","Conservancy_76","Kabulabula","SSP585_2090","Grazer-Mixed",1,3835,3796,-39,-39,-1.0278420242665,-1.0278420242665
+"Conservancy","Conservancy_77","Okongoro","SSP245_2050","Browser-Mixed",1,52482,47182,-5300,-5300,-10.0994397919613,-10.0994397919613
+"Conservancy","Conservancy_77","Okongoro","SSP245_2050","Grazer",2,6079,14009,7931,7931,143.887669102915,143.887669102915
+"Conservancy","Conservancy_77","Okongoro","SSP245_2050","Grazer-Mixed",1,28511,51948,23437,23437,82.2043459101149,82.2043459101149
+"Conservancy","Conservancy_77","Okongoro","SSP245_2090","Browser-Mixed",1,50384,45268,-5117,-5117,-10.155565994071,-10.155565994071
+"Conservancy","Conservancy_77","Okongoro","SSP245_2090","Grazer",2,5751,13407,7656,7656,147.09135007709,147.09135007709
+"Conservancy","Conservancy_77","Okongoro","SSP245_2090","Grazer-Mixed",1,27106,49731,22625,22625,83.4707883661288,83.4707883661288
+"Conservancy","Conservancy_77","Okongoro","SSP585_2050","Browser-Mixed",1,50545,45440,-5105,-5105,-10.0993911326579,-10.0993911326579
+"Conservancy","Conservancy_77","Okongoro","SSP585_2050","Grazer",2,5854,13492,7638,7638,143.885212780688,143.885212780688
+"Conservancy","Conservancy_77","Okongoro","SSP585_2050","Grazer-Mixed",1,27458,50030,22572,22572,82.2033560566427,82.2033560566427
+"Conservancy","Conservancy_77","Okongoro","SSP585_2090","Browser-Mixed",1,47874,43012,-4862,-4862,-10.1555938405578,-10.1555938405578
+"Conservancy","Conservancy_77","Okongoro","SSP585_2090","Grazer",2,5465,12739,7274,7274,147.08811647343,147.08811647343
+"Conservancy","Conservancy_77","Okongoro","SSP585_2090","Grazer-Mixed",1,25756,47254,21498,21498,83.4698156825665,83.4698156825665
+"Conservancy","Conservancy_78","Lusese","SSP245_2050","Browser-Mixed",1,9293,9091,-202,-202,-2.17462099170532,-2.17462099170532
+"Conservancy","Conservancy_78","Lusese","SSP245_2050","Grazer",2,1883,1958,75,75,4.51046372358381,4.51046372358381
+"Conservancy","Conservancy_78","Lusese","SSP245_2050","Grazer-Mixed",1,8276,8454,178,178,2.15405261785473,2.15405261785473
+"Conservancy","Conservancy_78","Lusese","SSP245_2090","Browser-Mixed",1,9229,9030,-198,-198,-2.14988146346135,-2.14988146346135
+"Conservancy","Conservancy_78","Lusese","SSP245_2090","Grazer",2,1856,1933,77,77,4.6582350740259,4.6582350740259
+"Conservancy","Conservancy_78","Lusese","SSP245_2090","Grazer-Mixed",1,8177,8361,184,184,2.25216319679653,2.25216319679653
+"Conservancy","Conservancy_78","Lusese","SSP585_2050","Browser-Mixed",1,9381,9177,-204,-204,-2.17386146358101,-2.17386146358101
+"Conservancy","Conservancy_78","Lusese","SSP585_2050","Grazer",2,1901,1977,76,76,4.50889632572489,4.50889632572489
+"Conservancy","Conservancy_78","Lusese","SSP585_2050","Grazer-Mixed",1,8355,8535,180,180,2.15341279077527,2.15341279077527
+"Conservancy","Conservancy_78","Lusese","SSP585_2090","Browser-Mixed",1,8765,8577,-188,-188,-2.14881462097167,-2.14881462097167
+"Conservancy","Conservancy_78","Lusese","SSP585_2090","Grazer",2,1763,1836,73,73,4.65522721901613,4.65522721901613
+"Conservancy","Conservancy_78","Lusese","SSP585_2090","Grazer-Mixed",1,7767,7942,175,175,2.25072011365509,2.25072011365509
+"Conservancy","Conservancy_79","Nakabolelwa","SSP245_2050","Browser-Mixed",1,4953,4936,-17,-17,-0.337000500465444,-0.337000500465444
+"Conservancy","Conservancy_79","Nakabolelwa","SSP245_2050","Grazer",2,1203,1185,-17,-17,-1.4534823290313,-1.4534823290313
+"Conservancy","Conservancy_79","Nakabolelwa","SSP245_2050","Grazer-Mixed",1,5162,5102,-59,-59,-1.15218233137645,-1.15218233137645
+"Conservancy","Conservancy_79","Nakabolelwa","SSP245_2090","Browser-Mixed",1,4907,4892,-15,-15,-0.306270135089493,-0.306270135089493
+"Conservancy","Conservancy_79","Nakabolelwa","SSP245_2090","Grazer",2,1184,1178,-6,-6,-0.471979840688332,-0.471979840688332
+"Conservancy","Conservancy_79","Nakabolelwa","SSP245_2090","Grazer-Mixed",1,5100,5077,-23,-23,-0.445699310365852,-0.445699310365852
+"Conservancy","Conservancy_79","Nakabolelwa","SSP585_2050","Browser-Mixed",1,4999,4982,-17,-17,-0.337042181571436,-0.337042181571436
+"Conservancy","Conservancy_79","Nakabolelwa","SSP585_2050","Grazer",2,1214,1196,-18,-18,-1.45393372176997,-1.45393372176997
+"Conservancy","Conservancy_79","Nakabolelwa","SSP585_2050","Grazer-Mixed",1,5209,5149,-60,-60,-1.15251452470463,-1.15251452470463
+"Conservancy","Conservancy_79","Nakabolelwa","SSP585_2090","Browser-Mixed",1,4663,4649,-14,-14,-0.306062323640448,-0.306062323640448
+"Conservancy","Conservancy_79","Nakabolelwa","SSP585_2090","Grazer",2,1125,1120,-6,-6,-0.471496154652093,-0.471496154652093
+"Conservancy","Conservancy_79","Nakabolelwa","SSP585_2090","Grazer-Mixed",1,4846,4825,-22,-22,-0.445280280958818,-0.445280280958818
+"Conservancy","Conservancy_8","Mashi","SSP245_2050","Browser-Mixed",1,21065,20729,-336,-336,-1.59553965459727,-1.59553965459727
+"Conservancy","Conservancy_8","Mashi","SSP245_2050","Grazer",2,2516,3019,503,503,21.5943040693614,21.5943040693614
+"Conservancy","Conservancy_8","Mashi","SSP245_2050","Grazer-Mixed",1,11626,13112,1486,1486,12.7827839251818,12.7827839251818
+"Conservancy","Conservancy_8","Mashi","SSP245_2090","Browser-Mixed",1,20927,20565,-362,-362,-1.72873630341972,-1.72873630341972
+"Conservancy","Conservancy_8","Mashi","SSP245_2090","Grazer",2,2406,2947,541,541,24.4056270264154,24.4056270264154
+"Conservancy","Conservancy_8","Mashi","SSP245_2090","Grazer-Mixed",1,11264,12863,1600,1600,14.2017809138676,14.2017809138676
+"Conservancy","Conservancy_8","Mashi","SSP585_2050","Browser-Mixed",1,21100,20719,-382,-382,-1.80893474664288,-1.80893474664288
+"Conservancy","Conservancy_8","Mashi","SSP585_2050","Grazer",2,2520,3004,484,484,20.8127956968379,20.8127956968379
+"Conservancy","Conservancy_8","Mashi","SSP585_2050","Grazer-Mixed",1,11646,13058,1413,1413,12.1290179704668,12.1290179704668
+"Conservancy","Conservancy_8","Mashi","SSP585_2090","Browser-Mixed",1,19819,19433,-387,-387,-1.95156422111019,-1.95156422111019
+"Conservancy","Conservancy_8","Mashi","SSP585_2090","Grazer",2,2278,2775,497,497,23.7437532032402,23.7437532032402
+"Conservancy","Conservancy_8","Mashi","SSP585_2090","Grazer-Mixed",1,10668,12121,1453,1453,13.6211638138232,13.6211638138232
+"Conservancy","Conservancy_80","Ohungu","SSP245_2050","Browser-Mixed",1,44985,47135,2150,2150,4.77964257701471,4.77964257701471
+"Conservancy","Conservancy_80","Ohungu","SSP245_2050","Grazer",2,10835,14901,4066,4066,39.3063491547902,39.3063491547902
+"Conservancy","Conservancy_80","Ohungu","SSP245_2050","Grazer-Mixed",1,41145,54230,13085,13085,31.8020123310648,31.8020123310648
+"Conservancy","Conservancy_80","Ohungu","SSP245_2090","Browser-Mixed",1,43434,45399,1965,1965,4.5229543979537,4.5229543979537
+"Conservancy","Conservancy_80","Ohungu","SSP245_2090","Grazer",2,10429,14303,3874,3874,38.9197748628084,38.9197748628084
+"Conservancy","Conservancy_80","Ohungu","SSP245_2090","Grazer-Mixed",1,39642,52094,12451,12451,31.4093282783639,31.4093282783639
+"Conservancy","Conservancy_80","Ohungu","SSP585_2050","Browser-Mixed",1,43556,45647,2090,2090,4.79902736633581,4.79902736633581
+"Conservancy","Conservancy_80","Ohungu","SSP585_2050","Grazer",2,10497,14435,3938,3938,39.3020721045862,39.3020721045862
+"Conservancy","Conservancy_80","Ohungu","SSP585_2050","Grazer-Mixed",1,39854,52531,12677,12677,31.8075007297488,31.8075007297488
+"Conservancy","Conservancy_80","Ohungu","SSP585_2090","Browser-Mixed",1,40016,41830,1814,1814,4.53257868753093,4.53257868753093
+"Conservancy","Conservancy_80","Ohungu","SSP585_2090","Grazer",2,9607,13179,3572,3572,38.9516155958982,38.9516155958982
+"Conservancy","Conservancy_80","Ohungu","SSP585_2090","Grazer-Mixed",1,36519,47999,11480,11480,31.43605059278,31.43605059278
+"Conservancy","Conservancy_81","Maurus Nekaro","SSP245_2050","Browser-Mixed",1,58110,55255,-2855,-2855,-4.91359843662615,-4.91359843662615
+"Conservancy","Conservancy_81","Maurus Nekaro","SSP245_2050","Grazer",2,6770,8528,1758,1758,28.9517682475015,28.9517682475015
+"Conservancy","Conservancy_81","Maurus Nekaro","SSP245_2050","Grazer-Mixed",1,32062,36575,4513,4513,14.0762708842304,14.0762708842304
+"Conservancy","Conservancy_81","Maurus Nekaro","SSP245_2090","Browser-Mixed",1,57343,54364,-2979,-2979,-5.19489837992878,-5.19489837992878
+"Conservancy","Conservancy_81","Maurus Nekaro","SSP245_2090","Grazer",2,6706,8465,1759,1759,29.3729229521384,29.3729229521384
+"Conservancy","Conservancy_81","Maurus Nekaro","SSP245_2090","Grazer-Mixed",1,31688,36189,4501,4501,14.2025739893163,14.2025739893163
+"Conservancy","Conservancy_81","Maurus Nekaro","SSP585_2050","Browser-Mixed",1,56928,53120,-3807,-3807,-6.68815037908498,-6.68815037908498
+"Conservancy","Conservancy_81","Maurus Nekaro","SSP585_2050","Grazer",2,6633,7958,1325,1325,23.0905539595579,23.0905539595579
+"Conservancy","Conservancy_81","Maurus Nekaro","SSP585_2050","Grazer-Mixed",1,31415,34293,2879,2879,9.16358694617162,9.16358694617162
+"Conservancy","Conservancy_81","Maurus Nekaro","SSP585_2090","Browser-Mixed",1,54330,50610,-3720,-3720,-6.84683139996599,-6.84683139996599
+"Conservancy","Conservancy_81","Maurus Nekaro","SSP585_2090","Grazer",2,6356,7603,1247,1247,22.8228608872128,22.8228608872128
+"Conservancy","Conservancy_81","Maurus Nekaro","SSP585_2090","Grazer-Mixed",1,30028,32715,2687,2687,8.9480957555179,8.9480957555179
+"Conservancy","Conservancy_82","Kapinga kaMwalye","SSP245_2050","Browser-Mixed",1,67901,66248,-1653,-1653,-2.43431009785267,-2.43431009785267
+"Conservancy","Conservancy_82","Kapinga kaMwalye","SSP245_2050","Grazer",2,7483,9988,2505,2505,36.9205665909672,36.9205665909672
+"Conservancy","Conservancy_82","Kapinga kaMwalye","SSP245_2050","Grazer-Mixed",1,35832,43193,7361,7361,20.5416369283066,20.5416369283066
+"Conservancy","Conservancy_82","Kapinga kaMwalye","SSP245_2090","Browser-Mixed",1,66830,65220,-1610,-1610,-2.40836772602395,-2.40836772602395
+"Conservancy","Conservancy_82","Kapinga kaMwalye","SSP245_2090","Grazer",2,7334,9839,2505,2505,37.7228220315178,37.7228220315178
+"Conservancy","Conservancy_82","Kapinga kaMwalye","SSP245_2090","Grazer-Mixed",1,35155,42535,7379,7379,20.9900440129704,20.9900440129704
+"Conservancy","Conservancy_82","Kapinga kaMwalye","SSP585_2050","Browser-Mixed",1,66717,64091,-2626,-2626,-3.93646680264017,-3.93646680264017
+"Conservancy","Conservancy_82","Kapinga kaMwalye","SSP585_2050","Grazer",2,7353,9427,2074,2074,31.7337636245902,31.7337636245902
+"Conservancy","Conservancy_82","Kapinga kaMwalye","SSP585_2050","Grazer-Mixed",1,35208,40934,5726,5726,16.2636305072742,16.2636305072742
+"Conservancy","Conservancy_82","Kapinga kaMwalye","SSP585_2090","Browser-Mixed",1,63098,60576,-2522,-2522,-3.99707837883341,-3.99707837883341
+"Conservancy","Conservancy_82","Kapinga kaMwalye","SSP585_2090","Grazer",2,6924,8917,1992,1992,32.424132547328,32.424132547328
+"Conservancy","Conservancy_82","Kapinga kaMwalye","SSP585_2090","Grazer-Mixed",1,33192,38696,5504,5504,16.582759956596,16.582759956596
+"Conservancy","Conservancy_83","Otjindjerese","SSP245_2050","Browser-Mixed",1,39574,35538,-4036,-4036,-10.1984082172317,-10.1984082172317
+"Conservancy","Conservancy_83","Otjindjerese","SSP245_2050","Grazer",2,4502,10738,6235,6235,152.966071161462,152.966071161462
+"Conservancy","Conservancy_83","Otjindjerese","SSP245_2050","Grazer-Mixed",1,21271,39728,18457,18457,86.768701879628,86.768701879628
+"Conservancy","Conservancy_83","Otjindjerese","SSP245_2090","Browser-Mixed",1,38017,34102,-3914,-3914,-10.2963768791427,-10.2963768791427
+"Conservancy","Conservancy_83","Otjindjerese","SSP245_2090","Grazer",2,4253,10298,6045,6045,157.353447249671,157.353447249671
+"Conservancy","Conservancy_83","Otjindjerese","SSP245_2090","Grazer-Mixed",1,20202,38093,17891,17891,88.5600734186145,88.5600734186145
+"Conservancy","Conservancy_83","Otjindjerese","SSP585_2050","Browser-Mixed",1,38167,34275,-3892,-3892,-10.1976664146378,-10.1976664146378
+"Conservancy","Conservancy_83","Otjindjerese","SSP585_2050","Grazer",2,4342,10356,6014,6014,152.956394395245,152.956394395245
+"Conservancy","Conservancy_83","Otjindjerese","SSP585_2050","Grazer-Mixed",1,20515,38316,17800,17800,86.7645387937687,86.7645387937687
+"Conservancy","Conservancy_83","Otjindjerese","SSP585_2090","Browser-Mixed",1,36281,32545,-3735,-3735,-10.2952343929533,-10.2952343929533
+"Conservancy","Conservancy_83","Otjindjerese","SSP585_2090","Grazer",2,4059,9828,5769,5769,157.341465311264,157.341465311264
+"Conservancy","Conservancy_83","Otjindjerese","SSP585_2090","Grazer-Mixed",1,19281,36355,17074,17074,88.5565892511738,88.5565892511738
+"Conservancy","Conservancy_84","Nyae Nyae","SSP245_2050","Browser-Mixed",1,480063,421358,-58705,-58705,-12.2285530916663,-12.2285530916663
+"Conservancy","Conservancy_84","Nyae Nyae","SSP245_2050","Grazer",2,60827,148662,87835,87835,157.623481586187,157.623481586187
+"Conservancy","Conservancy_84","Nyae Nyae","SSP245_2050","Grazer-Mixed",1,276887,536464,259577,259577,93.7482280784134,93.7482280784134
+"Conservancy","Conservancy_84","Nyae Nyae","SSP245_2090","Browser-Mixed",1,468739,410734,-58005,-58005,-12.3747171516588,-12.3747171516588
+"Conservancy","Conservancy_84","Nyae Nyae","SSP245_2090","Grazer",2,57947,144735,86788,86788,163.935375874139,163.935375874139
+"Conservancy","Conservancy_84","Nyae Nyae","SSP245_2090","Grazer-Mixed",1,265895,522379,256484,256484,96.4604146873085,96.4604146873085
+"Conservancy","Conservancy_84","Nyae Nyae","SSP585_2050","Browser-Mixed",1,464936,408080,-56856,-56856,-12.2287710478318,-12.2287710478318
+"Conservancy","Conservancy_84","Nyae Nyae","SSP585_2050","Grazer",2,58906,143975,85069,85069,157.637499168356,157.637499168356
+"Conservancy","Conservancy_84","Nyae Nyae","SSP585_2050","Grazer-Mixed",1,268150,519553,251402,251402,93.7541841252894,93.7541841252894
+"Conservancy","Conservancy_84","Nyae Nyae","SSP585_2090","Browser-Mixed",1,440207,385733,-54474,-54474,-12.374658001618,-12.374658001618
+"Conservancy","Conservancy_84","Nyae Nyae","SSP585_2090","Grazer",2,54414,135919,81505,81505,163.954649826758,163.954649826758
+"Conservancy","Conservancy_84","Nyae Nyae","SSP585_2090","Grazer-Mixed",1,249692,490562,240870,240870,96.4671452531383,96.4671452531383
+"Conservancy","Conservancy_85","Ekango Lyomongwa","SSP245_2050","Browser-Mixed",1,64311,62751,-1560,-1560,-2.42638065991854,-2.42638065991854
+"Conservancy","Conservancy_85","Ekango Lyomongwa","SSP245_2050","Grazer",2,18151,21581,3430,3430,19.6072985848638,19.6072985848638
+"Conservancy","Conservancy_85","Ekango Lyomongwa","SSP245_2050","Grazer-Mixed",1,67829,78125,10295,10295,15.1783903159722,15.1783903159722
+"Conservancy","Conservancy_85","Ekango Lyomongwa","SSP245_2090","Browser-Mixed",1,62364,60803,-1561,-1561,-2.50285975621004,-2.50285975621004
+"Conservancy","Conservancy_85","Ekango Lyomongwa","SSP245_2090","Grazer",2,17459,20831,3371,3371,20.0420834571991,20.0420834571991
+"Conservancy","Conservancy_85","Ekango Lyomongwa","SSP245_2090","Grazer-Mixed",1,65338,75454,10116,10116,15.4821397456368,15.4821397456368
+"Conservancy","Conservancy_85","Ekango Lyomongwa","SSP585_2050","Browser-Mixed",1,62029,60524,-1505,-1505,-2.42569615867151,-2.42569615867151
+"Conservancy","Conservancy_85","Ekango Lyomongwa","SSP585_2050","Grazer",2,17510,20819,3310,3310,19.6117061059063,19.6117061059063
+"Conservancy","Conservancy_85","Ekango Lyomongwa","SSP585_2050","Grazer-Mixed",1,65431,75365,9934,9934,15.183089797059,15.183089797059
+"Conservancy","Conservancy_85","Ekango Lyomongwa","SSP585_2090","Browser-Mixed",1,59593,58100,-1492,-1492,-2.50447496545015,-2.50447496545015
+"Conservancy","Conservancy_85","Ekango Lyomongwa","SSP585_2090","Grazer",2,16682,19903,3222,3222,20.0455500763824,20.0455500763824
+"Conservancy","Conservancy_85","Ekango Lyomongwa","SSP585_2090","Grazer-Mixed",1,62429,72096,9667,9667,15.4840939866,15.4840939866
+"Conservancy","Conservancy_86","#Khoadi-//Hôas","SSP245_2050","Browser-Mixed",1,147111,147247,136,136,0.0921719037192589,0.0921719037192589
+"Conservancy","Conservancy_86","#Khoadi-//Hôas","SSP245_2050","Grazer",2,32715,50060,17345,17345,55.6597989293701,55.6597989293701
+"Conservancy","Conservancy_86","#Khoadi-//Hôas","SSP245_2050","Grazer-Mixed",1,127217,181056,53838,53838,42.3199864764258,42.3199864764258
+"Conservancy","Conservancy_86","#Khoadi-//Hôas","SSP245_2090","Browser-Mixed",1,140754,140954,201,201,0.142495353583782,0.142495353583782
+"Conservancy","Conservancy_86","#Khoadi-//Hôas","SSP245_2090","Grazer",2,31045,47876,16832,16832,56.9436532471746,56.9436532471746
+"Conservancy","Conservancy_86","#Khoadi-//Hôas","SSP245_2090","Grazer-Mixed",1,120925,173184,52259,52259,43.2156129137624,43.2156129137624
+"Conservancy","Conservancy_86","#Khoadi-//Hôas","SSP585_2050","Browser-Mixed",1,142548,142686,138,138,0.0966130419381984,0.0966130419381984
+"Conservancy","Conservancy_86","#Khoadi-//Hôas","SSP585_2050","Grazer",2,31709,48508,16800,16800,55.6192619242638,55.6192619242638
+"Conservancy","Conservancy_86","#Khoadi-//Hôas","SSP585_2050","Grazer-Mixed",1,123297,175442,52145,52145,42.2925973372824,42.2925973372824
+"Conservancy","Conservancy_86","#Khoadi-//Hôas","SSP585_2090","Browser-Mixed",1,131168,131309,141,141,0.107796259565638,0.107796259565638
+"Conservancy","Conservancy_86","#Khoadi-//Hôas","SSP585_2090","Grazer",2,28929,44594,15666,15666,56.8744357810677,56.8744357810677
+"Conservancy","Conservancy_86","#Khoadi-//Hôas","SSP585_2090","Grazer-Mixed",1,112690,161319,48628,48628,43.1524123618941,43.1524123618941
+"Conservancy","Conservancy_87","Joseph Mbambangandu","SSP245_2050","Browser-Mixed",1,2108,2045,-63,-63,-2.99398374533571,-2.99398374533571
+"Conservancy","Conservancy_87","Joseph Mbambangandu","SSP245_2050","Grazer",2,302,346,44,44,15.4374098825182,15.4374098825182
+"Conservancy","Conservancy_87","Joseph Mbambangandu","SSP245_2050","Grazer-Mixed",1,1352,1465,112,112,8.31537151893581,8.31537151893581
+"Conservancy","Conservancy_87","Joseph Mbambangandu","SSP245_2090","Browser-Mixed",1,2087,2055,-31,-31,-1.50387001870984,-1.50387001870984
+"Conservancy","Conservancy_87","Joseph Mbambangandu","SSP245_2090","Grazer",2,299,367,68,68,23.5783630509034,23.5783630509034
+"Conservancy","Conservancy_87","Joseph Mbambangandu","SSP245_2090","Grazer-Mixed",1,1338,1533,195,195,14.5965271198963,14.5965271198963
+"Conservancy","Conservancy_87","Joseph Mbambangandu","SSP585_2050","Browser-Mixed",1,2077,1933,-144,-144,-6.94547210411443,-6.94547210411443
+"Conservancy","Conservancy_87","Joseph Mbambangandu","SSP585_2050","Grazer",2,298,308,10,10,4.76487368401805,4.76487368401805
+"Conservancy","Conservancy_87","Joseph Mbambangandu","SSP585_2050","Grazer-Mixed",1,1333,1315,-17,-17,-1.30659388297693,-1.30659388297693
+"Conservancy","Conservancy_87","Joseph Mbambangandu","SSP585_2090","Browser-Mixed",1,1977,1851,-126,-126,-6.35240898295272,-6.35240898295272
+"Conservancy","Conservancy_87","Joseph Mbambangandu","SSP585_2090","Grazer",2,284,290,6,6,3.50942698477469,3.50942698477469
+"Conservancy","Conservancy_87","Joseph Mbambangandu","SSP585_2090","Grazer-Mixed",1,1267,1242,-25,-25,-1.99036672911087,-1.99036672911087
+"Conservancy","Conservancy_88","Impalila","SSP245_2050","Browser-Mixed",1,3054,3027,-27,-27,-0.882194641802678,-0.882194641802678
+"Conservancy","Conservancy_88","Impalila","SSP245_2050","Grazer",2,618,617,-1,-1,-0.0541756285008994,-0.0541756285008994
+"Conservancy","Conservancy_88","Impalila","SSP245_2050","Grazer-Mixed",1,2709,2698,-11,-11,-0.420078433224198,-0.420078433224198
+"Conservancy","Conservancy_88","Impalila","SSP245_2090","Browser-Mixed",1,3071,3041,-30,-30,-0.963599209361073,-0.963599209361073
+"Conservancy","Conservancy_88","Impalila","SSP245_2090","Grazer",2,603,601,-2,-2,-0.212963676645875,-0.212963676645875
+"Conservancy","Conservancy_88","Impalila","SSP245_2090","Grazer-Mixed",1,2663,2648,-15,-15,-0.573767658241303,-0.573767658241303
+"Conservancy","Conservancy_88","Impalila","SSP585_2050","Browser-Mixed",1,3086,3059,-27,-27,-0.882347045167358,-0.882347045167358
+"Conservancy","Conservancy_88","Impalila","SSP585_2050","Grazer",2,624,623,-1,-1,-0.0534046983193747,-0.0534046983193747
+"Conservancy","Conservancy_88","Impalila","SSP585_2050","Grazer-Mixed",1,2738,2726,-11,-11,-0.419615696289615,-0.419615696289615
+"Conservancy","Conservancy_88","Impalila","SSP585_2090","Browser-Mixed",1,2921,2893,-28,-28,-0.962526891552258,-0.962526891552258
+"Conservancy","Conservancy_88","Impalila","SSP585_2090","Grazer",2,574,572,-2,-2,-0.212733566832529,-0.212733566832529
+"Conservancy","Conservancy_88","Impalila","SSP585_2090","Grazer-Mixed",1,2534,2519,-15,-15,-0.573047892132902,-0.573047892132902
+"Conservancy","Conservancy_89","Kasika","SSP245_2050","Browser-Mixed",1,6292,6290,-2,-2,-0.0380617983592462,-0.0380617983592462
+"Conservancy","Conservancy_89","Kasika","SSP245_2050","Grazer",2,1547,1529,-18,-18,-1.18941033180645,-1.18941033180645
+"Conservancy","Conservancy_89","Kasika","SSP245_2050","Grazer-Mixed",1,6651,6594,-57,-57,-0.853443434281272,-0.853443434281272
+"Conservancy","Conservancy_89","Kasika","SSP245_2090","Browser-Mixed",1,6254,6253,-1,-1,-0.00949127065142442,-0.00949127065142442
+"Conservancy","Conservancy_89","Kasika","SSP245_2090","Grazer",2,1522,1518,-4,-4,-0.299845897218737,-0.299845897218737
+"Conservancy","Conservancy_89","Kasika","SSP245_2090","Grazer-Mixed",1,6571,6557,-14,-14,-0.214078410162667,-0.214078410162667
+"Conservancy","Conservancy_89","Kasika","SSP585_2050","Browser-Mixed",1,6358,6355,-2,-2,-0.038032907737289,-0.038032907737289
+"Conservancy","Conservancy_89","Kasika","SSP585_2050","Grazer",2,1563,1545,-18,-18,-1.18851874505956,-1.18851874505956
+"Conservancy","Conservancy_89","Kasika","SSP585_2050","Grazer-Mixed",1,6720,6662,-57,-57,-0.852800014407146,-0.852800014407146
+"Conservancy","Conservancy_89","Kasika","SSP585_2090","Browser-Mixed",1,5944,5943,-1,-1,-0.00947869880297055,-0.00947869880297055
+"Conservancy","Conservancy_89","Kasika","SSP585_2090","Grazer",2,1447,1442,-4,-4,-0.299449323514956,-0.299449323514956
+"Conservancy","Conservancy_89","Kasika","SSP585_2090","Grazer-Mixed",1,6246,6232,-13,-13,-0.213795072180811,-0.213795072180811
+"Conservancy","Conservancy_9","Ovitoto","SSP245_2050","Browser-Mixed",1,34419,30026,-4392,-4392,-12.761703268815,-12.761703268815
+"Conservancy","Conservancy_9","Ovitoto","SSP245_2050","Grazer",2,3740,10312,6572,6572,195.408627226373,195.408627226373
+"Conservancy","Conservancy_9","Ovitoto","SSP245_2050","Grazer-Mixed",1,17934,37356,19422,19422,108.297932482789,108.297932482789
+"Conservancy","Conservancy_9","Ovitoto","SSP245_2090","Browser-Mixed",1,32962,28755,-4206,-4206,-12.7615867709876,-12.7615867709876
+"Conservancy","Conservancy_9","Ovitoto","SSP245_2090","Grazer",2,3581,9875,6294,6294,195.406843398616,195.406843398616
+"Conservancy","Conservancy_9","Ovitoto","SSP245_2090","Grazer-Mixed",1,17175,35775,18600,18600,108.296943862887,108.296943862887
+"Conservancy","Conservancy_9","Ovitoto","SSP585_2050","Browser-Mixed",1,32839,28648,-4191,-4191,-12.7616649629883,-12.7616649629883
+"Conservancy","Conservancy_9","Ovitoto","SSP585_2050","Grazer",2,3568,9838,6270,6270,195.408040683272,195.408040683272
+"Conservancy","Conservancy_9","Ovitoto","SSP585_2050","Grazer-Mixed",1,17111,35641,18531,18531,108.297607413185,108.297607413185
+"Conservancy","Conservancy_9","Ovitoto","SSP585_2090","Browser-Mixed",1,30183,26331,-3852,-3852,-12.7615461570749,-12.7615461570749
+"Conservancy","Conservancy_9","Ovitoto","SSP585_2090","Grazer",2,3279,9043,5763,5763,195.406221513843,195.406221513843
+"Conservancy","Conservancy_9","Ovitoto","SSP585_2090","Grazer-Mixed",1,15727,32759,17032,17032,108.296599206481,108.296599206481
+"Conservancy","Conservancy_90","!Gawachab","SSP245_2050","Browser-Mixed",1,916,2168,1252,1252,136.732306590708,136.732306590708
+"Conservancy","Conservancy_90","!Gawachab","SSP245_2050","Grazer",2,165,796,630,630,589.252443392727,589.252443392727
+"Conservancy","Conservancy_90","!Gawachab","SSP245_2050","Grazer-Mixed",1,463,2693,2231,2231,482.124999216137,482.124999216137
+"Conservancy","Conservancy_90","!Gawachab","SSP245_2090","Browser-Mixed",1,735,1998,1262,1262,171.707228095964,171.707228095964
+"Conservancy","Conservancy_90","!Gawachab","SSP245_2090","Grazer",2,145,748,603,603,692.578018756376,692.578018756376
+"Conservancy","Conservancy_90","!Gawachab","SSP245_2090","Grazer-Mixed",1,369,2518,2149,2149,582.786739388615,582.786739388615
+"Conservancy","Conservancy_90","!Gawachab","SSP585_2050","Browser-Mixed",1,880,2084,1203,1203,136.661632214099,136.661632214099
+"Conservancy","Conservancy_90","!Gawachab","SSP585_2050","Grazer",2,159,765,606,606,588.995964631509,588.995964631509
+"Conservancy","Conservancy_90","!Gawachab","SSP585_2050","Grazer-Mixed",1,445,2588,2143,2143,481.902600759511,481.902600759511
+"Conservancy","Conservancy_90","!Gawachab","SSP585_2090","Browser-Mixed",1,660,1794,1134,1134,171.733501035557,171.733501035557
+"Conservancy","Conservancy_90","!Gawachab","SSP585_2090","Grazer",2,130,672,542,542,692.683554880762,692.683554880762
+"Conservancy","Conservancy_90","!Gawachab","SSP585_2090","Grazer-Mixed",1,331,2260,1929,1929,582.876169331889,582.876169331889
